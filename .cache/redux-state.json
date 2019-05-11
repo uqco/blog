@@ -3402,12 +3402,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-11T16:28:39.401Z",
+      "buildTime": "2019-05-11T17:32:32.756Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "78a3602db9e8177b8a54312b86dd5e32",
+        "contentDigest": "184a5e8ebd0ddd2964af27047b843d98",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -4513,7 +4513,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f09ed42388656c59018f5d62ee49abeb",
+        "contentDigest": "3f26781e69f94fc169bf6507508c8429",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -4524,9 +4524,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-05-11T13:49:28.966Z",
-      "accessTime": "2019-05-11T13:49:28.966Z",
-      "changeTime": "2019-05-11T13:49:28.966Z",
+      "modifiedTime": "2019-05-11T16:33:11.876Z",
+      "accessTime": "2019-05-11T16:33:11.876Z",
+      "changeTime": "2019-05-11T16:33:11.876Z",
       "birthTime": "2019-04-30T23:56:06.640Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content",
@@ -4541,13 +4541,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474977070690,
-      "atimeMs": 1557582568965.8235,
-      "mtimeMs": 1557582568965.8235,
-      "ctimeMs": 1557582568965.8235,
+      "atimeMs": 1557592391875.6162,
+      "mtimeMs": 1557592391875.6162,
+      "ctimeMs": 1557592391875.6162,
       "birthtimeMs": 1556668566639.5095,
-      "atime": "2019-05-11T13:49:28.966Z",
-      "mtime": "2019-05-11T13:49:28.966Z",
-      "ctime": "2019-05-11T13:49:28.966Z",
+      "atime": "2019-05-11T16:33:11.876Z",
+      "mtime": "2019-05-11T16:33:11.876Z",
+      "ctime": "2019-05-11T16:33:11.876Z",
       "birthtime": "2019-04-30T23:56:06.640Z"
     },
     "8a4c3808-d018-5743-955c-7699fb6baa5c": {
@@ -6564,7 +6564,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b13799721d96a0b1c10e4bd29fb7869f",
+        "contentDigest": "6c9072da53e1622044f796f761b7973d",
         "type": "Directory",
         "description": "Directory \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\"",
         "owner": "gatsby-source-filesystem"
@@ -6575,9 +6575,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-05-11T13:53:26.362Z",
-      "accessTime": "2019-05-11T13:53:26.362Z",
-      "changeTime": "2019-05-11T13:53:26.362Z",
+      "modifiedTime": "2019-05-11T17:29:07.084Z",
+      "accessTime": "2019-05-11T17:29:07.084Z",
+      "changeTime": "2019-05-11T17:29:07.084Z",
       "birthTime": "2019-05-11T13:48:54.075Z",
       "root": "C:\\",
       "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts",
@@ -6592,13 +6592,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 1688849860432507,
-      "atimeMs": 1557582806362.2083,
-      "mtimeMs": 1557582806362.2083,
-      "ctimeMs": 1557582806362.2083,
+      "atimeMs": 1557595747084.176,
+      "mtimeMs": 1557595747084.176,
+      "ctimeMs": 1557595747084.176,
       "birthtimeMs": 1557582534074.7659,
-      "atime": "2019-05-11T13:53:26.362Z",
-      "mtime": "2019-05-11T13:53:26.362Z",
-      "ctime": "2019-05-11T13:53:26.362Z",
+      "atime": "2019-05-11T17:29:07.084Z",
+      "mtime": "2019-05-11T17:29:07.084Z",
+      "ctime": "2019-05-11T17:29:07.084Z",
       "birthtime": "2019-05-11T13:48:54.075Z"
     },
     "3464e6cd-ec92-5893-ad93-160472defa2f": {
@@ -6648,7 +6648,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3effd9ca78499f05b72ddd7a8054d4ee",
+        "contentDigest": "45f096f56787d7150035788a43158e08",
         "type": "Directory",
         "description": "Directory \"content\\posts\\2019-05-12--basit-regresyon-devam\"",
         "owner": "gatsby-source-filesystem"
@@ -6661,7 +6661,7 @@
       "prettySize": "0 B",
       "modifiedTime": "2019-05-11T13:26:34.775Z",
       "accessTime": "2019-05-11T13:26:34.775Z",
-      "changeTime": "2019-05-11T13:26:34.775Z",
+      "changeTime": "2019-05-11T16:33:11.876Z",
       "birthTime": "2019-05-11T12:59:38.772Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content/posts",
@@ -6678,11 +6678,11 @@
       "ino": 1125899907009535,
       "atimeMs": 1557581194775.1455,
       "mtimeMs": 1557581194775.1455,
-      "ctimeMs": 1557581194775.1455,
+      "ctimeMs": 1557592391875.6162,
       "birthtimeMs": 1557579578771.5107,
       "atime": "2019-05-11T13:26:34.775Z",
       "mtime": "2019-05-11T13:26:34.775Z",
-      "ctime": "2019-05-11T13:26:34.775Z",
+      "ctime": "2019-05-11T16:33:11.876Z",
       "birthtime": "2019-05-11T12:59:38.772Z"
     },
     "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a": {
@@ -6737,7 +6737,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "c719229982ecfeeec89d7de0d11f9a1f",
+        "contentDigest": "485a25b7baacc284ecf9d09a743a0799",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\posts\\2019-05-12--basit-regresyon-devam\\index.md\"",
@@ -6747,11 +6747,11 @@
       "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
       "relativePath": "2019-05-12--basit-regresyon-devam/index.md",
       "extension": "md",
-      "size": 858,
-      "prettySize": "858 B",
-      "modifiedTime": "2019-05-11T14:19:48.774Z",
-      "accessTime": "2019-05-11T14:19:48.774Z",
-      "changeTime": "2019-05-11T14:19:48.774Z",
+      "size": 852,
+      "prettySize": "852 B",
+      "modifiedTime": "2019-05-11T17:31:10.402Z",
+      "accessTime": "2019-05-11T17:31:10.402Z",
+      "changeTime": "2019-05-11T17:31:10.402Z",
       "birthTime": "2019-05-11T13:05:24.688Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
@@ -6766,13 +6766,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 1688849860431896,
-      "atimeMs": 1557584388773.9229,
-      "mtimeMs": 1557584388773.9229,
-      "ctimeMs": 1557584388773.9229,
+      "atimeMs": 1557595870401.5146,
+      "mtimeMs": 1557595870401.5146,
+      "ctimeMs": 1557595870401.5146,
       "birthtimeMs": 1557579924687.5972,
-      "atime": "2019-05-11T14:19:48.774Z",
-      "mtime": "2019-05-11T14:19:48.774Z",
-      "ctime": "2019-05-11T14:19:48.774Z",
+      "atime": "2019-05-11T17:31:10.402Z",
+      "mtime": "2019-05-11T17:31:10.402Z",
+      "ctime": "2019-05-11T17:31:10.402Z",
       "birthtime": "2019-05-11T13:05:24.688Z"
     },
     "5141192e-926a-59af-b382-6c90d0859a08": {
@@ -6819,51 +6819,6 @@
       "mtime": "2019-05-11T13:26:34.780Z",
       "ctime": "2019-05-11T13:26:34.780Z",
       "birthtime": "2019-05-11T13:53:26.362Z"
-    },
-    "ce8591da-ccd9-5a88-a62e-e890b69409cd": {
-      "id": "ce8591da-ccd9-5a88-a62e-e890b69409cd",
-      "children": [
-        "42e5aa33-bffa-542f-8c64-e9ae79e8e526"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "090cfed10cd89c21eaea7044fa1763e3",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index2.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index2.md",
-      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\index2.md",
-      "extension": "md",
-      "size": 1405,
-      "prettySize": "1.41 kB",
-      "modifiedTime": "2019-05-11T14:19:42.094Z",
-      "accessTime": "2019-05-11T14:19:42.094Z",
-      "changeTime": "2019-05-11T14:19:42.094Z",
-      "birthTime": "2019-05-11T13:49:33.785Z",
-      "root": "C:\\",
-      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
-      "base": "index2.md",
-      "ext": ".md",
-      "name": "index2",
-      "relativeDirectory": "2019-04-05--yeni-risk-değerleme-teorileri",
-      "dev": 1445792768,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 2251799813852166,
-      "atimeMs": 1557584382093.9272,
-      "mtimeMs": 1557584382093.9272,
-      "ctimeMs": 1557584382093.9272,
-      "birthtimeMs": 1557582573785.3008,
-      "atime": "2019-05-11T14:19:42.094Z",
-      "mtime": "2019-05-11T14:19:42.094Z",
-      "ctime": "2019-05-11T14:19:42.094Z",
-      "birthtime": "2019-05-11T13:49:33.785Z"
     },
     "a4aff434-b446-5cd9-8586-eda970cfae0f": {
       "id": "a4aff434-b446-5cd9-8586-eda970cfae0f",
@@ -7177,14 +7132,59 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "42e5aa33-bffa-542f-8c64-e9ae79e8e526": {
-      "id": "42e5aa33-bffa-542f-8c64-e9ae79e8e526",
-      "children": [],
-      "parent": "ce8591da-ccd9-5a88-a62e-e890b69409cd",
+    "4897aa78-f1e0-563e-bf43-209a10ff7842": {
+      "id": "4897aa78-f1e0-563e-bf43-209a10ff7842",
+      "children": [
+        "1b723611-1a6d-5294-b19f-6a6648258228"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\n# Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n  \n  \n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır. **\n\n###  command kısmına aşağıdakileri yazın.\n     ls prc c prcy\n\n\n - **ls** : EKK (En küçük kareler yöntemi)\n - **prc** : kişi başı tüketim\n - **pry** : kişi başı gelir\n - **ls** komutu ile tahmin ediyoruz.\n - **plot** komutu ile grafik oluşturuyoruz.\n\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n",
+        "contentDigest": "0a26fdaf47498fced15f41ab576d8f6b",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
+      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
+      "extension": "md",
+      "size": 2402,
+      "prettySize": "2.4 kB",
+      "modifiedTime": "2019-05-11T17:30:59.310Z",
+      "accessTime": "2019-05-11T17:30:59.310Z",
+      "changeTime": "2019-05-11T17:30:59.310Z",
+      "birthTime": "2019-05-11T13:49:33.785Z",
+      "root": "C:\\",
+      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2251799813852166,
+      "atimeMs": 1557595859309.693,
+      "mtimeMs": 1557595859309.693,
+      "ctimeMs": 1557595859309.693,
+      "birthtimeMs": 1557582573785.3008,
+      "atime": "2019-05-11T17:30:59.310Z",
+      "mtime": "2019-05-11T17:30:59.310Z",
+      "ctime": "2019-05-11T17:30:59.310Z",
+      "birthtime": "2019-05-11T13:49:33.785Z"
+    },
+    "1b723611-1a6d-5294-b19f-6a6648258228": {
+      "id": "1b723611-1a6d-5294-b19f-6a6648258228",
+      "children": [],
+      "parent": "4897aa78-f1e0-563e-bf43-209a10ff7842",
+      "internal": {
+        "content": "\n## Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır.**\n\n**Command kısmına aşağıdakileri yazın**\n     ls prc c prcy\n\n- **ls** : EKK (En küçük kareler yöntemi)\n- **prc** : kişi başı tüketim\n- **pry** : kişi başı gelir\n- **ls** komutu ile tahmin ediyoruz.\n- **plot** komutu ile grafik oluşturuyoruz.\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n\n### Varsayımları Test\n> Ekk yaparken katsayılara ve hata terimine ilişkin varsayımları test ederiz. Aksi taktirde yapılan bu ekk'nın öngürüleri hatalı, saplamalı ve bilimsel olmaz.\n\n## Hata Terimine İlişkin Varsayımlar\n\nVarsayım 1 : Hata teriminin beklenen değeri 0'dır.\n$$\n  𝐸(𝑈_𝑖 )=0\n  $$\n\nBu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**\n\n![eq](image2.jpg)\n\n> Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;\n\n    H0 : Hatalar Normal Dağılmıştır.\n    H1 : Aksi durum\nBu durumda **Jarge-Bera** testinin prob değerinin **0.48** olarak görüyoruz, h0 hipotezini reddedemediğimiz için boş hipotez geçerli olur ve varsayımın geçerliliği sağlanmış olur.\n\nVarsayım 2 : Hata teriminin varyansı sabittir.",
         "type": "MarkdownRemark",
-        "contentDigest": "761e48c0ad6a52bec256af08e9c04e74",
+        "contentDigest": "ad3c30f0db262f4096b0f3bc1984c845",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -7201,10 +7201,10 @@
         "author": "İbrahim Karavaş"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n# Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n  \n  \n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır. **\n\n###  command kısmına aşağıdakileri yazın.\n     ls prc c prcy\n\n\n - **ls** : EKK (En küçük kareler yöntemi)\n - **prc** : kişi başı tüketim\n - **pry** : kişi başı gelir\n - **ls** komutu ile tahmin ediyoruz.\n - **plot** komutu ile grafik oluşturuyoruz.\n\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n",
-      "fileAbsolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index2.md",
+      "rawMarkdownBody": "\n## Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır.**\n\n**Command kısmına aşağıdakileri yazın**\n     ls prc c prcy\n\n- **ls** : EKK (En küçük kareler yöntemi)\n- **prc** : kişi başı tüketim\n- **pry** : kişi başı gelir\n- **ls** komutu ile tahmin ediyoruz.\n- **plot** komutu ile grafik oluşturuyoruz.\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n\n### Varsayımları Test\n> Ekk yaparken katsayılara ve hata terimine ilişkin varsayımları test ederiz. Aksi taktirde yapılan bu ekk'nın öngürüleri hatalı, saplamalı ve bilimsel olmaz.\n\n## Hata Terimine İlişkin Varsayımlar\n\nVarsayım 1 : Hata teriminin beklenen değeri 0'dır.\n$$\n  𝐸(𝑈_𝑖 )=0\n  $$\n\nBu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**\n\n![eq](image2.jpg)\n\n> Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;\n\n    H0 : Hatalar Normal Dağılmıştır.\n    H1 : Aksi durum\nBu durumda **Jarge-Bera** testinin prob değerinin **0.48** olarak görüyoruz, h0 hipotezini reddedemediğimiz için boş hipotez geçerli olur ve varsayımın geçerliliği sağlanmış olur.\n\nVarsayım 2 : Hata teriminin varyansı sabittir.",
+      "fileAbsolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
       "fields": {
-        "slug": "/yeni-risk-değerleme-teorileri/index2/",
+        "slug": "/yeni-risk-değerleme-teorileri/",
         "prefix": "2019-04-05",
         "source": "posts"
       }
@@ -7214,9 +7214,9 @@
       "children": [],
       "parent": "42863eef-b26b-5d3b-8af5-a0a626d9ac21",
       "internal": {
-        "content": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n>sa \r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
+        "content": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
         "type": "MarkdownRemark",
-        "contentDigest": "e9acee4bc96434b99083fca1af9c0a02",
+        "contentDigest": "19c22c55934c97babb0e8cbe905b488e",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -7233,7 +7233,7 @@
         "author": "ibrahim karavas"
       },
       "excerpt": "",
-      "rawMarkdownBody": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n>sa \r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
+      "rawMarkdownBody": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
       "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
       "fields": {
         "slug": "/basit-regresyon-devam/",
@@ -8018,10 +8018,10 @@
       "context": {
         "slug": "/how-this-blog-is-made/",
         "next": {
-          "id": "42e5aa33-bffa-542f-8c64-e9ae79e8e526",
+          "id": "1b723611-1a6d-5294-b19f-6a6648258228",
           "excerpt": "Genel Analize Devam Başlıkta söylenildiği gibi bir analiz için  burada  kullanacağımız eviews dosyasını indir. CDS primleri için gerekli…",
           "fields": {
-            "slug": "/yeni-risk-değerleme-teorileri/index2/",
+            "slug": "/yeni-risk-değerleme-teorileri/",
             "prefix": "2019-04-05",
             "source": "posts"
           },
@@ -8074,19 +8074,19 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e04971c4f8614dbf7070f370afc5480",
+        "contentDigest": "ede5ca1f2c8cb1a5cee05da0bcd1ed85",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /yeni-risk-değerleme-teorileri/index2/": {
-      "jsonName": "yeni-risk-degerleme-teorileri-index-2-eef",
-      "internalComponentName": "ComponentYeniRiskDegerlemeTeorileriIndex2",
-      "path": "/yeni-risk-değerleme-teorileri/index2/",
+    "SitePage /yeni-risk-değerleme-teorileri/": {
+      "jsonName": "yeni-risk-degerleme-teorileri-631",
+      "internalComponentName": "ComponentYeniRiskDegerlemeTeorileri",
+      "path": "/yeni-risk-değerleme-teorileri/",
       "component": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
       "componentChunkName": "component---src-templates-post-template-js",
       "context": {
-        "slug": "/yeni-risk-değerleme-teorileri/index2/",
+        "slug": "/yeni-risk-değerleme-teorileri/",
         "prev": {
           "id": "a78a97fe-b9d4-53ca-bfe7-1574a96cd5e8",
           "excerpt": "\n I wanted to have the freedom to publish my thoughts and the freedom to tinker with their presentation - without being limited by corporate…",
@@ -8124,12 +8124,12 @@
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
-      "id": "SitePage /yeni-risk-değerleme-teorileri/index2/",
+      "id": "SitePage /yeni-risk-değerleme-teorileri/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b80cd7964f489f679b059af472487fd6",
+        "contentDigest": "f01fd18a7061316079887d662a70be60",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -8462,10 +8462,10 @@
           },
           {
             "node": {
-              "id": "42e5aa33-bffa-542f-8c64-e9ae79e8e526",
+              "id": "1b723611-1a6d-5294-b19f-6a6648258228",
               "excerpt": "Genel Analize Devam Başlıkta söylenildiği gibi bir analiz için  burada  kullanacağımız eviews dosyasını indir. CDS primleri için gerekli…",
               "fields": {
-                "slug": "/yeni-risk-değerleme-teorileri/index2/",
+                "slug": "/yeni-risk-değerleme-teorileri/",
                 "prefix": "2019-04-05",
                 "source": "posts"
               },
@@ -8488,7 +8488,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "009acd15835f21c7a1e4c3a6bab8cf58",
+        "contentDigest": "bce01f4443b86ef8f1d7cc2a5d93752f",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -8708,7 +8708,8 @@
         "/bir-hikaye/",
         "/basit-regresyon-devam/",
         "/hikaye-devam/",
-        "/yeni-risk-değerleme-teorileri/index2/"
+        "/yeni-risk-değerleme-teorileri/index2/",
+        "/yeni-risk-değerleme-teorileri/"
       ],
       "49c73801-c988-59f6-9517-b611c419a8c5": [
         "/eviews10-kurulum/"
@@ -8848,6 +8849,12 @@
       ],
       "42b439fc-e3cd-5beb-8df2-6cf8ce169199": [
         "/basit-regresyon-devam/"
+      ],
+      "1b723611-1a6d-5294-b19f-6a6648258228": [
+        "/yeni-risk-değerleme-teorileri/"
+      ],
+      "4897aa78-f1e0-563e-bf43-209a10ff7842": [
+        "/yeni-risk-değerleme-teorileri/"
       ]
     },
     "connections": {
@@ -8884,7 +8891,7 @@
     "how-this-blog-is-made-445": "444/path---how-this-blog-is-made-445-43a-vjrK2123LhQTgIGuGo9Iszntwnc",
     "tag-yazilim-4d7": "263/path---tag-yazilim-4-d-7-b62-4F0aEA13QdsYRPpbWALLzhDD24",
     "tag-econometrics-19d": "693/path---tag-econometrics-19-d-b88-evxRaPDbMdFnvcwrp0aUwYX0Jw4",
-    "tag-eviews-regresyon-analizi-07a": "14/path---tag-eviews-regresyon-analizi-07-a-7aa-omScDYmFNgpLvXulnvt6BT8TemM",
+    "tag-eviews-regresyon-analizi-07a": "13/path---tag-eviews-regresyon-analizi-07-a-7aa-2XMTPUmrZDfe5yi09bzi3aLfcc",
     "tag-testimonies-db0": "223/path---tag-testimonies-db-0-73d-g74HMflNKSnymuAnlzjXY8TYjrw",
     "tag-ai-70f": "78/path---tag-ai-70-f-e46-kKCS69nHh2sRitWPbv0r34PYrE",
     "tag-whataboutism-817": "995/path---tag-whataboutism-817-2de-wWGDwN9eLM3jUrvYA4yCdjxH9o",
@@ -8898,11 +8905,12 @@
     "follow-bd0": "167/path---follow-bd-0-1be-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "tag-metafizik-deneme-acb": "191/path---tag-metafizik-deneme-acb-acb-wkTuZcqKWc89QZA51TsCjEtYkU",
-    "2-de0": "270/path---2-de-0-e4c-mblRVFgVpYUrdUiyiXj3GZ2Q8SQ",
+    "2-de0": "557/path---2-de-0-e4c-Sh0TuujNmvY6fF65I1ZwzBN2E0",
     "bir-hikaye-16c": "670/path---bir-hikaye-16-c-b65-rGiLSQoi04HhpHvv0A71YhmyIqo",
-    "basit-regresyon-devam-bd4": "880/path---basit-regresyon-devam-bd-4-7e6-XTBh5J0wFkQe66BvtjKhQQOUz8",
+    "basit-regresyon-devam-bd4": "813/path---basit-regresyon-devam-bd-4-7e6-bw938ylL1o8CJYTSST7KC2S1dU",
     "hikaye-devam-126": "792/path---hikaye-devam-126-d3a-ZLQFpN19eCFe4rOuibGlxeRG6Q",
-    "yeni-risk-degerleme-teorileri-index-2-eef": "742/path---yeni-risk-degerleme-teorileri-index-2-eef-df5-DPa4GpmNJcHy7lHcjoOL2irbOhA"
+    "yeni-risk-degerleme-teorileri-index-2-eef": "742/path---yeni-risk-degerleme-teorileri-index-2-eef-df5-DPa4GpmNJcHy7lHcjoOL2irbOhA",
+    "yeni-risk-degerleme-teorileri-631": "154/path---yeni-risk-degerleme-teorileri-631-980-OB4nL2SHO6XJ0Qv0uhpQX4p3p8"
   },
   "components": {
     "C:/Users/ibrah/Documents/blog/src/templates/TagTemplate.js": {
