@@ -12,7 +12,6 @@ Başlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.s
 
 >Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)
 
->sa 
 
 
 *Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*

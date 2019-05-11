@@ -34,8 +34,5 @@ module.exports = {
   gravatarImgMd5: "",
 
   /* Contact form email destination. */
-  contactPostAddress: "https://script.google.com/macros/s/AKfycbz6ofG6TtxhKkwaCXLSGvRdUtttsMQCZjoX7VuUUtzR506nJSlP/exec",
-
-  /* Email newsletter subscription link */
-  emailSubLink: "https://app.mailjet.com/widget/iframe/3L7J/b3u"
+  contactPostAddress: "https://script.google.com/macros/s/AKfycbz6ofG6TtxhKkwaCXLSGvRdUtttsMQCZjoX7VuUUtzR506nJSlP/exec"
 };
