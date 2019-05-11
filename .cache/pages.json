@@ -26,6 +26,11 @@
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",
+        "jsonName": "basit-regresyon-devam-bd4",
+        "path": "/basit-regresyon-devam/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
         "jsonName": "basit-regresyon-945",
         "path": "/basit-regresyon/"
     },
@@ -58,6 +63,11 @@
         "componentChunkName": "component---src-pages-follow-js",
         "jsonName": "follow-bd0",
         "path": "/follow/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "jsonName": "hikaye-devam-126",
+        "path": "/hikaye-devam/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",
@@ -138,5 +148,10 @@
         "componentChunkName": "component---src-pages-tags-js",
         "jsonName": "tags-275",
         "path": "/tags/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "jsonName": "yeni-risk-degerleme-teorileri-index-2-eef",
+        "path": "/yeni-risk-değerleme-teorileri/index2/"
     }
 ]

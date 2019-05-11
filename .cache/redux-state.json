@@ -2528,78 +2528,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "624c196c-30dd-59e4-bcdd-a6f980c0396f": {
-      "resolve": "C:/Users/ibrah/Documents/blog/node_modules/gatsby-plugin-google-analytics",
-      "id": "624c196c-30dd-59e4-bcdd-a6f980c0396f",
-      "name": "gatsby-plugin-google-analytics",
-      "version": "2.0.14",
-      "pluginOptions": {
-        "plugins": []
-      },
-      "nodeAPIs": [],
-      "browserAPIs": [
-        "onRouteUpdate"
-      ],
-      "ssrAPIs": [
-        "onRenderBody"
-      ],
-      "pluginFilepath": "C:/Users/ibrah/Documents/blog/node_modules/gatsby-plugin-google-analytics",
-      "packageJson": {
-        "name": "gatsby-plugin-google-analytics",
-        "description": "Gatsby plugin to add google analytics onto a site",
-        "version": "2.0.14",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "google analytics"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "f3b0a4fb4d6faaa9d0b3305ae3f1e2c1",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
     "0b42ce8f-6227-548d-8da6-bedf6d08965e": {
       "resolve": "C:/Users/ibrah/Documents/blog/node_modules/gatsby-plugin-manifest",
       "id": "0b42ce8f-6227-548d-8da6-bedf6d08965e",
@@ -3474,12 +3402,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-11T01:13:48.790Z",
+      "buildTime": "2019-05-11T13:55:15.649Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c01d648ed097b1915a919c6f8e926a9a",
+        "contentDigest": "343ff2be3932c4021ccdea014147a271",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -4585,7 +4513,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7b5ce1549229482b725800e0ac864912",
+        "contentDigest": "f09ed42388656c59018f5d62ee49abeb",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -4596,9 +4524,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-05-11T00:13:02.593Z",
-      "accessTime": "2019-05-11T00:13:02.593Z",
-      "changeTime": "2019-05-11T00:13:02.593Z",
+      "modifiedTime": "2019-05-11T13:49:28.966Z",
+      "accessTime": "2019-05-11T13:49:28.966Z",
+      "changeTime": "2019-05-11T13:49:28.966Z",
       "birthTime": "2019-04-30T23:56:06.640Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content",
@@ -4613,13 +4541,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474977070690,
-      "atimeMs": 1557533582593.256,
-      "mtimeMs": 1557533582593.256,
-      "ctimeMs": 1557533582593.256,
+      "atimeMs": 1557582568965.8235,
+      "mtimeMs": 1557582568965.8235,
+      "ctimeMs": 1557582568965.8235,
       "birthtimeMs": 1556668566639.5095,
-      "atime": "2019-05-11T00:13:02.593Z",
-      "mtime": "2019-05-11T00:13:02.593Z",
-      "ctime": "2019-05-11T00:13:02.593Z",
+      "atime": "2019-05-11T13:49:28.966Z",
+      "mtime": "2019-05-11T13:49:28.966Z",
+      "ctime": "2019-05-11T13:49:28.966Z",
       "birthtime": "2019-04-30T23:56:06.640Z"
     },
     "8a4c3808-d018-5743-955c-7699fb6baa5c": {
@@ -6558,6 +6486,756 @@
         "source": "posts"
       }
     },
+    "33b0c7b5-f008-5d8a-bab2-6914a340c700": {
+      "resolve": "C:/Users/ibrah/Documents/blog/node_modules/gatsby-plugin-google-analytics",
+      "id": "33b0c7b5-f008-5d8a-bab2-6914a340c700",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.14",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-57763287-6"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/ibrah/Documents/blog/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.14",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0ca659c8b3ee3c490e0320b08e3410d6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7f540a15-03d5-511a-990d-44775a827796": {
+      "id": "7f540a15-03d5-511a-990d-44775a827796",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b13799721d96a0b1c10e4bd29fb7869f",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
+      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-05-11T13:53:26.362Z",
+      "accessTime": "2019-05-11T13:53:26.362Z",
+      "changeTime": "2019-05-11T13:53:26.362Z",
+      "birthTime": "2019-05-11T13:48:54.075Z",
+      "root": "C:\\",
+      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts",
+      "base": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "ext": "",
+      "name": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "relativeDirectory": "",
+      "dev": 1445792768,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849860432507,
+      "atimeMs": 1557582806362.2083,
+      "mtimeMs": 1557582806362.2083,
+      "ctimeMs": 1557582806362.2083,
+      "birthtimeMs": 1557582534074.7659,
+      "atime": "2019-05-11T13:53:26.362Z",
+      "mtime": "2019-05-11T13:53:26.362Z",
+      "ctime": "2019-05-11T13:53:26.362Z",
+      "birthtime": "2019-05-11T13:48:54.075Z"
+    },
+    "3464e6cd-ec92-5893-ad93-160472defa2f": {
+      "id": "3464e6cd-ec92-5893-ad93-160472defa2f",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f085424351eea1697ce4e6a32d6cd28a",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\2019-05-11--hikaye-devam\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam",
+      "relativePath": "2019-05-11--hikaye-devam",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-05-11T12:35:15.877Z",
+      "accessTime": "2019-05-11T12:35:15.878Z",
+      "changeTime": "2019-05-11T12:35:15.877Z",
+      "birthTime": "2019-05-11T12:34:09.075Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts",
+      "base": "2019-05-11--hikaye-devam",
+      "ext": "",
+      "name": "2019-05-11--hikaye-devam",
+      "relativeDirectory": "",
+      "dev": 1445792768,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 9851624184981224,
+      "atimeMs": 1557578115877.7002,
+      "mtimeMs": 1557578115876.702,
+      "ctimeMs": 1557578115876.702,
+      "birthtimeMs": 1557578049074.7568,
+      "atime": "2019-05-11T12:35:15.878Z",
+      "mtime": "2019-05-11T12:35:15.877Z",
+      "ctime": "2019-05-11T12:35:15.877Z",
+      "birthtime": "2019-05-11T12:34:09.075Z"
+    },
+    "b7667ad4-39e1-547c-a692-e97813956f79": {
+      "id": "b7667ad4-39e1-547c-a692-e97813956f79",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3effd9ca78499f05b72ddd7a8054d4ee",
+        "type": "Directory",
+        "description": "Directory \"content\\posts\\2019-05-12--basit-regresyon-devam\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
+      "relativePath": "2019-05-12--basit-regresyon-devam",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-05-11T13:26:34.775Z",
+      "accessTime": "2019-05-11T13:26:34.775Z",
+      "changeTime": "2019-05-11T13:26:34.775Z",
+      "birthTime": "2019-05-11T12:59:38.772Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts",
+      "base": "2019-05-12--basit-regresyon-devam",
+      "ext": "",
+      "name": "2019-05-12--basit-regresyon-devam",
+      "relativeDirectory": "",
+      "dev": 1445792768,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907009535,
+      "atimeMs": 1557581194775.1455,
+      "mtimeMs": 1557581194775.1455,
+      "ctimeMs": 1557581194775.1455,
+      "birthtimeMs": 1557579578771.5107,
+      "atime": "2019-05-11T13:26:34.775Z",
+      "mtime": "2019-05-11T13:26:34.775Z",
+      "ctime": "2019-05-11T13:26:34.775Z",
+      "birthtime": "2019-05-11T12:59:38.772Z"
+    },
+    "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a": {
+      "id": "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a",
+      "children": [
+        "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d41d8cd98f00b204e9800998ecf8427e",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\2019-05-11--hikaye-devam\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam/index.md",
+      "relativePath": "2019-05-11--hikaye-devam/index.md",
+      "extension": "md",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-05-11T12:35:15.877Z",
+      "accessTime": "2019-05-11T12:35:15.877Z",
+      "changeTime": "2019-05-11T12:35:15.877Z",
+      "birthTime": "2019-05-11T12:35:15.877Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2019-05-11--hikaye-devam",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 6755399441164926,
+      "atimeMs": 1557578115876.702,
+      "mtimeMs": 1557578115876.702,
+      "ctimeMs": 1557578115876.702,
+      "birthtimeMs": 1557578115876.702,
+      "atime": "2019-05-11T12:35:15.877Z",
+      "mtime": "2019-05-11T12:35:15.877Z",
+      "ctime": "2019-05-11T12:35:15.877Z",
+      "birthtime": "2019-05-11T12:35:15.877Z"
+    },
+    "42863eef-b26b-5d3b-8af5-a0a626d9ac21": {
+      "id": "42863eef-b26b-5d3b-8af5-a0a626d9ac21",
+      "children": [
+        "97c99610-d026-5ecb-a184-76d38a07ed47"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d41d8cd98f00b204e9800998ecf8427e",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\2019-05-12--basit-regresyon-devam\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
+      "relativePath": "2019-05-12--basit-regresyon-devam/index.md",
+      "extension": "md",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2019-05-11T13:05:24.688Z",
+      "accessTime": "2019-05-11T13:05:24.688Z",
+      "changeTime": "2019-05-11T13:05:24.688Z",
+      "birthTime": "2019-05-11T13:05:24.688Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2019-05-12--basit-regresyon-devam",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1688849860431896,
+      "atimeMs": 1557579924687.5972,
+      "mtimeMs": 1557579924687.5972,
+      "ctimeMs": 1557579924687.5972,
+      "birthtimeMs": 1557579924687.5972,
+      "atime": "2019-05-11T13:05:24.688Z",
+      "mtime": "2019-05-11T13:05:24.688Z",
+      "ctime": "2019-05-11T13:05:24.688Z",
+      "birthtime": "2019-05-11T13:05:24.688Z"
+    },
+    "5141192e-926a-59af-b382-6c90d0859a08": {
+      "id": "5141192e-926a-59af-b382-6c90d0859a08",
+      "children": [
+        "106bdd24-1e46-5ad0-bc3c-3421b90a31b7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "82f1442e006063cedc148418f3387475",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\image2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\image2.jpg",
+      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\image2.jpg",
+      "extension": "jpg",
+      "size": 44775,
+      "prettySize": "44.8 kB",
+      "modifiedTime": "2019-05-11T13:26:34.780Z",
+      "accessTime": "2019-05-11T13:53:26.363Z",
+      "changeTime": "2019-05-11T13:26:34.780Z",
+      "birthTime": "2019-05-11T13:53:26.362Z",
+      "root": "C:\\",
+      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
+      "base": "image2.jpg",
+      "ext": ".jpg",
+      "name": "image2",
+      "relativeDirectory": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3377699720696465,
+      "atimeMs": 1557582806363.205,
+      "mtimeMs": 1557581194780.1318,
+      "ctimeMs": 1557581194780.1318,
+      "birthtimeMs": 1557582806362.2083,
+      "atime": "2019-05-11T13:53:26.363Z",
+      "mtime": "2019-05-11T13:26:34.780Z",
+      "ctime": "2019-05-11T13:26:34.780Z",
+      "birthtime": "2019-05-11T13:53:26.362Z"
+    },
+    "ce8591da-ccd9-5a88-a62e-e890b69409cd": {
+      "id": "ce8591da-ccd9-5a88-a62e-e890b69409cd",
+      "children": [
+        "42e5aa33-bffa-542f-8c64-e9ae79e8e526"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "068c4b5df9e7669d34b957ce1b5f75ce",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index2.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index2.md",
+      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\index2.md",
+      "extension": "md",
+      "size": 1146,
+      "prettySize": "1.15 kB",
+      "modifiedTime": "2019-05-11T13:54:52.767Z",
+      "accessTime": "2019-05-11T13:54:52.767Z",
+      "changeTime": "2019-05-11T13:54:52.767Z",
+      "birthTime": "2019-05-11T13:49:33.785Z",
+      "root": "C:\\",
+      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
+      "base": "index2.md",
+      "ext": ".md",
+      "name": "index2",
+      "relativeDirectory": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2251799813852166,
+      "atimeMs": 1557582892767.3772,
+      "mtimeMs": 1557582892767.3772,
+      "ctimeMs": 1557582892767.3772,
+      "birthtimeMs": 1557582573785.3008,
+      "atime": "2019-05-11T13:54:52.767Z",
+      "mtime": "2019-05-11T13:54:52.767Z",
+      "ctime": "2019-05-11T13:54:52.767Z",
+      "birthtime": "2019-05-11T13:49:33.785Z"
+    },
+    "a4aff434-b446-5cd9-8586-eda970cfae0f": {
+      "id": "a4aff434-b446-5cd9-8586-eda970cfae0f",
+      "children": [
+        "014b8d2b-d27f-52f7-8685-ff3263bd6257"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "82f1442e006063cedc148418f3387475",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2019-05-12--basit-regresyon-devam\\image2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/image2.jpg",
+      "relativePath": "2019-05-12--basit-regresyon-devam/image2.jpg",
+      "extension": "jpg",
+      "size": 44775,
+      "prettySize": "44.8 kB",
+      "modifiedTime": "2019-05-11T13:26:34.780Z",
+      "accessTime": "2019-05-11T13:26:34.780Z",
+      "changeTime": "2019-05-11T13:26:34.780Z",
+      "birthTime": "2019-05-11T13:26:32.043Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
+      "base": "image2.jpg",
+      "ext": ".jpg",
+      "name": "image2",
+      "relativeDirectory": "2019-05-12--basit-regresyon-devam",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1970324837142596,
+      "atimeMs": 1557581194780.1318,
+      "mtimeMs": 1557581194780.1318,
+      "ctimeMs": 1557581194780.1318,
+      "birthtimeMs": 1557581192043.2295,
+      "atime": "2019-05-11T13:26:34.780Z",
+      "mtime": "2019-05-11T13:26:34.780Z",
+      "ctime": "2019-05-11T13:26:34.780Z",
+      "birthtime": "2019-05-11T13:26:32.043Z"
+    },
+    "ef264f73-2963-5369-91de-c96a74ca59d8": {
+      "id": "ef264f73-2963-5369-91de-c96a74ca59d8",
+      "children": [
+        "e2a4f852-838c-5227-9619-8d8a97725780"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "88c6997c093cfdf36ae8dec7f160e590",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\eq1.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\eq1.JPG",
+      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\eq1.JPG",
+      "extension": "jpg",
+      "size": 107647,
+      "prettySize": "108 kB",
+      "modifiedTime": "2019-05-11T13:00:55.777Z",
+      "accessTime": "2019-05-11T13:51:47.372Z",
+      "changeTime": "2019-05-11T13:00:55.777Z",
+      "birthTime": "2019-05-11T13:51:47.371Z",
+      "root": "C:\\",
+      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
+      "base": "eq1.JPG",
+      "ext": ".JPG",
+      "name": "eq1",
+      "relativeDirectory": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4222124650828425,
+      "atimeMs": 1557582707372.0608,
+      "mtimeMs": 1557579655776.5542,
+      "ctimeMs": 1557579655776.5542,
+      "birthtimeMs": 1557582707371.0635,
+      "atime": "2019-05-11T13:51:47.372Z",
+      "mtime": "2019-05-11T13:00:55.777Z",
+      "ctime": "2019-05-11T13:00:55.777Z",
+      "birthtime": "2019-05-11T13:51:47.371Z"
+    },
+    "106bdd24-1e46-5ad0-bc3c-3421b90a31b7": {
+      "id": "106bdd24-1e46-5ad0-bc3c-3421b90a31b7",
+      "children": [],
+      "parent": "5141192e-926a-59af-b382-6c90d0859a08",
+      "internal": {
+        "contentDigest": "82f1442e006063cedc148418f3387475",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "0e413b79-f2bf-51e3-a4b1-17708843574e": {
+      "id": "0e413b79-f2bf-51e3-a4b1-17708843574e",
+      "children": [
+        "1e5eb547-a858-5318-9006-538fbf27f849"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "88c6997c093cfdf36ae8dec7f160e590",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2019-05-12--basit-regresyon-devam\\eq1.JPG\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/eq1.JPG",
+      "relativePath": "2019-05-12--basit-regresyon-devam/eq1.JPG",
+      "extension": "jpg",
+      "size": 107647,
+      "prettySize": "108 kB",
+      "modifiedTime": "2019-05-11T13:00:55.777Z",
+      "accessTime": "2019-05-11T13:00:55.777Z",
+      "changeTime": "2019-05-11T13:00:55.777Z",
+      "birthTime": "2019-05-11T13:00:55.595Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
+      "base": "eq1.JPG",
+      "ext": ".JPG",
+      "name": "eq1",
+      "relativeDirectory": "2019-05-12--basit-regresyon-devam",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907009540,
+      "atimeMs": 1557579655776.5542,
+      "mtimeMs": 1557579655776.5542,
+      "ctimeMs": 1557579655776.5542,
+      "birthtimeMs": 1557579655595.13,
+      "atime": "2019-05-11T13:00:55.777Z",
+      "mtime": "2019-05-11T13:00:55.777Z",
+      "ctime": "2019-05-11T13:00:55.777Z",
+      "birthtime": "2019-05-11T13:00:55.595Z"
+    },
+    "014b8d2b-d27f-52f7-8685-ff3263bd6257": {
+      "id": "014b8d2b-d27f-52f7-8685-ff3263bd6257",
+      "children": [],
+      "parent": "a4aff434-b446-5cd9-8586-eda970cfae0f",
+      "internal": {
+        "contentDigest": "82f1442e006063cedc148418f3387475",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "e2a4f852-838c-5227-9619-8d8a97725780": {
+      "id": "e2a4f852-838c-5227-9619-8d8a97725780",
+      "children": [],
+      "parent": "ef264f73-2963-5369-91de-c96a74ca59d8",
+      "internal": {
+        "contentDigest": "88c6997c093cfdf36ae8dec7f160e590",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "1e5eb547-a858-5318-9006-538fbf27f849": {
+      "id": "1e5eb547-a858-5318-9006-538fbf27f849",
+      "children": [],
+      "parent": "0e413b79-f2bf-51e3-a4b1-17708843574e",
+      "internal": {
+        "contentDigest": "88c6997c093cfdf36ae8dec7f160e590",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7": {
+      "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
+      "children": [],
+      "parent": "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "794efc17c7338fe3a1b2181d8873ac73",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": ""
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam/index.md",
+      "fields": {
+        "slug": "/hikaye-devam/",
+        "prefix": "2019-05-11",
+        "source": "posts"
+      }
+    },
+    "97c99610-d026-5ecb-a184-76d38a07ed47": {
+      "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
+      "children": [],
+      "parent": "42863eef-b26b-5d3b-8af5-a0a626d9ac21",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "e7704289251bbd8dd59f8f5e3bfaa136",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": ""
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
+      "fields": {
+        "slug": "/basit-regresyon-devam/",
+        "prefix": "2019-05-12",
+        "source": "posts"
+      }
+    },
+    "42e5aa33-bffa-542f-8c64-e9ae79e8e526": {
+      "id": "42e5aa33-bffa-542f-8c64-e9ae79e8e526",
+      "children": [],
+      "parent": "ce8591da-ccd9-5a88-a62e-e890b69409cd",
+      "internal": {
+        "content": "\n# Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n  \n  \n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır. **\n\n###  command kısmına aşağıdakileri yazın.\n     ls prc c prcy\n\n\n - **ls** : EKK (En küçük kareler yöntemi)\n - **prc** : kişi başı tüketim\n - **pry** : kişi başı gelir \n\n![image]()\n\nBu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\n  \n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\n\n  \n\n![e]()\n\n\n> Written with [StackEdit](https://stackedit.io/).\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "49e358e08abfdbddbeffab9beddcba6e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Yeni Risk Değerlendirme Teorileri",
+        "tags": [
+          "eviews, regresyon analizi,"
+        ],
+        "cover": "image.jpg",
+        "author": "İbrahim Karavaş"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n# Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n  \n  \n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır. **\n\n###  command kısmına aşağıdakileri yazın.\n     ls prc c prcy\n\n\n - **ls** : EKK (En küçük kareler yöntemi)\n - **prc** : kişi başı tüketim\n - **pry** : kişi başı gelir \n\n![image]()\n\nBu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\n  \n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\n\n  \n\n![e]()\n\n\n> Written with [StackEdit](https://stackedit.io/).\n",
+      "fileAbsolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index2.md",
+      "fields": {
+        "slug": "/yeni-risk-değerleme-teorileri/index2/",
+        "prefix": "2019-04-05",
+        "source": "posts"
+      }
+    },
+    "6a93a1a8-23d8-5e52-b7eb-ab38d0f76718": {
+      "id": "6a93a1a8-23d8-5e52-b7eb-ab38d0f76718",
+      "children": [
+        "cfb8528a-a69f-50b9-9647-cac9a55a6138"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b74736d55f52686fbbcd1ef9ab7dc436",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\image.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\image.jpg",
+      "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\image.jpg",
+      "extension": "jpg",
+      "size": 4564780,
+      "prettySize": "4.56 MB",
+      "modifiedTime": "2019-05-11T13:06:19.750Z",
+      "accessTime": "2019-05-11T13:53:26.359Z",
+      "changeTime": "2019-05-11T13:06:19.750Z",
+      "birthTime": "2019-05-11T13:53:26.346Z",
+      "root": "C:\\",
+      "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
+      "base": "image.jpg",
+      "ext": ".jpg",
+      "name": "image",
+      "relativeDirectory": "2019-04-05--yeni-risk-değerleme-teorileri",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5348024557513218,
+      "atimeMs": 1557582806359.2178,
+      "mtimeMs": 1557579979750.0042,
+      "ctimeMs": 1557579979750.0042,
+      "birthtimeMs": 1557582806346.25,
+      "atime": "2019-05-11T13:53:26.359Z",
+      "mtime": "2019-05-11T13:06:19.750Z",
+      "ctime": "2019-05-11T13:06:19.750Z",
+      "birthtime": "2019-05-11T13:53:26.346Z"
+    },
+    "cfb8528a-a69f-50b9-9647-cac9a55a6138": {
+      "id": "cfb8528a-a69f-50b9-9647-cac9a55a6138",
+      "children": [],
+      "parent": "6a93a1a8-23d8-5e52-b7eb-ab38d0f76718",
+      "internal": {
+        "contentDigest": "b74736d55f52686fbbcd1ef9ab7dc436",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "05d5b23a-fe6a-57e3-a29e-574853c0cb40": {
+      "id": "05d5b23a-fe6a-57e3-a29e-574853c0cb40",
+      "children": [
+        "42b439fc-e3cd-5beb-8df2-6cf8ce169199"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b74736d55f52686fbbcd1ef9ab7dc436",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content\\posts\\2019-05-12--basit-regresyon-devam\\image.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/image.jpg",
+      "relativePath": "2019-05-12--basit-regresyon-devam/image.jpg",
+      "extension": "jpg",
+      "size": 4564780,
+      "prettySize": "4.56 MB",
+      "modifiedTime": "2019-05-11T13:06:19.750Z",
+      "accessTime": "2019-05-11T13:06:19.750Z",
+      "changeTime": "2019-05-11T13:06:19.750Z",
+      "birthTime": "2019-05-11T13:04:10.249Z",
+      "root": "C:/",
+      "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
+      "base": "image.jpg",
+      "ext": ".jpg",
+      "name": "image",
+      "relativeDirectory": "2019-05-12--basit-regresyon-devam",
+      "dev": 1445792768,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899907010573,
+      "atimeMs": 1557579979750.0042,
+      "mtimeMs": 1557579979750.0042,
+      "ctimeMs": 1557579979750.0042,
+      "birthtimeMs": 1557579850248.6423,
+      "atime": "2019-05-11T13:06:19.750Z",
+      "mtime": "2019-05-11T13:06:19.750Z",
+      "ctime": "2019-05-11T13:06:19.750Z",
+      "birthtime": "2019-05-11T13:04:10.249Z"
+    },
+    "42b439fc-e3cd-5beb-8df2-6cf8ce169199": {
+      "id": "42b439fc-e3cd-5beb-8df2-6cf8ce169199",
+      "children": [],
+      "parent": "05d5b23a-fe6a-57e3-a29e-574853c0cb40",
+      "internal": {
+        "contentDigest": "b74736d55f52686fbbcd1ef9ab7dc436",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /tag/eviews-10/": {
       "jsonName": "tag-eviews-10-b3b",
       "internalComponentName": "ComponentTagEviews10",
@@ -6800,6 +7478,112 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /basit-regresyon-devam/": {
+      "jsonName": "basit-regresyon-devam-bd4",
+      "internalComponentName": "ComponentBasitRegresyonDevam",
+      "path": "/basit-regresyon-devam/",
+      "component": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/basit-regresyon-devam/",
+        "next": {
+          "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
+          "excerpt": "",
+          "fields": {
+            "slug": "/hikaye-devam/",
+            "prefix": "2019-05-11",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "",
+            "tags": null,
+            "cover": null
+          }
+        },
+        "source": "posts"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
+      "id": "SitePage /basit-regresyon-devam/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "49971ed97353668b5308a825a93a0378",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hikaye-devam/": {
+      "jsonName": "hikaye-devam-126",
+      "internalComponentName": "ComponentHikayeDevam",
+      "path": "/hikaye-devam/",
+      "component": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/hikaye-devam/",
+        "next": {
+          "id": "1bb57d25-86ea-5a5d-a074-863083b468a4",
+          "excerpt": "Daha önceki yazımızda basit regresyondan bahsetmiştik.  Bir an önce herkes programlara sarılıp bunu denemek istedi biliyorum.\nBenim…",
+          "fields": {
+            "slug": "/eviews10-kurulum/",
+            "prefix": "2019-05-01",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "E-views 10 Enterprise Kurulum",
+            "tags": [
+              "eviews10",
+              "yazılım",
+              "econometrics"
+            ],
+            "cover": {
+              "children": [
+                {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='400' height='267' viewBox='0 0 400 267' version='1'%3e%3cpath d='M11 8c-2 8-2 8 1 19l3 17 2 24c1 13 0 22-2 19A162 162 0 0 1 1 62c-1-1-1 9-1 28v29l3 5a186 186 0 0 1 14 23c3 3 3 4 2 5-1 2 0 5 5 13 3 4 5 16 3 17h-1l-2-3c-4-5-7-13-7-19 0-5 0-6-5-10-3-3-7-8-8-12l-3-6-1 24v25l4 7a137 137 0 0 1 13 27c4 10 6 15 5 16-1 2-3 0-9-8l-9-10-4-4v53l3 1 4 3 181 1h180v-64l1-110c-1-52 0-49-11-50a4370 4370 0 0 0-215-2c-3 0-3 0 0-17a1024 1024 0 0 0 3-24c-3 0-5 5-6 16 0 4-1 6-2 7v1l-1 1v6c1 1 0 7-1 9-2 2-5 1-5-1 0-5-2-6-3-2s-2 4-7 4h-12c-5 0-5 0-5-4 0-5 2-17 4-21l5-16h-6c-4 0-5 0-4 1 3 2 2 8-1 7-2 0-2-1-2-4V0H57v6a166 166 0 0 0 5 28l2 7H48V29l1-20 2-9h-8l-1 13c-2 21-2 22-7 16-2-3-3-6-3-11l-1-9-2-6c-1-3-1-3-8-3h-8l-2 8m347 89l1 39 1-39-1-40-1 40m-300 9c0 10-1 14-1 9 0-15-2-10-2 8 0 12 0 15 2 17l1 6c0 3 0 4 2 5h2v-1l1-2c1-1 1-1 1 2l1 4 1-6c-1-7 0-12 1-12v8l1 7 1-10c0-15 1-14 2 1 0 17 1 16 1-2 0-11 0-14-1-13-2 2-3 1-2-4 0-4 0-5-1-4l-1 7c0 11-1 8-1-6l-1-13-1 18-1 17-1 2-2 5v-45l1 18 1 18 1-25-1-25-1 6v6l-1-11-1-3-1 18m170-11l-1 3c-3-4-3-2-3 22l-1 18c0-5 0-6-2-6s-2 1-2 6c-1 12 0 18 2 18s2-1 2-5l1-5v5c0 4 0 5 2 5l1-8c0-6 0-7 1-5l1 7 1 6c2 0 2-1 2-11l1-10v21h8v-13l1-13v13c0 12 0 13 2 13s2-1 2-14l1-13v13c0 13 0 14 2 14 3-1 3-33 0-33-1 0-2 1-2 3-1 1-1-1-1-5l-1-7c-2 0-3 2-3 9v6l-1-13c0-12 0-12-2-11s-2 1-2-4c0-3-1-4-2-4l-2 18c0 25-1 24-1-2 0-21 0-22-2-22s-2 1-2 4m-140 6c0 7 0 8 2 8a3146 3146 0 0 0 9 3l-1 1h-1c-1 1 0 1 1 1 3 0 4-1 2-3-1-1 3-2 6-2 4 1 4 0 4-8v-9H88v9' fill='%23f9ebd2' fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 2.2222222222222223,
+                    "src": "/static/0e2da16a566d314bc306943d7d487aab/5387a/evi.jpg",
+                    "srcSet": "/static/0e2da16a566d314bc306943d7d487aab/12dae/evi.jpg 200w,\n/static/0e2da16a566d314bc306943d7d487aab/dd735/evi.jpg 400w,\n/static/0e2da16a566d314bc306943d7d487aab/5387a/evi.jpg 800w,\n/static/0e2da16a566d314bc306943d7d487aab/72446/evi.jpg 1200w,\n/static/0e2da16a566d314bc306943d7d487aab/0bf02/evi.jpg 1600w,\n/static/0e2da16a566d314bc306943d7d487aab/0313c/evi.jpg 2400w,\n/static/0e2da16a566d314bc306943d7d487aab/70d0c/evi.jpg 4810w",
+                    "srcWebp": "/static/0e2da16a566d314bc306943d7d487aab/97f69/evi.webp",
+                    "srcSetWebp": "/static/0e2da16a566d314bc306943d7d487aab/71432/evi.webp 200w,\n/static/0e2da16a566d314bc306943d7d487aab/0b198/evi.webp 400w,\n/static/0e2da16a566d314bc306943d7d487aab/97f69/evi.webp 800w,\n/static/0e2da16a566d314bc306943d7d487aab/e23e5/evi.webp 1200w,\n/static/0e2da16a566d314bc306943d7d487aab/48630/evi.webp 1600w,\n/static/0e2da16a566d314bc306943d7d487aab/76f7c/evi.webp 2400w,\n/static/0e2da16a566d314bc306943d7d487aab/2838e/evi.webp 4810w",
+                    "sizes": "(max-width: 800px) 100vw, 800px"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "prev": {
+          "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
+          "excerpt": "",
+          "fields": {
+            "slug": "/basit-regresyon-devam/",
+            "prefix": "2019-05-12",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "",
+            "tags": null,
+            "cover": null
+          }
+        },
+        "source": "posts"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
+      "id": "SitePage /hikaye-devam/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f0f2ee844dc16e52eac99684da2c8f7c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /eviews10-kurulum/": {
       "jsonName": "eviews-10-kurulum-8e8",
       "internalComponentName": "ComponentEviews10Kurulum",
@@ -6838,6 +7622,20 @@
             }
           }
         },
+        "prev": {
+          "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
+          "excerpt": "",
+          "fields": {
+            "slug": "/hikaye-devam/",
+            "prefix": "2019-05-11",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "",
+            "tags": null,
+            "cover": null
+          }
+        },
         "source": "posts"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
@@ -6848,7 +7646,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "44a9a6fb934bcd43463003ba1fe86c4c",
+        "contentDigest": "2810d43d2dca60812ddb0f5a4e4aa6e9",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -7198,6 +7996,22 @@
       "componentChunkName": "component---src-templates-post-template-js",
       "context": {
         "slug": "/how-this-blog-is-made/",
+        "next": {
+          "id": "42e5aa33-bffa-542f-8c64-e9ae79e8e526",
+          "excerpt": "Genel Analize Devam Başlıkta söylenildiği gibi bir analiz için  burada  kullanacağımız eviews dosyasını indir. CDS primleri için gerekli…",
+          "fields": {
+            "slug": "/yeni-risk-değerleme-teorileri/index2/",
+            "prefix": "2019-04-05",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "Yeni Risk Değerlendirme Teorileri",
+            "tags": [
+              "eviews, regresyon analizi,"
+            ],
+            "cover": null
+          }
+        },
         "prev": {
           "id": "da99f803-df22-5c70-8bcb-47446c186d6f",
           "excerpt": "\n A self driving car is going down a narrow path when suddenly a baby and an elderly person appear on the road. There is no time to stop and…",
@@ -7239,7 +8053,62 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6bf8f0ee7b15bf89c73d595cff041155",
+        "contentDigest": "7e04971c4f8614dbf7070f370afc5480",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /yeni-risk-değerleme-teorileri/index2/": {
+      "jsonName": "yeni-risk-degerleme-teorileri-index-2-eef",
+      "internalComponentName": "ComponentYeniRiskDegerlemeTeorileriIndex2",
+      "path": "/yeni-risk-değerleme-teorileri/index2/",
+      "component": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/yeni-risk-değerleme-teorileri/index2/",
+        "prev": {
+          "id": "a78a97fe-b9d4-53ca-bfe7-1574a96cd5e8",
+          "excerpt": "\n I wanted to have the freedom to publish my thoughts and the freedom to tinker with their presentation - without being limited by corporate…",
+          "fields": {
+            "slug": "/how-this-blog-is-made/",
+            "prefix": "2019-04-05",
+            "source": "posts"
+          },
+          "frontmatter": {
+            "title": "How this blog is made",
+            "tags": [
+              "meta",
+              "i-made-thing",
+              "web"
+            ],
+            "cover": {
+              "children": [
+                {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='400' height='180' viewBox='0 0 400 180' version='1'%3e%3cpath d='M0 16v16l5 5c5 5 7 7 19 13a63 63 0 0 0 23 7c5 2 14-2 17-5l5-4c2 0 6-5 7-7v-3c0-2 2-1 2 1l3 1c4 0 4 0 3 3 0 2 0 3 2 3l2-1 1-1h2c0-3 4-3 8-1 5 2 5 2 9 0 5-2 9-6 14-12l4-3 2-3 3-5 2-4 2-3 1-3 1-2c1 0 3-6 2-7-1-2-10-1-10 0 0 2-5 1-6 0l-22-1C80 0 80 0 81 2l-1 2-1 3c0 2 0 3-2 3l-1 2-2-1c-1 0-2-2-1-3h-3c-2 1-2 1-3-1l-1-2-1-2-1-3H0v16M150 2c0 3-6 16-11 24l-23 25-7 4A92 92 0 0 1 4 48l-4-3v4c0 5 0 5 8 10 6 4 15 9 25 13 3 2 9 3 13 3 10 2 10 2 2 10-9 8-10 8-10 3-1-5-3-7-9-7-4-1-4-1-2-3 1-2 1-2-2-2-5 0-5 1-2 2 2 1 2 1 0 1-2-1-3 0-3 1l-1 2c-4 2-5 12-2 14 4 3 17 2 17-1 0-2 4-1 5 1s12 3 15 0h9l9 1 9-1 2-1c2 0 2 0 1 1s-1 1 2 1 8 3 8 6l2 1c2 0 3 3 1 3l1 1 8 8 1 1 2 1c5 4 4 4-25 6a449 449 0 0 0 42 0l9 3h15c2 0 5-4 8-8 8-10 10-12 13-12s4 2 2 5l-2 4-3 3-4 5c-2 5-4 7-5 7-2 0-2 1 0 5 1 4-1 12-4 14-2 0-2 1-1 2v1c-1 0-2 0-1-1l-1-1-1 1h-4c-3-1-4-1-7 4l-4 6-1 3-2 4c-3 3-3 3-6 2h-3c0 1-3 2-7 2-5 2-18 1-19 0l1-1 2-1h-9c-1 1-3 0-4-1-4-1-5-1-3 1l1 2c-2 1-2 0-2-2l-1-1-1 3-3 1h-3l3 1h6l3 2 1 3h35a229 229 0 0 0 58-4c10 0 11 0 12 2s2 2 16 2c15 0 15 0 14-4 0-2 6-5 13-7l10-2c2-1 10 0 13 1 2 1 3 3 4 7l2 5h30l1-3c2-3 2-15 1-16l-3-2c-2-5-9-9-13-9-5 1-9-1-13-4l-3-3v-7c1-8 3-12 6-12l3-1c1-2-8-9-10-9s-4-2-6-6l-5-7-5-8 2-2 2-2c-1-1 2-5 3-4l5 3a211 211 0 0 0 50 20v-1c1 1 2 0 2-1l3-2 1-2 1-2 2-2c2-7 5-12 7-12s2 3-1 8l-2 7c1 1 0 2-1 4l-3 3-1 4-1 1-3 1h-2l7 2 2 1 1 1 2 1c1 1 1 1 1-1s1-1 17 3c18 4 20 5 21 11 1 3 0 5-1 7-3 5 1 12 8 12 5 1 7-1 10-7 4-9 6-11 13-13l6-2v-18l-1-37c-1-1-5 1-7 5l-2 4-2 3c-1 4-3 6-9 6-5-1-8-2-17-8l-7-2c-4 0-9-2-9-4 0-1 5 0 7 2l1 1-1-2-2-4-1-1-4-2-2-3 6-11 5-12c0-3-4-6-4-3v2c1 1-1 6-2 5l-1 1-1 2-2 3c0 2-6 10-7 10-2 0-2 0 0 1 5 2 7 8 5 13-5 9-16 8-20-1-1-4-1-6 3-10 2-3 2-3-3-3-3 0-4 0-4 2l2 1c2 0 2 0-1 2s-4 2-10-3l-4-2-1-1-4-5-4-4 8 2 8 2V42l-12-15c-7-3-21-5-31-3-7 1-7 1-9-9-2-8-2-8 3-12l4-3h-43a249 249 0 0 0-46 1l-6-1c-6 0-7 1-5 3 2 1-2 8-4 7-4-1-4-1-2-6l2-4h-7c-6 0-7 0-7 2m136 2c9 11 30 13 40 4 6-6 9-7 15-7h9c1-1-9-1-32-1h-35l3 4M29 2C9 4 5 6 3 13c0 4 3 10 11 17 9 9 10 10 14 7 3-2 11-3 14-1 1 2 1 2-2 2s-10 2-10 4l9 4 3 1c3 2 4 1 1-3l-1-4c1 0 4 3 5 7 2 3 4 4 10 2l3-1-2-5c-4-9 0-17 5-12 2 1 2 1 1-5l1-6c2 0 4 7 4 12l1 1 1-3c-2-6-2-7-1-7h5c3 1 3 1 3-2 0-2-1-2-3-2l-1-1-1-1-1 2v1l-2 1c-1 1-1 0-1-1l1-8c1-1 0-1-2-2l-3-1c-1-1-1 1-1 3v5l-2-3-1-5c0-2-2-2-4-1s-3 0-7-3c-5-4-5-4-21-3m63 15c-1 2 1 16 2 16l2 3 4 2c2 0 3 0 2-1l1-1h2c1 1 1 1 2-1 0-2 0-2 1-1s1 1 2-1c1-3 1-4-7-8-4-2-5-3-3-3h2l-2-3c-4-3-8-4-8-2m62 13l-1 2h2c0 3 6 6 11 6s12-3 12-5l-4-1-2-1h-2l-1-1c-1-2-2-2-4-2h-3c0-2-5-1-8 2m43-1c0 3 1 4 7 7a43 43 0 0 0 11 4h5c1-2 0-3-3-4l-4-1c-1-2-10-6-14-7-2-1-2-1-2 1m-44 10v7l1 3a62 62 0 0 0 1 9l1 2 7 7c0 1 1 2 2 1l1 1c0 3 2-1 4-7 6-22 6-20 1-21a167 167 0 0 1-16-2h-2m38 3l-4 4 4 4 4 6c4 2 7 8 5 12l-1 2-1 1v1c-1-1-1-1 0 0 0 2 0 2-1 1l-2 1 1 1h1l-2 1-4 4-1 3c3-1 2 0-1 3-2 2-4 4-5 9l-2 7 3 2c6 4 22-1 26-8l2-4 2-3h2v-2l1-1 3-1 3-1 2-2c3 0 7-2 4-2v-1c1-1 1-1-2-1l-3-1-2-1h-3l-1-3h2c9 5 17-7 11-14-2-3-3-3-8-3-4 1-5 0-5-1l-5-1c-5-1-7 1-7 5l-2 4c-1 1-1 1-1-1v-4l-1-1c-2 1-5-4-5-9-1-9-3-10-7-6m101 10l-1 8c-1 2-1 2-1-2 0-9-10-13-10-4l-1 6c-1 3 0 4 5 5 4 0 4 0 4 2h1c5-4 6-11 3-16l-1-3 1 4m-159 5c-3 4-7 6-16 8l-9 3a191 191 0 0 1-16 7h13l14 1c0 1 2 14 1 16l-2 1v2l-1 1-1-1-1-2-2 1c0 1-2 2-5 2l-12 3 3 1c2-1 3 0 3 1s2 4 4 4l1 1 4 1c4 0 5 1 3 2-1 1 1 4 3 4 2-1 2-5 0-5-1-1 0-1 2-1l4-1 10-1c10 0 11-1 4-4l-3-2h3c7 0 9-1 9-5l-2-2c-7 0-9-2-3-3 5 0 5 0 4-4l-3-3c-2 0-2-1-2-4 0-7 0-8-2-8l-1-2c1-1 0-4-1-5-2-2-2-3-1-4l1-4c-1-1-1-1-3 2m124 12c0 2 0 3-2 4-1 0-2 1-2 3v3l2-3 2-3 4 5c4 6 7 7 10 6 4-1 4-2 0-5l-6-5-7-9-1 4m50 23l-8 1-10 2c-1 2-1 2 9 6l6 3c0 2 3-3 3-5l2-2v-1l-1-2-1-2m37 15l-2 1c0 2-3 3-4 2l-1 1h-2v1c1 2 15 4 16 3l3-1 2-2v-2l-3-1c-3-2-7-3-9-2m-133 3l-6 1-6 1h-2l-2 1-1 1h-2l-1 1-3 2-4 2-1 1h-2c-3 0-5 2-3 4l-1 1-2-1c-1-2-5 0-7 2s-2 3 1 5l3 2 2 3 4 5a911 911 0 0 1 5 3c2-4 2-4 2 0-1 4 1 6 7 10s15-4 12-9v-2c2 0 2-1 0-6l-2-9c0-6 1-6 1 1 1 6 3 6 2 1 0-6 3-13 7-16 3-1 3-2 1-2-1-1-1-1 1-2l3-1h-3l-3 1m24 12c0 3-1 5-3 4l-1-3c0-3-9-1-13 4-2 2-2 10 0 10l1 2 3 1 2 1-5 2c-5 0-7 1-2 2 11 2 22-8 21-18-1-5-3-9-3-5m88 1l-4 1c-14 0-22 13-16 26 3 6 13 11 14 8v-2l-1 1c0 2-2 1-3-2-3-3-2-3 4 0l6 2v1c-2 1-2 1 0 1s7-5 10-9c2-4 1-11-3-15-3-2-3-3-1-4h2l2 1 2 1h1l-4-5c-6-5-11-8-9-5m-221 16c-7 2-11 3-13 5l-7 4h-4l-1-5c-3-12-6 0-4 14 1 4 1 4-2 4l-2 3-2-1-1-3 1 3c0 3-1 4-6 3-4 0-5-4-2-4l3-2 1-2 1-2-2-2c-2 0-2 0-1-2l-1-3c-2-1-2-1-2 3v4H40l4-2 5-1h-4c-3 0-4 0-5-2-3-5-5-3-5 4v5l1 1-2 1c-2 0-2 1-2 3s1 3 4 3c4 0 4 0 5-4 2-4 2-4 7-4h5l-1 1c-3 0-2 7 0 14 1 5 1 5 4 5s4-1 4-3c0-3 4-5 9-5l3-1 3-2c4-1 9-4 6-4l-1-5 1-5c1 1 2 2 2 5l1 4 7-2c4 0 5 0 4-2-2-6-1-7 9-9 11-1 10 0 10-8l-1-7-11 3' fill='%23f9ebd2' fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 2.2222222222222223,
+                    "src": "/static/be251d91347c97635ad287e9557af5d2/5387a/paul_zoetemeijer_machinery.jpg",
+                    "srcSet": "/static/be251d91347c97635ad287e9557af5d2/12dae/paul_zoetemeijer_machinery.jpg 200w,\n/static/be251d91347c97635ad287e9557af5d2/dd735/paul_zoetemeijer_machinery.jpg 400w,\n/static/be251d91347c97635ad287e9557af5d2/5387a/paul_zoetemeijer_machinery.jpg 800w,\n/static/be251d91347c97635ad287e9557af5d2/72446/paul_zoetemeijer_machinery.jpg 1200w,\n/static/be251d91347c97635ad287e9557af5d2/0bf02/paul_zoetemeijer_machinery.jpg 1600w",
+                    "srcWebp": "/static/be251d91347c97635ad287e9557af5d2/97f69/paul_zoetemeijer_machinery.webp",
+                    "srcSetWebp": "/static/be251d91347c97635ad287e9557af5d2/71432/paul_zoetemeijer_machinery.webp 200w,\n/static/be251d91347c97635ad287e9557af5d2/0b198/paul_zoetemeijer_machinery.webp 400w,\n/static/be251d91347c97635ad287e9557af5d2/97f69/paul_zoetemeijer_machinery.webp 800w,\n/static/be251d91347c97635ad287e9557af5d2/e23e5/paul_zoetemeijer_machinery.webp 1200w,\n/static/be251d91347c97635ad287e9557af5d2/48630/paul_zoetemeijer_machinery.webp 1600w",
+                    "sizes": "(max-width: 800px) 100vw, 800px"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "source": "posts"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
+      "id": "SitePage /yeni-risk-değerleme-teorileri/index2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b80cd7964f489f679b059af472487fd6",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -7300,6 +8169,38 @@
         "numPages": 2,
         "currentPage": 1,
         "initialPosts": [
+          {
+            "node": {
+              "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
+              "excerpt": "",
+              "fields": {
+                "slug": "/basit-regresyon-devam/",
+                "prefix": "2019-05-12",
+                "source": "posts"
+              },
+              "frontmatter": {
+                "title": "",
+                "tags": null,
+                "cover": null
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
+              "excerpt": "",
+              "fields": {
+                "slug": "/hikaye-devam/",
+                "prefix": "2019-05-11",
+                "source": "posts"
+              },
+              "frontmatter": {
+                "title": "",
+                "tags": null,
+                "cover": null
+              }
+            }
+          },
           {
             "node": {
               "id": "1bb57d25-86ea-5a5d-a074-863083b468a4",
@@ -7397,7 +8298,32 @@
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fe2f7a87c0bd7ae1a5c2fc212586987a",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2": {
+      "jsonName": "2-de0",
+      "internalComponentName": "Component2",
+      "path": "/2",
+      "component": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
+      "componentChunkName": "component---src-templates-index-js",
+      "context": {
+        "numPages": 2,
+        "currentPage": 2,
+        "initialPosts": [
           {
             "node": {
               "id": "63452099-ddfc-56f3-8669-8b4fa1759b8d",
@@ -7462,32 +8388,7 @@
                 }
               }
             }
-          }
-        ]
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
-      "id": "SitePage /",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d47163690355ddb98e1997ab2a17b94a",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2": {
-      "jsonName": "2-de0",
-      "internalComponentName": "Component2",
-      "path": "/2",
-      "component": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
-      "componentChunkName": "component---src-templates-index-js",
-      "context": {
-        "numPages": 2,
-        "currentPage": 2,
-        "initialPosts": [
+          },
           {
             "node": {
               "id": "a78a97fe-b9d4-53ca-bfe7-1574a96cd5e8",
@@ -7521,6 +8422,24 @@
                 }
               }
             }
+          },
+          {
+            "node": {
+              "id": "42e5aa33-bffa-542f-8c64-e9ae79e8e526",
+              "excerpt": "Genel Analize Devam Başlıkta söylenildiği gibi bir analiz için  burada  kullanacağımız eviews dosyasını indir. CDS primleri için gerekli…",
+              "fields": {
+                "slug": "/yeni-risk-değerleme-teorileri/index2/",
+                "prefix": "2019-04-05",
+                "source": "posts"
+              },
+              "frontmatter": {
+                "title": "Yeni Risk Değerlendirme Teorileri",
+                "tags": [
+                  "eviews, regresyon analizi,"
+                ],
+                "cover": null
+              }
+            }
           }
         ]
       },
@@ -7532,7 +8451,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0f3e434382138bed655f2b7bd4c4de89",
+        "contentDigest": "009acd15835f21c7a1e4c3a6bab8cf58",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -7749,7 +8668,10 @@
         "/ekonometri-nedir/",
         "/stop-bikeshedding-ai-ethics/",
         "/how-this-blog-is-made/",
-        "/bir-hikaye/"
+        "/bir-hikaye/",
+        "/basit-regresyon-devam/",
+        "/hikaye-devam/",
+        "/yeni-risk-değerleme-teorileri/index2/"
       ],
       "49c73801-c988-59f6-9517-b611c419a8c5": [
         "/eviews10-kurulum/"
@@ -7837,10 +8759,48 @@
         "/bir-hikaye/"
       ],
       "f689f537-395a-522d-8f48-f71de16a6d30": [
+        null,
         null
       ],
       "0aab225b-0997-538f-92ab-0f3e3931c205": [
+        null,
         null
+      ],
+      "5141192e-926a-59af-b382-6c90d0859a08": [
+        null
+      ],
+      "a4aff434-b446-5cd9-8586-eda970cfae0f": [
+        null
+      ],
+      "ef264f73-2963-5369-91de-c96a74ca59d8": [
+        null
+      ],
+      "0e413b79-f2bf-51e3-a4b1-17708843574e": [
+        null
+      ],
+      "6a93a1a8-23d8-5e52-b7eb-ab38d0f76718": [
+        null
+      ],
+      "05d5b23a-fe6a-57e3-a29e-574853c0cb40": [
+        null
+      ],
+      "97c99610-d026-5ecb-a184-76d38a07ed47": [
+        "/basit-regresyon-devam/"
+      ],
+      "42863eef-b26b-5d3b-8af5-a0a626d9ac21": [
+        "/basit-regresyon-devam/"
+      ],
+      "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7": [
+        "/hikaye-devam/"
+      ],
+      "42e5aa33-bffa-542f-8c64-e9ae79e8e526": [
+        "/yeni-risk-değerleme-teorileri/index2/"
+      ],
+      "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a": [
+        "/hikaye-devam/"
+      ],
+      "ce8591da-ccd9-5a88-a62e-e890b69409cd": [
+        "/yeni-risk-değerleme-teorileri/index2/"
       ]
     },
     "connections": {
@@ -7865,7 +8825,7 @@
   "jsonDataPaths": {
     "sq--src-components-footer-footer-js": 1074695665,
     "search-a73": "503/path---search-a-73-83d-VgjA19YAhk7fuI0xgLoZIV244",
-    "tags-275": "581/path---tags-275-fc0-nx5oxDLYLKmIEOk39ENVd5BnCMg",
+    "tags-275": "793/path---tags-275-fc0-opLDg6dX13APUvxiTVwn9UpQs",
     "success-ca5": "580/path---success-ca-5-7fb-ZHbSaR6K6q3XDEzl4TvDjh7e7Y",
     "about-f34": "787/path---about-f-34-4c2-cxuaypjIWlqtnq4UAEPyZVw50",
     "eviews-10-kurulum-8e8": "145/path---eviews-10-kurulum-8-e-8-f3d-H3HIrKiThFqxc9E6tqc39tYhBjk",
@@ -7877,22 +8837,25 @@
     "how-this-blog-is-made-445": "444/path---how-this-blog-is-made-445-43a-vjrK2123LhQTgIGuGo9Iszntwnc",
     "tag-yazilim-4d7": "263/path---tag-yazilim-4-d-7-b62-4F0aEA13QdsYRPpbWALLzhDD24",
     "tag-econometrics-19d": "693/path---tag-econometrics-19-d-b88-evxRaPDbMdFnvcwrp0aUwYX0Jw4",
-    "tag-eviews-regresyon-analizi-07a": "932/path---tag-eviews-regresyon-analizi-07-a-7aa-gzF3wyYmXqaRQ6pgy7NPdX7LWc",
+    "tag-eviews-regresyon-analizi-07a": "184/path---tag-eviews-regresyon-analizi-07-a-7aa-PSDZurRuFqogakiXiR8fUE7Nc4",
     "tag-testimonies-db0": "223/path---tag-testimonies-db-0-73d-g74HMflNKSnymuAnlzjXY8TYjrw",
     "tag-ai-70f": "78/path---tag-ai-70-f-e46-kKCS69nHh2sRitWPbv0r34PYrE",
     "tag-whataboutism-817": "995/path---tag-whataboutism-817-2de-wWGDwN9eLM3jUrvYA4yCdjxH9o",
     "tag-meta-f1c": "982/path---tag-meta-f-1-c-0a8-W82ModcH5RA0Jbu8vHJbLtMM",
     "tag-i-made-thing-f54": "0/path---tag-i-made-thing-f-54-264-XmoyVMQqL4RDwo8W3roOYeKmIk4",
     "tag-web-aac": "934/path---tag-web-aac-17d-Ba20H1cXO0y6QxHsUFXxce5DZY",
-    "index": "960/path---index-6a9-ISXpHfhlqtaF6OStbRFy4nprZlg",
+    "index": "557/path---index-6a9-vmzrF8tl5rImdfSSdSwh10e4z4",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "follow-bd0": "167/path---follow-bd-0-1be-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "tag-metafizik-deneme-acb": "191/path---tag-metafizik-deneme-acb-acb-wkTuZcqKWc89QZA51TsCjEtYkU",
-    "2-de0": "645/path---2-de-0-e4c-cMWvbAXHOqoMFRUkSNsjb1fZ6Zc",
-    "bir-hikaye-16c": "670/path---bir-hikaye-16-c-b65-rGiLSQoi04HhpHvv0A71YhmyIqo"
+    "2-de0": "270/path---2-de-0-e4c-mblRVFgVpYUrdUiyiXj3GZ2Q8SQ",
+    "bir-hikaye-16c": "670/path---bir-hikaye-16-c-b65-rGiLSQoi04HhpHvv0A71YhmyIqo",
+    "basit-regresyon-devam-bd4": "102/path---basit-regresyon-devam-bd-4-7e6-vAM4bzXbDJNY4F6qf7VTDzjhsyg",
+    "hikaye-devam-126": "792/path---hikaye-devam-126-d3a-ZLQFpN19eCFe4rOuibGlxeRG6Q",
+    "yeni-risk-degerleme-teorileri-index-2-eef": "567/path---yeni-risk-degerleme-teorileri-index-2-eef-df5-jRJQ3gUYVU7l1lEre5TDOZIo"
   },
   "components": {
     "C:/Users/ibrah/Documents/blog/src/templates/TagTemplate.js": {
