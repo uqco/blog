@@ -66,11 +66,6 @@
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",
-        "jsonName": "hikaye-devam-126",
-        "path": "/hikaye-devam/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
         "jsonName": "how-this-blog-is-made-445",
         "path": "/how-this-blog-is-made/"
     },
@@ -103,6 +98,11 @@
         "componentChunkName": "component---src-templates-tag-template-js",
         "jsonName": "tag-eviews-10-b3b",
         "path": "/tag/eviews-10/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "tag-eviews-jarge-bera-ekk-8e2",
+        "path": "/tag/eviews-jarge-bera-ekk/"
     },
     {
         "componentChunkName": "component---src-templates-tag-template-js",

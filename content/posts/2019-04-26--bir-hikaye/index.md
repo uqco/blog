@@ -2,7 +2,7 @@
 title: dodonoo
 tags: ["metafizik, deneme,"]
 cover: hakiye3.jpg
-author: İbrahim Karavas
+author: İbrahim Karavaş
 ---
 
 Mezopotamyanın kuzeyinde yer alan köyde ilginç olaylar serisi başlamıştı. E tabi düğünde başlıyor bunu unutmamak gerekir.

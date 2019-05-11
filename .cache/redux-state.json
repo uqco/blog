@@ -3402,12 +3402,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-11T17:32:32.756Z",
+      "buildTime": "2019-05-11T17:40:12.930Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "184a5e8ebd0ddd2964af27047b843d98",
+        "contentDigest": "db87e6e080617bc3d94702489a1166d2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -4513,7 +4513,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3f26781e69f94fc169bf6507508c8429",
+        "contentDigest": "d58b7a84dcb62ad07051d4ffae88ab4c",
         "type": "Directory",
         "description": "Directory \"content\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -4524,9 +4524,9 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2019-05-11T16:33:11.876Z",
-      "accessTime": "2019-05-11T16:33:11.876Z",
-      "changeTime": "2019-05-11T16:33:11.876Z",
+      "modifiedTime": "2019-05-11T17:39:46.138Z",
+      "accessTime": "2019-05-11T17:39:46.138Z",
+      "changeTime": "2019-05-11T17:39:46.138Z",
       "birthTime": "2019-04-30T23:56:06.640Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content",
@@ -4541,13 +4541,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 281474977070690,
-      "atimeMs": 1557592391875.6162,
-      "mtimeMs": 1557592391875.6162,
-      "ctimeMs": 1557592391875.6162,
+      "atimeMs": 1557596386138.054,
+      "mtimeMs": 1557596386138.054,
+      "ctimeMs": 1557596386138.054,
       "birthtimeMs": 1556668566639.5095,
-      "atime": "2019-05-11T16:33:11.876Z",
-      "mtime": "2019-05-11T16:33:11.876Z",
-      "ctime": "2019-05-11T16:33:11.876Z",
+      "atime": "2019-05-11T17:39:46.138Z",
+      "mtime": "2019-05-11T17:39:46.138Z",
+      "ctime": "2019-05-11T17:39:46.138Z",
       "birthtime": "2019-04-30T23:56:06.640Z"
     },
     "8a4c3808-d018-5743-955c-7699fb6baa5c": {
@@ -6141,7 +6141,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "e29eadf6b75211fb2bfc53cdf1d73ba7",
+        "contentDigest": "9d38a3371dde35599c360c3aef97eba4",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\posts\\2019-04-26--bir-hikaye\\index.md\"",
@@ -6151,11 +6151,11 @@
       "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-04-26--bir-hikaye/index.md",
       "relativePath": "2019-04-26--bir-hikaye/index.md",
       "extension": "md",
-      "size": 16071,
+      "size": 16072,
       "prettySize": "16.1 kB",
-      "modifiedTime": "2019-05-11T00:56:05.799Z",
-      "accessTime": "2019-05-11T00:56:05.799Z",
-      "changeTime": "2019-05-11T00:56:05.799Z",
+      "modifiedTime": "2019-05-11T17:39:09.546Z",
+      "accessTime": "2019-05-11T17:39:09.546Z",
+      "changeTime": "2019-05-11T17:39:09.546Z",
       "birthTime": "2019-05-10T23:54:54.007Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-04-26--bir-hikaye",
@@ -6170,13 +6170,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2814749767250393,
-      "atimeMs": 1557536165799.389,
-      "mtimeMs": 1557536165799.389,
-      "ctimeMs": 1557536165799.389,
+      "atimeMs": 1557596349545.92,
+      "mtimeMs": 1557596349545.92,
+      "ctimeMs": 1557596349545.92,
       "birthtimeMs": 1557532494007.3171,
-      "atime": "2019-05-11T00:56:05.799Z",
-      "mtime": "2019-05-11T00:56:05.799Z",
-      "ctime": "2019-05-11T00:56:05.799Z",
+      "atime": "2019-05-11T17:39:09.546Z",
+      "mtime": "2019-05-11T17:39:09.546Z",
+      "ctime": "2019-05-11T17:39:09.546Z",
       "birthtime": "2019-05-10T23:54:54.007Z"
     },
     "64c54380-109a-5d62-bf45-a5cc9faa6e5d": {
@@ -6454,38 +6454,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "63452099-ddfc-56f3-8669-8b4fa1759b8d": {
-      "id": "63452099-ddfc-56f3-8669-8b4fa1759b8d",
-      "children": [],
-      "parent": "e5eb0a14-4fd9-5fab-a22c-b82e49fcaaa9",
-      "internal": {
-        "content": "\r\nMezopotamyanın kuzeyinde yer alan köyde ilginç olaylar serisi başlamıştı. E tabi düğünde başlıyor bunu unutmamak gerekir.\r\n\r\n![hikaye](hakiye3.jpg)\r\n\r\nCemal iki katlı bir viranenin üst katında çoban göçmeni olarak yaşıyor. İlk katı ahır olan evin, geceleri dışarı çıkılması zor olan bu muhitin de inanması güç olan efsaneler,  geceleri televizyon olmaması sebebiyle hızla yayılıyor ve hayaller gerçeklerin önüne geçmeye başlıyordu ki cemal sıkılıp aşağıya indi.\r\n\r\nAllahtan korkuyor. Ama bir yaratıktan da korkacağı hiç aklına gelmemişti. Komşu hacı Halil’in viranesinde koyunların meeelemesi diğer meeelemeler gibi değildi. Aslında duyduğu bir iniltiydi. Hızla gelen bir trenin tuvaletindeki acil durum sifonunu çeken bir velet yüzünden ani frenin trenin demirlere yükü ve sürtünmesi ile oluşan o iniltinin bir benzeriydi.\r\n\r\nAma ahırda tren ne gezer.\r\n\r\nAldırmadı ama sigarasını yakmayıda ihmal etmedi. Sıkıntı sigarasıydı bu yaktığı. İniltinin geldiği hacı halilin viranesinin aksi yönünde ilerlemeye başlamıştı ki inltilerin artık bir karın tokluğu geğirine dönüştüğü o tuhaf sesi duydu.\r\n\r\n![image](hikaye2.jpg)\r\nBu sesle biraz irkildi ve elindeki sigara yeri düştü. Sigarayı almak için eğildi ama yerler ıslaktı.\r\n\r\nİçinden okkalı bir küfür salladı ve aksi yönde ilerlemeye devam etti.\r\n\r\nAyaklarının altında ki dere ove nin sesi kalbinde mutluluk kanlarının pompalanmasına sebep oldu ve bir sigara daha yaktı.\r\n\r\nBu yaktığıda mutluluk sigarasıydı.\r\n\r\n-Eh bu seste fazla oldu dedi içinden ergenleğinin verdiği cesaret sesinini dinleyerek ahıra yöneldi.\r\n\r\nBir nefes çekti ve adımlarının hızlaştırarak ilerlemeye devam etti.\r\n\r\nAhırın kapısını açtı.\r\n\r\nSamanlar kan revan içinde iki koyunun boğazından çıkan kanların gırtlakla temasında ki  o ses de,  bir an kurban bayramını hatırladı ama durumun vahametinin farkına vardı ve hemen ahırın kapısını kapattı korkuyla sigarası yine düştü bu korkuyla beraber.\r\n\r\nCemalin sigarasını düşüren tek şey korkuydu. Kapı kapandıktan hemen sonra arkasında iğrenç mahluk u gördü ve korkunun ne demek olduğu o muallak saniyeler de anladı ve kısa sürecek hayatının bu andan sonrasını\r\nBu saniyeleri düşünerek geçirecekti.\r\n\r\nO şey az önce canı sıkıldığı için viranenin damında çayla birlikte götürülen efsanede anlatılan mahluktu.\r\n\r\nİki saniyede bunları nasıl düşündüyse benim de 2 dakikada bunları yazmamda aynı şey.\r\n\r\nAraya Hüseyin girmese belki daha da ilginçleşecek hikayemiz ama verdiği pnr numarasını pax sisteminde yazarak çıkardığım etiketin yazıcıdan çıkarkenki zzzzzz sesi beni biraz motive etti. Aslına bakarsanız yandaki ofisteki arkadaşın açtığı\r\n müziğinde etkisi vardı.\r\n\r\nHoş geldin bahar hoş geldin dostum şarkı sözleri motivemi arttırdı.\r\n\r\n-Memelerinin yere sürtmesi nedir abi?\r\n-Vallahi gördüm memeleri yere sürtüyordu?\r\n-Abı sen dün cidden çayı fazla kaçırdın demek\r\n-Yemin billah Halil sende bana inanmazsan ben ne yaparım?  Delimi oluyorum yoksa?\r\n-yok ağabey estağfurullah…\r\n\r\nCemalin hacı Halil den duyduğu bu sözler aklına rüyamı gördüm yoksa deliriyor muyum? sorusunu dedirtti\r\nAma bu olanaksızdı rüyada hissedemesin. Ama bunu düşündükçe gece rüyalanmalarından sonra aldığı duş aklına gelir ve hissetmediysem cünup olmam olanaksız mantığını yürütüyor ve gördüğü mahlukun bir rüya\r\nObjesi olmadığına bir daha inanmaya başlıyordu.\r\n\r\nHacı Halil ile bu konuşması ikisi arasında dere ove ye kadar susmalarına sebep oldu.\r\n\r\nDere ove köyün altından geçen debisi bir hayli yüksek köylülerin dere ove dediği ancak kayıtlarda köylülerin duymadığı bir isim olan atamersin nehri idi.\r\n\r\nKış aylarında balık tutulur . Yaz aylarında da köylüler  güneşin sıcaklığından sarı olan saçları az da olsa serinletmek için debisi yüksek olan dere ove ye beyaz köprüden atlar, 6 km ötedeki köy korucularının yuvalandığı pempe köprüye kadar kendilerini akıntıya bırakır böylece nehiri arkalarına alarak güneşe meydan okumaya çalılşırlardı.\r\n\r\nHacı Halil bu sessizliği bozarak bağırdı;\r\n\r\n-Cemal Bak\r\nAz ileride Cemallerin arsası olan lehke silme de ki totem  köyünden iki genç yerde yatıyor ama kıpırdamıyorlardı.\r\n\r\nCemal omuz silkti. Çünkü bunlar İbrahim ve Adem Mihrap kardeşlerdi. Onlarla daha iki gün önce dere ove  de kavga etmişti . Ama kavga Cemalin Mihrap ailesine saygısından sadece sözlü olarak ufak bir tartişmaydı aslında.\r\n\r\nMihrap ailesi yedi kişilik geniş bir ailedir. Geçmişlerinde çok acılar çekmiş çok kazık yemişler ancak bu kazıklar evin reisi olan Mihrap kardeşlerinin babası Ferruh u çok fazla düşünmeye ve bunun sonucu olarak tüm kazıklardan ders çıkararak \r\nÇocukların tamamını okutmaya adamıştı kendisini. \r\n\r\nBunun için devletin koyduğu kuralı ve hatta köyün yoğun psikolojik baskısına göğüs germiş ve tüm çocuklarının okutmuştu.\r\n\r\n![hikaye](hikaye1.jpg)\r\n\r\nİbrahim ve adem in üç ablası da üniversiteyi okumuştur. Fakat İbrahim ve adem sadece liseyi okumuş ve aile yapısı diğer köylülerden farklı bir yapıya dönüşmüştür. \r\n\r\nMihrap ailesi kozmopolit bir aile yapısına sahipti. Diğer viranelerde kızların kesinlikle söz hakkı yokken Mihrap ailesinde evi yöneten aslında kızlardı. Çok zeki ve eğitimli olmalarının  hasebiyle diğer viranelerde erkek çocuklar\r\nBüyük ablaları her istediğini yaptırırken Mihrap ailesinde bu mümkün değildi . Ama buna rağmen Mihrap ailesinin mutluluğu tüm köyün imrenerek bakmasına sebep oluyordu. \r\n\r\nMihrap ailesinin kızları köyün ilk yüksek okul okuyan kızları olması ve okuduktan sonra da köyde atılım yaratmaları devletin dikkatinin çekmiş ve devlet bunun aksinin doğması için çok çaba sarf etmiştir.\r\n\r\nÖnceden devlet kızları başınıza bela olurlar orospu olurlar ve bunları askerler aracılığıyla köy halkına ulaştırması halk üzerinde takdire şayan bir başarı göstermiş, b,ir taşla iki kuş vurmuş ve hiçbir aile kızları ve hatta hiçbir çocuğunu okutmamaya karar vermiştir.\r\n\r\nAncak Mihrap ailesinin en büyüğü olan Resul un – hacıbaba diye tanınırdı- tüm torunlara daha çocuk yaşta yoğun dini eğitim vermesi çocuklarının kuran ahlakı ile ahlaklanmasına sebep oldu. \r\n\r\nErkeklerden farklı olarak kızlar okumaya kendilerini adadılar.\r\n\r\nİlk kuranı bitirdiler ardından nehçıran ı ardından mevlutu ardında da okula başladılar. \r\n\r\nOkulda büyük başarılar göstererek il birinciğini asla bırakmadılar ilkokul boyunca.\r\nAslında lise yılları da bundan farklı değildi ancak şehrin en büyük aşiret reisi erkek çocuğunu tüm lise hayatı boyunca topu topuna bir iki ay okula giden oğlanı sınavsız üniversiteye sokmak için kızların önüne kesmiş ve kızlar ikinci olmuştu.\r\n\r\nAma bu bile yıldırmamış üniversite sınavında daha büyük bir başarı göstererek ülkede ilk yüz e girmeyi başarmışlardır.\r\n\r\nCemal yerde yatmış olan İbrahim ve ademin yanına hareketlendi ve biraz daha yaklaşınca kırmızı sıvı başını döndürdü. \r\nBu kandı. \r\n\r\nYerde çok fazla kan ve ileride ki çalılıkta bir şeyler oynuyordu.\r\n\r\nHacı Halil çalılığa doğru yürümeye başladı cemal de çocukların nabzına baktı ikisinde yaşıyordu. \r\n\r\nİbrahim boğazından ağır yaralıydı ademin ise kasıkların çok fazla kan akıyordu.\r\n\r\nCemal bir haykırışla irkildi. Hacı Halil den geliyordu bu ses. Hemen ayağa kalktı ve dün gördüğü yaratığı rüya olmadığını şimdide karşısında olması ona gerçek duygusu tattırdı.\r\n\r\nHacı Halil in kafası dün gece ki yaratığın ağzındaydı . Cemal korktu kaçmaya başlayacaktı ki köy çok fazla uzaktı. Kune pire hacı Halil i n kafasını ağzında tutuyor ve cemale doğru yaklaşıyordu..\r\n\r\n## Derinlik\r\n-Birinin ölmesi gerekiyorsa bu ölüm defterine yazılır.\r\n-İsmi yazılan kişinin  ne zaman öleceği 6 dakika içinde belirtilmezse kişi kırk dakika içinde ölür.\r\n-Ölüm nedeni belirtilmeyen kişi kalp krizinden ölür. \r\n-İsmi yazılan kişi ismi yazılırken, ismi yazan kişi ölecek kişinin yüzüne bakarak yazması  gerekir. Bu aynı isimdeki kişilerin ayırt edilmesi için konulan bir kuraldır.\r\nBunlar tanrının koyduğu kurallar..\r\n\r\n![hikaye](hikaye4.jpg)\r\n\r\nÖlüm meleğinin canı sıkılmıştı. Çünkü ölüm meleği diyarı pek sıkıcıydı. Diyarda ölüm meleklerinin sayısı çok az ve zaman kavramı olmadığından kimse yok olmuyordu. Yok olmaları için belli prensiplerin bilinmesi gerekiyordu. \r\nVe bu prensipleri bilen tek varlık ölüm meleği tanrısıydı.\r\n\r\nÖlüm meleğinin canı çok sıkılmıştı. Çünkü Ölüm meleği diyarı çürüyordu. Diğer tüm ölüm melekleri artık çok pasif ve uyuşuk olmuş ölüm defterinin hakkını vermiyorlardı.\r\n\r\nCanın sıkılan ölüm meleği kendisinde iki tane olan ölüm defterinin insanların dünyasına atmaya karar verdi ve attı.\r\nDefter Boğaziçi üniversitesi fen bilimleri fakültesi bahçesine düştü. Daha havadayken yere süzülüşünü camdan bakan Kurban gördü. \r\nDefterinin düştüğü vakitte fizik dersi olmalı kı kurbanın cama bakması şans olmasa gerekti. Aradan biraz vakit geçti ve hoca ders i bitirdi. Kurban defteri unutmuştu aklına bile gelmedi. Ama yurda gitmek için eve gitmeye hareket \r\nEtmeye başladıktan sonra bahçeden geçerken defteri gördü ve aklına geldi. Defteri siyah ve mat ama çok ağır olması onu biraz şüphelendirdiyse de zengin züppelerinden birinindir diye defteri aldı ve herhangi bir isim bulmak için sayfaları karıştırdı.\r\n\r\nİlk sayfayı açınca mürekkepten farklı bişey ile yukarı da saymış olduğumuz kuralları gördü.\r\n\r\nDiğer sayfalar da çok fazla isim yazılmıştı hepside farklı milletlerden insan isimleriydi . İlk anlamadı ama defterin ilk sayfasını açınca kuralları okuduktan sonra şok olduysa da eşek şakası veya bir çocuğun hayal gücü gibi şeyler düşünerek çantaya attı.\r\n\r\nYurda odasına çekilince saat gece yarısını çoktan geçmişti. Teleskopun başına geçti ve Venüs,  Neptün ve ay  aynı karede olması olması onu biraz keyiflendirdi. Hemen ben keşfettim deyip sosyal medyaya yazacaktı ki NASA nın açıklamasını gördü ve ufak bir hayal kırıklığına uğrasa da kendisinin haberlere bakmadan bunu keşfetmiş olması onu tekrardan motive etti.\r\n\r\nYarın ki final de kuantum fiziği soruları ağırlıkta olacaktı ve hiç çalışmamıştı. Hemen çantayı açtı sabah aldığı defteri gördü. Defteri açtı;\r\n\r\n-Böyle saçma şeymi olur?\r\n-Bu eşek şakasının yapanda kim?\r\n-Bunlar kendini tanrı mı sanıyor ?\r\n\r\nOmuz silkti . Ama merak onun kibrini yendi ve denemekten zarar gelmez düşüncesiyle onu en çok sıkan kişinin devlet başkanı olduğunu hatırladı. Ne de olsa gerçek değil düşüncesiyle internetten bir resmini bulup ismi yazdı.\r\n\r\nHiçbir şey olmadı. Hayal kırıklığıyla yatağa yattı. Ama Kurbanı uyku tutmamıştı ve mutfağa giderek bir ıhlamur kaynattı. \r\nArdında tekrardan yatağa uzandı ve telefon eline aldı. Sosyal medyada biraz göz gezdirdi . Ve öyle bir irkilme geçirdi ki yataktan düştü.\r\nDelirecekti neredeyse. Tıpkı  bin yıl önceden yanlışlıkla geleceğe yolculuk yapıp gökyüzünde uçan demirleri gören birinin şaşkınlığından farksızdı.\r\n![hikaye](hikaye5.jpg)\r\nÇizgi roman çok eğlenceliydi ama köyden gelen seslerin dikkatini dağıtması yüzünden Kemal pencereden baktı.\r\n\r\nCemal sırtına Adem ve İbrahim mihrap kardeşleri almış sırtına kan revan içinde köyün merkezi olan havuza doğru sürünüyordu. Havuzun yanına yaklaşınca çeşmeyi açtı ve büyük bir çığlık sesi duyuldu. Cemal mikrop kapmasın diye İbrahim in boğazına suyu değdirince ibrahim in bağırmak istediği ancak kısılan sesi yüzünden ejderha çığlığına benzeyen bir ses ile bağırması  köyü bir anda ayağa kaldırdı. Topu topuna 16 hanesi olan köyün üç haneleri aşmayacak meraklı gözlerin hepsinin  aynı manzara karşısında  gösterdiği şaşkınlık yansımasındaki 3 insanın kırmızıyla dansından bariz belli oluyordu.\r\n\r\nAma bu fotoğrafta biri eksikti o da hacı Halil. Cemal en son onun kafasının kopmuş olduğunu görmüştü. Gördüklerini köy halkına anlatmak istiyordu ama hacı halile anlattığında hacı Halil in verdiği tepkiyi düşündükçe buna cesaret edemiyordu. \r\nBütün maneviyatını bütün duasını bütün ruhunu sadece Mihrap kardeşlerin yaşamasına adamıştı. Canla başla bir şeyler yapmaya çalışıyor ancak meraklı gözlerin gördükleri sadece bir takım deli hareketleri yapan Cemal in nasıl bir anda böyle olduğuydu. \r\nBu hareketler meraklı gözlere Mihrap kardeşlerin durumunun ne olduğunu kimin böyle canice bir saldırı yaptığı sorusunun cevabını veriyordu. \r\nAcaba Cemal mi yapmıştı?\r\n\r\n----\r\nKemalin canı sıkılmıştı çizgi romanı okurken dikkati dağılması yüzünden. Havuzun orada neler olur bittiğini öğrenmek için ayağa kalkmaya çalıştı ama çabası boşunaydı.Hava kararmaya başlamıştı artık havuzu bile göremeyecekti birkaç dakikaya kadar. Yürüyemediğini unutmuştu. Aslında yürüyemediğini unutmak için kitaplara sarılmıştı. O kadar üzücü  fiziki ve akli nimetlerden yoksun insanların hikayesini okudukça sadece ayağının olmamasına şükrediyordu. \r\n\r\nŞimdi ne yapsa boşunaydı evde kimse kalmamıştı. \r\nKemal bundan öncede evde tek başına kalmıştı ama bu sefer farklıydı. Tek başına kaldığında gaip ten sesler duyuluyordu. Sonuçta köydü burası kuzu, rüzgar, horoz, tavuk ve böcek seslerinin gelmesi çok normaldi. Hatta bazen öyle çığlıklar geliyordu ki yeryüzünde öyle ses çıkaran bir varlığın olmasına ihtimal vermiyordu Kemal. \r\n\r\nNefes sesi geliyordu hemen yaslandığı duvarın arkasında ki odadan. Kimsenin evde olmadığına da emindi.\r\n\r\nAma birden kapı açıldı. Kemal o gördüğü mahluk un ne olduğunu anlamaya çalışıyordu. Beyninde ki nöronlar o kadar hızlı hareket ediyordu ki nöronların hızı kafasından sanki yanan bir motorun hararet yapmasından sonra çıkan duman gibi bir koku hissetti kafasın da.\r\n\r\nBu kısacık saniyeler için de Kemalden gelen çığlık meraklı gözler güruhunu kemallerin evine yönlendirdi. Kemal uyku ilke uyanıklık arasında yastığının altından çıkardığı muskayı boynuna atacaktı ki kune pirenin elinin yastığını altından çekmesiyle irkildi.\r\nKune pire kapıda duruyordu. Ve eli o kadar uzundu ki tek elini uzatmasıyla yastığı Kemal’in altında ki yastığı alması bir oldu.\r\n\r\nVe bir haykırış yükseldi bir anda. Havuz başında ki meraklı gözler birden  Kemal in olduğu eve çevrildi.\r\nO kadar hızlı koştu ki köylüler yerdeki toprak iki metre yükseklikte toz bulutu oluşturmuştu.\r\n\r\nEvden içeri  ilk Reyhan girdi. O kadar çok seviyordu ki çocuğunu kılına zarar gelmesini göze alamıyordu. Gerçi babası çok fazla sevmiyordu. Hektarlarca arazisi olmasına rağmen evde işe yaramaz bir erkek ne kadar sevilebilirdi ki. Bu babasının savunmasıydı. Ona göre erkek çocuk yatırımdır. Ancak Kemal onun için külliyen zarardı. Sofrada ki artı bir tabak olmasına rağmen tabağın sahibinin yemeği hak edecek hiçbir şey yapmaması onu içten içe Kemal den soğutuyordu.\r\n\r\nReyhan kapıyı açtığında pembe köprünün yanında yuvalanan köy korucularının yemekten sonra bıraktıkları atıkların pis kokusu gibi bir koku geldi burnuna. Ama Kemalin kokusu yoktu ne yazık ki.\r\n\r\n\r\n\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "fdb26dcc4c554231550555a2e88995e6",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin",
-          "source": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "dodonoo",
-        "tags": [
-          "metafizik, deneme,"
-        ],
-        "cover": "hakiye3.jpg",
-        "author": "İbrahim Karavas"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\nMezopotamyanın kuzeyinde yer alan köyde ilginç olaylar serisi başlamıştı. E tabi düğünde başlıyor bunu unutmamak gerekir.\r\n\r\n![hikaye](hakiye3.jpg)\r\n\r\nCemal iki katlı bir viranenin üst katında çoban göçmeni olarak yaşıyor. İlk katı ahır olan evin, geceleri dışarı çıkılması zor olan bu muhitin de inanması güç olan efsaneler,  geceleri televizyon olmaması sebebiyle hızla yayılıyor ve hayaller gerçeklerin önüne geçmeye başlıyordu ki cemal sıkılıp aşağıya indi.\r\n\r\nAllahtan korkuyor. Ama bir yaratıktan da korkacağı hiç aklına gelmemişti. Komşu hacı Halil’in viranesinde koyunların meeelemesi diğer meeelemeler gibi değildi. Aslında duyduğu bir iniltiydi. Hızla gelen bir trenin tuvaletindeki acil durum sifonunu çeken bir velet yüzünden ani frenin trenin demirlere yükü ve sürtünmesi ile oluşan o iniltinin bir benzeriydi.\r\n\r\nAma ahırda tren ne gezer.\r\n\r\nAldırmadı ama sigarasını yakmayıda ihmal etmedi. Sıkıntı sigarasıydı bu yaktığı. İniltinin geldiği hacı halilin viranesinin aksi yönünde ilerlemeye başlamıştı ki inltilerin artık bir karın tokluğu geğirine dönüştüğü o tuhaf sesi duydu.\r\n\r\n![image](hikaye2.jpg)\r\nBu sesle biraz irkildi ve elindeki sigara yeri düştü. Sigarayı almak için eğildi ama yerler ıslaktı.\r\n\r\nİçinden okkalı bir küfür salladı ve aksi yönde ilerlemeye devam etti.\r\n\r\nAyaklarının altında ki dere ove nin sesi kalbinde mutluluk kanlarının pompalanmasına sebep oldu ve bir sigara daha yaktı.\r\n\r\nBu yaktığıda mutluluk sigarasıydı.\r\n\r\n-Eh bu seste fazla oldu dedi içinden ergenleğinin verdiği cesaret sesinini dinleyerek ahıra yöneldi.\r\n\r\nBir nefes çekti ve adımlarının hızlaştırarak ilerlemeye devam etti.\r\n\r\nAhırın kapısını açtı.\r\n\r\nSamanlar kan revan içinde iki koyunun boğazından çıkan kanların gırtlakla temasında ki  o ses de,  bir an kurban bayramını hatırladı ama durumun vahametinin farkına vardı ve hemen ahırın kapısını kapattı korkuyla sigarası yine düştü bu korkuyla beraber.\r\n\r\nCemalin sigarasını düşüren tek şey korkuydu. Kapı kapandıktan hemen sonra arkasında iğrenç mahluk u gördü ve korkunun ne demek olduğu o muallak saniyeler de anladı ve kısa sürecek hayatının bu andan sonrasını\r\nBu saniyeleri düşünerek geçirecekti.\r\n\r\nO şey az önce canı sıkıldığı için viranenin damında çayla birlikte götürülen efsanede anlatılan mahluktu.\r\n\r\nİki saniyede bunları nasıl düşündüyse benim de 2 dakikada bunları yazmamda aynı şey.\r\n\r\nAraya Hüseyin girmese belki daha da ilginçleşecek hikayemiz ama verdiği pnr numarasını pax sisteminde yazarak çıkardığım etiketin yazıcıdan çıkarkenki zzzzzz sesi beni biraz motive etti. Aslına bakarsanız yandaki ofisteki arkadaşın açtığı\r\n müziğinde etkisi vardı.\r\n\r\nHoş geldin bahar hoş geldin dostum şarkı sözleri motivemi arttırdı.\r\n\r\n-Memelerinin yere sürtmesi nedir abi?\r\n-Vallahi gördüm memeleri yere sürtüyordu?\r\n-Abı sen dün cidden çayı fazla kaçırdın demek\r\n-Yemin billah Halil sende bana inanmazsan ben ne yaparım?  Delimi oluyorum yoksa?\r\n-yok ağabey estağfurullah…\r\n\r\nCemalin hacı Halil den duyduğu bu sözler aklına rüyamı gördüm yoksa deliriyor muyum? sorusunu dedirtti\r\nAma bu olanaksızdı rüyada hissedemesin. Ama bunu düşündükçe gece rüyalanmalarından sonra aldığı duş aklına gelir ve hissetmediysem cünup olmam olanaksız mantığını yürütüyor ve gördüğü mahlukun bir rüya\r\nObjesi olmadığına bir daha inanmaya başlıyordu.\r\n\r\nHacı Halil ile bu konuşması ikisi arasında dere ove ye kadar susmalarına sebep oldu.\r\n\r\nDere ove köyün altından geçen debisi bir hayli yüksek köylülerin dere ove dediği ancak kayıtlarda köylülerin duymadığı bir isim olan atamersin nehri idi.\r\n\r\nKış aylarında balık tutulur . Yaz aylarında da köylüler  güneşin sıcaklığından sarı olan saçları az da olsa serinletmek için debisi yüksek olan dere ove ye beyaz köprüden atlar, 6 km ötedeki köy korucularının yuvalandığı pempe köprüye kadar kendilerini akıntıya bırakır böylece nehiri arkalarına alarak güneşe meydan okumaya çalılşırlardı.\r\n\r\nHacı Halil bu sessizliği bozarak bağırdı;\r\n\r\n-Cemal Bak\r\nAz ileride Cemallerin arsası olan lehke silme de ki totem  köyünden iki genç yerde yatıyor ama kıpırdamıyorlardı.\r\n\r\nCemal omuz silkti. Çünkü bunlar İbrahim ve Adem Mihrap kardeşlerdi. Onlarla daha iki gün önce dere ove  de kavga etmişti . Ama kavga Cemalin Mihrap ailesine saygısından sadece sözlü olarak ufak bir tartişmaydı aslında.\r\n\r\nMihrap ailesi yedi kişilik geniş bir ailedir. Geçmişlerinde çok acılar çekmiş çok kazık yemişler ancak bu kazıklar evin reisi olan Mihrap kardeşlerinin babası Ferruh u çok fazla düşünmeye ve bunun sonucu olarak tüm kazıklardan ders çıkararak \r\nÇocukların tamamını okutmaya adamıştı kendisini. \r\n\r\nBunun için devletin koyduğu kuralı ve hatta köyün yoğun psikolojik baskısına göğüs germiş ve tüm çocuklarının okutmuştu.\r\n\r\n![hikaye](hikaye1.jpg)\r\n\r\nİbrahim ve adem in üç ablası da üniversiteyi okumuştur. Fakat İbrahim ve adem sadece liseyi okumuş ve aile yapısı diğer köylülerden farklı bir yapıya dönüşmüştür. \r\n\r\nMihrap ailesi kozmopolit bir aile yapısına sahipti. Diğer viranelerde kızların kesinlikle söz hakkı yokken Mihrap ailesinde evi yöneten aslında kızlardı. Çok zeki ve eğitimli olmalarının  hasebiyle diğer viranelerde erkek çocuklar\r\nBüyük ablaları her istediğini yaptırırken Mihrap ailesinde bu mümkün değildi . Ama buna rağmen Mihrap ailesinin mutluluğu tüm köyün imrenerek bakmasına sebep oluyordu. \r\n\r\nMihrap ailesinin kızları köyün ilk yüksek okul okuyan kızları olması ve okuduktan sonra da köyde atılım yaratmaları devletin dikkatinin çekmiş ve devlet bunun aksinin doğması için çok çaba sarf etmiştir.\r\n\r\nÖnceden devlet kızları başınıza bela olurlar orospu olurlar ve bunları askerler aracılığıyla köy halkına ulaştırması halk üzerinde takdire şayan bir başarı göstermiş, b,ir taşla iki kuş vurmuş ve hiçbir aile kızları ve hatta hiçbir çocuğunu okutmamaya karar vermiştir.\r\n\r\nAncak Mihrap ailesinin en büyüğü olan Resul un – hacıbaba diye tanınırdı- tüm torunlara daha çocuk yaşta yoğun dini eğitim vermesi çocuklarının kuran ahlakı ile ahlaklanmasına sebep oldu. \r\n\r\nErkeklerden farklı olarak kızlar okumaya kendilerini adadılar.\r\n\r\nİlk kuranı bitirdiler ardından nehçıran ı ardından mevlutu ardında da okula başladılar. \r\n\r\nOkulda büyük başarılar göstererek il birinciğini asla bırakmadılar ilkokul boyunca.\r\nAslında lise yılları da bundan farklı değildi ancak şehrin en büyük aşiret reisi erkek çocuğunu tüm lise hayatı boyunca topu topuna bir iki ay okula giden oğlanı sınavsız üniversiteye sokmak için kızların önüne kesmiş ve kızlar ikinci olmuştu.\r\n\r\nAma bu bile yıldırmamış üniversite sınavında daha büyük bir başarı göstererek ülkede ilk yüz e girmeyi başarmışlardır.\r\n\r\nCemal yerde yatmış olan İbrahim ve ademin yanına hareketlendi ve biraz daha yaklaşınca kırmızı sıvı başını döndürdü. \r\nBu kandı. \r\n\r\nYerde çok fazla kan ve ileride ki çalılıkta bir şeyler oynuyordu.\r\n\r\nHacı Halil çalılığa doğru yürümeye başladı cemal de çocukların nabzına baktı ikisinde yaşıyordu. \r\n\r\nİbrahim boğazından ağır yaralıydı ademin ise kasıkların çok fazla kan akıyordu.\r\n\r\nCemal bir haykırışla irkildi. Hacı Halil den geliyordu bu ses. Hemen ayağa kalktı ve dün gördüğü yaratığı rüya olmadığını şimdide karşısında olması ona gerçek duygusu tattırdı.\r\n\r\nHacı Halil in kafası dün gece ki yaratığın ağzındaydı . Cemal korktu kaçmaya başlayacaktı ki köy çok fazla uzaktı. Kune pire hacı Halil i n kafasını ağzında tutuyor ve cemale doğru yaklaşıyordu..\r\n\r\n## Derinlik\r\n-Birinin ölmesi gerekiyorsa bu ölüm defterine yazılır.\r\n-İsmi yazılan kişinin  ne zaman öleceği 6 dakika içinde belirtilmezse kişi kırk dakika içinde ölür.\r\n-Ölüm nedeni belirtilmeyen kişi kalp krizinden ölür. \r\n-İsmi yazılan kişi ismi yazılırken, ismi yazan kişi ölecek kişinin yüzüne bakarak yazması  gerekir. Bu aynı isimdeki kişilerin ayırt edilmesi için konulan bir kuraldır.\r\nBunlar tanrının koyduğu kurallar..\r\n\r\n![hikaye](hikaye4.jpg)\r\n\r\nÖlüm meleğinin canı sıkılmıştı. Çünkü ölüm meleği diyarı pek sıkıcıydı. Diyarda ölüm meleklerinin sayısı çok az ve zaman kavramı olmadığından kimse yok olmuyordu. Yok olmaları için belli prensiplerin bilinmesi gerekiyordu. \r\nVe bu prensipleri bilen tek varlık ölüm meleği tanrısıydı.\r\n\r\nÖlüm meleğinin canı çok sıkılmıştı. Çünkü Ölüm meleği diyarı çürüyordu. Diğer tüm ölüm melekleri artık çok pasif ve uyuşuk olmuş ölüm defterinin hakkını vermiyorlardı.\r\n\r\nCanın sıkılan ölüm meleği kendisinde iki tane olan ölüm defterinin insanların dünyasına atmaya karar verdi ve attı.\r\nDefter Boğaziçi üniversitesi fen bilimleri fakültesi bahçesine düştü. Daha havadayken yere süzülüşünü camdan bakan Kurban gördü. \r\nDefterinin düştüğü vakitte fizik dersi olmalı kı kurbanın cama bakması şans olmasa gerekti. Aradan biraz vakit geçti ve hoca ders i bitirdi. Kurban defteri unutmuştu aklına bile gelmedi. Ama yurda gitmek için eve gitmeye hareket \r\nEtmeye başladıktan sonra bahçeden geçerken defteri gördü ve aklına geldi. Defteri siyah ve mat ama çok ağır olması onu biraz şüphelendirdiyse de zengin züppelerinden birinindir diye defteri aldı ve herhangi bir isim bulmak için sayfaları karıştırdı.\r\n\r\nİlk sayfayı açınca mürekkepten farklı bişey ile yukarı da saymış olduğumuz kuralları gördü.\r\n\r\nDiğer sayfalar da çok fazla isim yazılmıştı hepside farklı milletlerden insan isimleriydi . İlk anlamadı ama defterin ilk sayfasını açınca kuralları okuduktan sonra şok olduysa da eşek şakası veya bir çocuğun hayal gücü gibi şeyler düşünerek çantaya attı.\r\n\r\nYurda odasına çekilince saat gece yarısını çoktan geçmişti. Teleskopun başına geçti ve Venüs,  Neptün ve ay  aynı karede olması olması onu biraz keyiflendirdi. Hemen ben keşfettim deyip sosyal medyaya yazacaktı ki NASA nın açıklamasını gördü ve ufak bir hayal kırıklığına uğrasa da kendisinin haberlere bakmadan bunu keşfetmiş olması onu tekrardan motive etti.\r\n\r\nYarın ki final de kuantum fiziği soruları ağırlıkta olacaktı ve hiç çalışmamıştı. Hemen çantayı açtı sabah aldığı defteri gördü. Defteri açtı;\r\n\r\n-Böyle saçma şeymi olur?\r\n-Bu eşek şakasının yapanda kim?\r\n-Bunlar kendini tanrı mı sanıyor ?\r\n\r\nOmuz silkti . Ama merak onun kibrini yendi ve denemekten zarar gelmez düşüncesiyle onu en çok sıkan kişinin devlet başkanı olduğunu hatırladı. Ne de olsa gerçek değil düşüncesiyle internetten bir resmini bulup ismi yazdı.\r\n\r\nHiçbir şey olmadı. Hayal kırıklığıyla yatağa yattı. Ama Kurbanı uyku tutmamıştı ve mutfağa giderek bir ıhlamur kaynattı. \r\nArdında tekrardan yatağa uzandı ve telefon eline aldı. Sosyal medyada biraz göz gezdirdi . Ve öyle bir irkilme geçirdi ki yataktan düştü.\r\nDelirecekti neredeyse. Tıpkı  bin yıl önceden yanlışlıkla geleceğe yolculuk yapıp gökyüzünde uçan demirleri gören birinin şaşkınlığından farksızdı.\r\n![hikaye](hikaye5.jpg)\r\nÇizgi roman çok eğlenceliydi ama köyden gelen seslerin dikkatini dağıtması yüzünden Kemal pencereden baktı.\r\n\r\nCemal sırtına Adem ve İbrahim mihrap kardeşleri almış sırtına kan revan içinde köyün merkezi olan havuza doğru sürünüyordu. Havuzun yanına yaklaşınca çeşmeyi açtı ve büyük bir çığlık sesi duyuldu. Cemal mikrop kapmasın diye İbrahim in boğazına suyu değdirince ibrahim in bağırmak istediği ancak kısılan sesi yüzünden ejderha çığlığına benzeyen bir ses ile bağırması  köyü bir anda ayağa kaldırdı. Topu topuna 16 hanesi olan köyün üç haneleri aşmayacak meraklı gözlerin hepsinin  aynı manzara karşısında  gösterdiği şaşkınlık yansımasındaki 3 insanın kırmızıyla dansından bariz belli oluyordu.\r\n\r\nAma bu fotoğrafta biri eksikti o da hacı Halil. Cemal en son onun kafasının kopmuş olduğunu görmüştü. Gördüklerini köy halkına anlatmak istiyordu ama hacı halile anlattığında hacı Halil in verdiği tepkiyi düşündükçe buna cesaret edemiyordu. \r\nBütün maneviyatını bütün duasını bütün ruhunu sadece Mihrap kardeşlerin yaşamasına adamıştı. Canla başla bir şeyler yapmaya çalışıyor ancak meraklı gözlerin gördükleri sadece bir takım deli hareketleri yapan Cemal in nasıl bir anda böyle olduğuydu. \r\nBu hareketler meraklı gözlere Mihrap kardeşlerin durumunun ne olduğunu kimin böyle canice bir saldırı yaptığı sorusunun cevabını veriyordu. \r\nAcaba Cemal mi yapmıştı?\r\n\r\n----\r\nKemalin canı sıkılmıştı çizgi romanı okurken dikkati dağılması yüzünden. Havuzun orada neler olur bittiğini öğrenmek için ayağa kalkmaya çalıştı ama çabası boşunaydı.Hava kararmaya başlamıştı artık havuzu bile göremeyecekti birkaç dakikaya kadar. Yürüyemediğini unutmuştu. Aslında yürüyemediğini unutmak için kitaplara sarılmıştı. O kadar üzücü  fiziki ve akli nimetlerden yoksun insanların hikayesini okudukça sadece ayağının olmamasına şükrediyordu. \r\n\r\nŞimdi ne yapsa boşunaydı evde kimse kalmamıştı. \r\nKemal bundan öncede evde tek başına kalmıştı ama bu sefer farklıydı. Tek başına kaldığında gaip ten sesler duyuluyordu. Sonuçta köydü burası kuzu, rüzgar, horoz, tavuk ve böcek seslerinin gelmesi çok normaldi. Hatta bazen öyle çığlıklar geliyordu ki yeryüzünde öyle ses çıkaran bir varlığın olmasına ihtimal vermiyordu Kemal. \r\n\r\nNefes sesi geliyordu hemen yaslandığı duvarın arkasında ki odadan. Kimsenin evde olmadığına da emindi.\r\n\r\nAma birden kapı açıldı. Kemal o gördüğü mahluk un ne olduğunu anlamaya çalışıyordu. Beyninde ki nöronlar o kadar hızlı hareket ediyordu ki nöronların hızı kafasından sanki yanan bir motorun hararet yapmasından sonra çıkan duman gibi bir koku hissetti kafasın da.\r\n\r\nBu kısacık saniyeler için de Kemalden gelen çığlık meraklı gözler güruhunu kemallerin evine yönlendirdi. Kemal uyku ilke uyanıklık arasında yastığının altından çıkardığı muskayı boynuna atacaktı ki kune pirenin elinin yastığını altından çekmesiyle irkildi.\r\nKune pire kapıda duruyordu. Ve eli o kadar uzundu ki tek elini uzatmasıyla yastığı Kemal’in altında ki yastığı alması bir oldu.\r\n\r\nVe bir haykırış yükseldi bir anda. Havuz başında ki meraklı gözler birden  Kemal in olduğu eve çevrildi.\r\nO kadar hızlı koştu ki köylüler yerdeki toprak iki metre yükseklikte toz bulutu oluşturmuştu.\r\n\r\nEvden içeri  ilk Reyhan girdi. O kadar çok seviyordu ki çocuğunu kılına zarar gelmesini göze alamıyordu. Gerçi babası çok fazla sevmiyordu. Hektarlarca arazisi olmasına rağmen evde işe yaramaz bir erkek ne kadar sevilebilirdi ki. Bu babasının savunmasıydı. Ona göre erkek çocuk yatırımdır. Ancak Kemal onun için külliyen zarardı. Sofrada ki artı bir tabak olmasına rağmen tabağın sahibinin yemeği hak edecek hiçbir şey yapmaması onu içten içe Kemal den soğutuyordu.\r\n\r\nReyhan kapıyı açtığında pembe köprünün yanında yuvalanan köy korucularının yemekten sonra bıraktıkları atıkların pis kokusu gibi bir koku geldi burnuna. Ama Kemalin kokusu yoktu ne yazık ki.\r\n\r\n\r\n\r\n",
-      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-04-26--bir-hikaye/index.md",
-      "fields": {
-        "slug": "/bir-hikaye/",
-        "prefix": "2019-04-26",
-        "source": "posts"
-      }
-    },
     "33b0c7b5-f008-5d8a-bab2-6914a340c700": {
       "resolve": "C:/Users/ibrah/Documents/blog/node_modules/gatsby-plugin-google-analytics",
       "id": "33b0c7b5-f008-5d8a-bab2-6914a340c700",
@@ -6601,48 +6569,6 @@
       "ctime": "2019-05-11T17:29:07.084Z",
       "birthtime": "2019-05-11T13:48:54.075Z"
     },
-    "3464e6cd-ec92-5893-ad93-160472defa2f": {
-      "id": "3464e6cd-ec92-5893-ad93-160472defa2f",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "f085424351eea1697ce4e6a32d6cd28a",
-        "type": "Directory",
-        "description": "Directory \"content\\posts\\2019-05-11--hikaye-devam\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam",
-      "relativePath": "2019-05-11--hikaye-devam",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2019-05-11T12:35:15.877Z",
-      "accessTime": "2019-05-11T12:35:15.878Z",
-      "changeTime": "2019-05-11T12:35:15.877Z",
-      "birthTime": "2019-05-11T12:34:09.075Z",
-      "root": "C:/",
-      "dir": "C:/Users/ibrah/Documents/blog/content/posts",
-      "base": "2019-05-11--hikaye-devam",
-      "ext": "",
-      "name": "2019-05-11--hikaye-devam",
-      "relativeDirectory": "",
-      "dev": 1445792768,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 9851624184981224,
-      "atimeMs": 1557578115877.7002,
-      "mtimeMs": 1557578115876.702,
-      "ctimeMs": 1557578115876.702,
-      "birthtimeMs": 1557578049074.7568,
-      "atime": "2019-05-11T12:35:15.878Z",
-      "mtime": "2019-05-11T12:35:15.877Z",
-      "ctime": "2019-05-11T12:35:15.877Z",
-      "birthtime": "2019-05-11T12:34:09.075Z"
-    },
     "b7667ad4-39e1-547c-a692-e97813956f79": {
       "id": "b7667ad4-39e1-547c-a692-e97813956f79",
       "children": [],
@@ -6685,51 +6611,6 @@
       "ctime": "2019-05-11T16:33:11.876Z",
       "birthtime": "2019-05-11T12:59:38.772Z"
     },
-    "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a": {
-      "id": "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a",
-      "children": [
-        "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "d41d8cd98f00b204e9800998ecf8427e",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content\\posts\\2019-05-11--hikaye-devam\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam/index.md",
-      "relativePath": "2019-05-11--hikaye-devam/index.md",
-      "extension": "md",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2019-05-11T12:35:15.877Z",
-      "accessTime": "2019-05-11T12:35:15.877Z",
-      "changeTime": "2019-05-11T12:35:15.877Z",
-      "birthTime": "2019-05-11T12:35:15.877Z",
-      "root": "C:/",
-      "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2019-05-11--hikaye-devam",
-      "dev": 1445792768,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 6755399441164926,
-      "atimeMs": 1557578115876.702,
-      "mtimeMs": 1557578115876.702,
-      "ctimeMs": 1557578115876.702,
-      "birthtimeMs": 1557578115876.702,
-      "atime": "2019-05-11T12:35:15.877Z",
-      "mtime": "2019-05-11T12:35:15.877Z",
-      "ctime": "2019-05-11T12:35:15.877Z",
-      "birthtime": "2019-05-11T12:35:15.877Z"
-    },
     "42863eef-b26b-5d3b-8af5-a0a626d9ac21": {
       "id": "42863eef-b26b-5d3b-8af5-a0a626d9ac21",
       "children": [
@@ -6737,7 +6618,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "485a25b7baacc284ecf9d09a743a0799",
+        "contentDigest": "54d9f7b9a2479243acb377486b3a6ac2",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\posts\\2019-05-12--basit-regresyon-devam\\index.md\"",
@@ -6747,11 +6628,11 @@
       "absolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
       "relativePath": "2019-05-12--basit-regresyon-devam/index.md",
       "extension": "md",
-      "size": 852,
-      "prettySize": "852 B",
-      "modifiedTime": "2019-05-11T17:31:10.402Z",
-      "accessTime": "2019-05-11T17:31:10.402Z",
-      "changeTime": "2019-05-11T17:31:10.402Z",
+      "size": 853,
+      "prettySize": "853 B",
+      "modifiedTime": "2019-05-11T17:42:16.887Z",
+      "accessTime": "2019-05-11T17:42:16.887Z",
+      "changeTime": "2019-05-11T17:42:16.887Z",
       "birthTime": "2019-05-11T13:05:24.688Z",
       "root": "C:/",
       "dir": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam",
@@ -6766,13 +6647,13 @@
       "gid": 0,
       "rdev": 0,
       "ino": 1688849860431896,
-      "atimeMs": 1557595870401.5146,
-      "mtimeMs": 1557595870401.5146,
-      "ctimeMs": 1557595870401.5146,
+      "atimeMs": 1557596536886.577,
+      "mtimeMs": 1557596536886.577,
+      "ctimeMs": 1557596536886.577,
       "birthtimeMs": 1557579924687.5972,
-      "atime": "2019-05-11T17:31:10.402Z",
-      "mtime": "2019-05-11T17:31:10.402Z",
-      "ctime": "2019-05-11T17:31:10.402Z",
+      "atime": "2019-05-11T17:42:16.887Z",
+      "mtime": "2019-05-11T17:42:16.887Z",
+      "ctime": "2019-05-11T17:42:16.887Z",
       "birthtime": "2019-05-11T13:05:24.688Z"
     },
     "5141192e-926a-59af-b382-6c90d0859a08": {
@@ -6995,33 +6876,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7": {
-      "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
-      "children": [],
-      "parent": "e64cf2b6-f2a9-5798-8edb-c73c967c9b1a",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "794efc17c7338fe3a1b2181d8873ac73",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin",
-          "source": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": ""
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-11--hikaye-devam/index.md",
-      "fields": {
-        "slug": "/hikaye-devam/",
-        "prefix": "2019-05-11",
-        "source": "posts"
-      }
-    },
     "6a93a1a8-23d8-5e52-b7eb-ab38d0f76718": {
       "id": "6a93a1a8-23d8-5e52-b7eb-ab38d0f76718",
       "children": [
@@ -7139,7 +6993,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "0a26fdaf47498fced15f41ab576d8f6b",
+        "contentDigest": "767cfe11dabc1146d0d745990c94d57d",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md\"",
@@ -7149,11 +7003,11 @@
       "absolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
       "relativePath": "2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
       "extension": "md",
-      "size": 2402,
+      "size": 2405,
       "prettySize": "2.4 kB",
-      "modifiedTime": "2019-05-11T17:30:59.310Z",
-      "accessTime": "2019-05-11T17:30:59.310Z",
-      "changeTime": "2019-05-11T17:30:59.310Z",
+      "modifiedTime": "2019-05-11T17:47:11.727Z",
+      "accessTime": "2019-05-11T17:47:11.727Z",
+      "changeTime": "2019-05-11T17:47:11.727Z",
       "birthTime": "2019-05-11T13:49:33.785Z",
       "root": "C:\\",
       "dir": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri",
@@ -7168,23 +7022,23 @@
       "gid": 0,
       "rdev": 0,
       "ino": 2251799813852166,
-      "atimeMs": 1557595859309.693,
-      "mtimeMs": 1557595859309.693,
-      "ctimeMs": 1557595859309.693,
+      "atimeMs": 1557596831727.4695,
+      "mtimeMs": 1557596831727.4695,
+      "ctimeMs": 1557596831727.4695,
       "birthtimeMs": 1557582573785.3008,
-      "atime": "2019-05-11T17:30:59.310Z",
-      "mtime": "2019-05-11T17:30:59.310Z",
-      "ctime": "2019-05-11T17:30:59.310Z",
+      "atime": "2019-05-11T17:47:11.727Z",
+      "mtime": "2019-05-11T17:47:11.727Z",
+      "ctime": "2019-05-11T17:47:11.727Z",
       "birthtime": "2019-05-11T13:49:33.785Z"
     },
-    "1b723611-1a6d-5294-b19f-6a6648258228": {
-      "id": "1b723611-1a6d-5294-b19f-6a6648258228",
+    "63452099-ddfc-56f3-8669-8b4fa1759b8d": {
+      "id": "63452099-ddfc-56f3-8669-8b4fa1759b8d",
       "children": [],
-      "parent": "4897aa78-f1e0-563e-bf43-209a10ff7842",
+      "parent": "e5eb0a14-4fd9-5fab-a22c-b82e49fcaaa9",
       "internal": {
-        "content": "\n## Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır.**\n\n**Command kısmına aşağıdakileri yazın**\n     ls prc c prcy\n\n- **ls** : EKK (En küçük kareler yöntemi)\n- **prc** : kişi başı tüketim\n- **pry** : kişi başı gelir\n- **ls** komutu ile tahmin ediyoruz.\n- **plot** komutu ile grafik oluşturuyoruz.\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n\n### Varsayımları Test\n> Ekk yaparken katsayılara ve hata terimine ilişkin varsayımları test ederiz. Aksi taktirde yapılan bu ekk'nın öngürüleri hatalı, saplamalı ve bilimsel olmaz.\n\n## Hata Terimine İlişkin Varsayımlar\n\nVarsayım 1 : Hata teriminin beklenen değeri 0'dır.\n$$\n  𝐸(𝑈_𝑖 )=0\n  $$\n\nBu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**\n\n![eq](image2.jpg)\n\n> Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;\n\n    H0 : Hatalar Normal Dağılmıştır.\n    H1 : Aksi durum\nBu durumda **Jarge-Bera** testinin prob değerinin **0.48** olarak görüyoruz, h0 hipotezini reddedemediğimiz için boş hipotez geçerli olur ve varsayımın geçerliliği sağlanmış olur.\n\nVarsayım 2 : Hata teriminin varyansı sabittir.",
+        "content": "\r\nMezopotamyanın kuzeyinde yer alan köyde ilginç olaylar serisi başlamıştı. E tabi düğünde başlıyor bunu unutmamak gerekir.\r\n\r\n![hikaye](hakiye3.jpg)\r\n\r\nCemal iki katlı bir viranenin üst katında çoban göçmeni olarak yaşıyor. İlk katı ahır olan evin, geceleri dışarı çıkılması zor olan bu muhitin de inanması güç olan efsaneler,  geceleri televizyon olmaması sebebiyle hızla yayılıyor ve hayaller gerçeklerin önüne geçmeye başlıyordu ki cemal sıkılıp aşağıya indi.\r\n\r\nAllahtan korkuyor. Ama bir yaratıktan da korkacağı hiç aklına gelmemişti. Komşu hacı Halil’in viranesinde koyunların meeelemesi diğer meeelemeler gibi değildi. Aslında duyduğu bir iniltiydi. Hızla gelen bir trenin tuvaletindeki acil durum sifonunu çeken bir velet yüzünden ani frenin trenin demirlere yükü ve sürtünmesi ile oluşan o iniltinin bir benzeriydi.\r\n\r\nAma ahırda tren ne gezer.\r\n\r\nAldırmadı ama sigarasını yakmayıda ihmal etmedi. Sıkıntı sigarasıydı bu yaktığı. İniltinin geldiği hacı halilin viranesinin aksi yönünde ilerlemeye başlamıştı ki inltilerin artık bir karın tokluğu geğirine dönüştüğü o tuhaf sesi duydu.\r\n\r\n![image](hikaye2.jpg)\r\nBu sesle biraz irkildi ve elindeki sigara yeri düştü. Sigarayı almak için eğildi ama yerler ıslaktı.\r\n\r\nİçinden okkalı bir küfür salladı ve aksi yönde ilerlemeye devam etti.\r\n\r\nAyaklarının altında ki dere ove nin sesi kalbinde mutluluk kanlarının pompalanmasına sebep oldu ve bir sigara daha yaktı.\r\n\r\nBu yaktığıda mutluluk sigarasıydı.\r\n\r\n-Eh bu seste fazla oldu dedi içinden ergenleğinin verdiği cesaret sesinini dinleyerek ahıra yöneldi.\r\n\r\nBir nefes çekti ve adımlarının hızlaştırarak ilerlemeye devam etti.\r\n\r\nAhırın kapısını açtı.\r\n\r\nSamanlar kan revan içinde iki koyunun boğazından çıkan kanların gırtlakla temasında ki  o ses de,  bir an kurban bayramını hatırladı ama durumun vahametinin farkına vardı ve hemen ahırın kapısını kapattı korkuyla sigarası yine düştü bu korkuyla beraber.\r\n\r\nCemalin sigarasını düşüren tek şey korkuydu. Kapı kapandıktan hemen sonra arkasında iğrenç mahluk u gördü ve korkunun ne demek olduğu o muallak saniyeler de anladı ve kısa sürecek hayatının bu andan sonrasını\r\nBu saniyeleri düşünerek geçirecekti.\r\n\r\nO şey az önce canı sıkıldığı için viranenin damında çayla birlikte götürülen efsanede anlatılan mahluktu.\r\n\r\nİki saniyede bunları nasıl düşündüyse benim de 2 dakikada bunları yazmamda aynı şey.\r\n\r\nAraya Hüseyin girmese belki daha da ilginçleşecek hikayemiz ama verdiği pnr numarasını pax sisteminde yazarak çıkardığım etiketin yazıcıdan çıkarkenki zzzzzz sesi beni biraz motive etti. Aslına bakarsanız yandaki ofisteki arkadaşın açtığı\r\n müziğinde etkisi vardı.\r\n\r\nHoş geldin bahar hoş geldin dostum şarkı sözleri motivemi arttırdı.\r\n\r\n-Memelerinin yere sürtmesi nedir abi?\r\n-Vallahi gördüm memeleri yere sürtüyordu?\r\n-Abı sen dün cidden çayı fazla kaçırdın demek\r\n-Yemin billah Halil sende bana inanmazsan ben ne yaparım?  Delimi oluyorum yoksa?\r\n-yok ağabey estağfurullah…\r\n\r\nCemalin hacı Halil den duyduğu bu sözler aklına rüyamı gördüm yoksa deliriyor muyum? sorusunu dedirtti\r\nAma bu olanaksızdı rüyada hissedemesin. Ama bunu düşündükçe gece rüyalanmalarından sonra aldığı duş aklına gelir ve hissetmediysem cünup olmam olanaksız mantığını yürütüyor ve gördüğü mahlukun bir rüya\r\nObjesi olmadığına bir daha inanmaya başlıyordu.\r\n\r\nHacı Halil ile bu konuşması ikisi arasında dere ove ye kadar susmalarına sebep oldu.\r\n\r\nDere ove köyün altından geçen debisi bir hayli yüksek köylülerin dere ove dediği ancak kayıtlarda köylülerin duymadığı bir isim olan atamersin nehri idi.\r\n\r\nKış aylarında balık tutulur . Yaz aylarında da köylüler  güneşin sıcaklığından sarı olan saçları az da olsa serinletmek için debisi yüksek olan dere ove ye beyaz köprüden atlar, 6 km ötedeki köy korucularının yuvalandığı pempe köprüye kadar kendilerini akıntıya bırakır böylece nehiri arkalarına alarak güneşe meydan okumaya çalılşırlardı.\r\n\r\nHacı Halil bu sessizliği bozarak bağırdı;\r\n\r\n-Cemal Bak\r\nAz ileride Cemallerin arsası olan lehke silme de ki totem  köyünden iki genç yerde yatıyor ama kıpırdamıyorlardı.\r\n\r\nCemal omuz silkti. Çünkü bunlar İbrahim ve Adem Mihrap kardeşlerdi. Onlarla daha iki gün önce dere ove  de kavga etmişti . Ama kavga Cemalin Mihrap ailesine saygısından sadece sözlü olarak ufak bir tartişmaydı aslında.\r\n\r\nMihrap ailesi yedi kişilik geniş bir ailedir. Geçmişlerinde çok acılar çekmiş çok kazık yemişler ancak bu kazıklar evin reisi olan Mihrap kardeşlerinin babası Ferruh u çok fazla düşünmeye ve bunun sonucu olarak tüm kazıklardan ders çıkararak \r\nÇocukların tamamını okutmaya adamıştı kendisini. \r\n\r\nBunun için devletin koyduğu kuralı ve hatta köyün yoğun psikolojik baskısına göğüs germiş ve tüm çocuklarının okutmuştu.\r\n\r\n![hikaye](hikaye1.jpg)\r\n\r\nİbrahim ve adem in üç ablası da üniversiteyi okumuştur. Fakat İbrahim ve adem sadece liseyi okumuş ve aile yapısı diğer köylülerden farklı bir yapıya dönüşmüştür. \r\n\r\nMihrap ailesi kozmopolit bir aile yapısına sahipti. Diğer viranelerde kızların kesinlikle söz hakkı yokken Mihrap ailesinde evi yöneten aslında kızlardı. Çok zeki ve eğitimli olmalarının  hasebiyle diğer viranelerde erkek çocuklar\r\nBüyük ablaları her istediğini yaptırırken Mihrap ailesinde bu mümkün değildi . Ama buna rağmen Mihrap ailesinin mutluluğu tüm köyün imrenerek bakmasına sebep oluyordu. \r\n\r\nMihrap ailesinin kızları köyün ilk yüksek okul okuyan kızları olması ve okuduktan sonra da köyde atılım yaratmaları devletin dikkatinin çekmiş ve devlet bunun aksinin doğması için çok çaba sarf etmiştir.\r\n\r\nÖnceden devlet kızları başınıza bela olurlar orospu olurlar ve bunları askerler aracılığıyla köy halkına ulaştırması halk üzerinde takdire şayan bir başarı göstermiş, b,ir taşla iki kuş vurmuş ve hiçbir aile kızları ve hatta hiçbir çocuğunu okutmamaya karar vermiştir.\r\n\r\nAncak Mihrap ailesinin en büyüğü olan Resul un – hacıbaba diye tanınırdı- tüm torunlara daha çocuk yaşta yoğun dini eğitim vermesi çocuklarının kuran ahlakı ile ahlaklanmasına sebep oldu. \r\n\r\nErkeklerden farklı olarak kızlar okumaya kendilerini adadılar.\r\n\r\nİlk kuranı bitirdiler ardından nehçıran ı ardından mevlutu ardında da okula başladılar. \r\n\r\nOkulda büyük başarılar göstererek il birinciğini asla bırakmadılar ilkokul boyunca.\r\nAslında lise yılları da bundan farklı değildi ancak şehrin en büyük aşiret reisi erkek çocuğunu tüm lise hayatı boyunca topu topuna bir iki ay okula giden oğlanı sınavsız üniversiteye sokmak için kızların önüne kesmiş ve kızlar ikinci olmuştu.\r\n\r\nAma bu bile yıldırmamış üniversite sınavında daha büyük bir başarı göstererek ülkede ilk yüz e girmeyi başarmışlardır.\r\n\r\nCemal yerde yatmış olan İbrahim ve ademin yanına hareketlendi ve biraz daha yaklaşınca kırmızı sıvı başını döndürdü. \r\nBu kandı. \r\n\r\nYerde çok fazla kan ve ileride ki çalılıkta bir şeyler oynuyordu.\r\n\r\nHacı Halil çalılığa doğru yürümeye başladı cemal de çocukların nabzına baktı ikisinde yaşıyordu. \r\n\r\nİbrahim boğazından ağır yaralıydı ademin ise kasıkların çok fazla kan akıyordu.\r\n\r\nCemal bir haykırışla irkildi. Hacı Halil den geliyordu bu ses. Hemen ayağa kalktı ve dün gördüğü yaratığı rüya olmadığını şimdide karşısında olması ona gerçek duygusu tattırdı.\r\n\r\nHacı Halil in kafası dün gece ki yaratığın ağzındaydı . Cemal korktu kaçmaya başlayacaktı ki köy çok fazla uzaktı. Kune pire hacı Halil i n kafasını ağzında tutuyor ve cemale doğru yaklaşıyordu..\r\n\r\n## Derinlik\r\n-Birinin ölmesi gerekiyorsa bu ölüm defterine yazılır.\r\n-İsmi yazılan kişinin  ne zaman öleceği 6 dakika içinde belirtilmezse kişi kırk dakika içinde ölür.\r\n-Ölüm nedeni belirtilmeyen kişi kalp krizinden ölür. \r\n-İsmi yazılan kişi ismi yazılırken, ismi yazan kişi ölecek kişinin yüzüne bakarak yazması  gerekir. Bu aynı isimdeki kişilerin ayırt edilmesi için konulan bir kuraldır.\r\nBunlar tanrının koyduğu kurallar..\r\n\r\n![hikaye](hikaye4.jpg)\r\n\r\nÖlüm meleğinin canı sıkılmıştı. Çünkü ölüm meleği diyarı pek sıkıcıydı. Diyarda ölüm meleklerinin sayısı çok az ve zaman kavramı olmadığından kimse yok olmuyordu. Yok olmaları için belli prensiplerin bilinmesi gerekiyordu. \r\nVe bu prensipleri bilen tek varlık ölüm meleği tanrısıydı.\r\n\r\nÖlüm meleğinin canı çok sıkılmıştı. Çünkü Ölüm meleği diyarı çürüyordu. Diğer tüm ölüm melekleri artık çok pasif ve uyuşuk olmuş ölüm defterinin hakkını vermiyorlardı.\r\n\r\nCanın sıkılan ölüm meleği kendisinde iki tane olan ölüm defterinin insanların dünyasına atmaya karar verdi ve attı.\r\nDefter Boğaziçi üniversitesi fen bilimleri fakültesi bahçesine düştü. Daha havadayken yere süzülüşünü camdan bakan Kurban gördü. \r\nDefterinin düştüğü vakitte fizik dersi olmalı kı kurbanın cama bakması şans olmasa gerekti. Aradan biraz vakit geçti ve hoca ders i bitirdi. Kurban defteri unutmuştu aklına bile gelmedi. Ama yurda gitmek için eve gitmeye hareket \r\nEtmeye başladıktan sonra bahçeden geçerken defteri gördü ve aklına geldi. Defteri siyah ve mat ama çok ağır olması onu biraz şüphelendirdiyse de zengin züppelerinden birinindir diye defteri aldı ve herhangi bir isim bulmak için sayfaları karıştırdı.\r\n\r\nİlk sayfayı açınca mürekkepten farklı bişey ile yukarı da saymış olduğumuz kuralları gördü.\r\n\r\nDiğer sayfalar da çok fazla isim yazılmıştı hepside farklı milletlerden insan isimleriydi . İlk anlamadı ama defterin ilk sayfasını açınca kuralları okuduktan sonra şok olduysa da eşek şakası veya bir çocuğun hayal gücü gibi şeyler düşünerek çantaya attı.\r\n\r\nYurda odasına çekilince saat gece yarısını çoktan geçmişti. Teleskopun başına geçti ve Venüs,  Neptün ve ay  aynı karede olması olması onu biraz keyiflendirdi. Hemen ben keşfettim deyip sosyal medyaya yazacaktı ki NASA nın açıklamasını gördü ve ufak bir hayal kırıklığına uğrasa da kendisinin haberlere bakmadan bunu keşfetmiş olması onu tekrardan motive etti.\r\n\r\nYarın ki final de kuantum fiziği soruları ağırlıkta olacaktı ve hiç çalışmamıştı. Hemen çantayı açtı sabah aldığı defteri gördü. Defteri açtı;\r\n\r\n-Böyle saçma şeymi olur?\r\n-Bu eşek şakasının yapanda kim?\r\n-Bunlar kendini tanrı mı sanıyor ?\r\n\r\nOmuz silkti . Ama merak onun kibrini yendi ve denemekten zarar gelmez düşüncesiyle onu en çok sıkan kişinin devlet başkanı olduğunu hatırladı. Ne de olsa gerçek değil düşüncesiyle internetten bir resmini bulup ismi yazdı.\r\n\r\nHiçbir şey olmadı. Hayal kırıklığıyla yatağa yattı. Ama Kurbanı uyku tutmamıştı ve mutfağa giderek bir ıhlamur kaynattı. \r\nArdında tekrardan yatağa uzandı ve telefon eline aldı. Sosyal medyada biraz göz gezdirdi . Ve öyle bir irkilme geçirdi ki yataktan düştü.\r\nDelirecekti neredeyse. Tıpkı  bin yıl önceden yanlışlıkla geleceğe yolculuk yapıp gökyüzünde uçan demirleri gören birinin şaşkınlığından farksızdı.\r\n![hikaye](hikaye5.jpg)\r\nÇizgi roman çok eğlenceliydi ama köyden gelen seslerin dikkatini dağıtması yüzünden Kemal pencereden baktı.\r\n\r\nCemal sırtına Adem ve İbrahim mihrap kardeşleri almış sırtına kan revan içinde köyün merkezi olan havuza doğru sürünüyordu. Havuzun yanına yaklaşınca çeşmeyi açtı ve büyük bir çığlık sesi duyuldu. Cemal mikrop kapmasın diye İbrahim in boğazına suyu değdirince ibrahim in bağırmak istediği ancak kısılan sesi yüzünden ejderha çığlığına benzeyen bir ses ile bağırması  köyü bir anda ayağa kaldırdı. Topu topuna 16 hanesi olan köyün üç haneleri aşmayacak meraklı gözlerin hepsinin  aynı manzara karşısında  gösterdiği şaşkınlık yansımasındaki 3 insanın kırmızıyla dansından bariz belli oluyordu.\r\n\r\nAma bu fotoğrafta biri eksikti o da hacı Halil. Cemal en son onun kafasının kopmuş olduğunu görmüştü. Gördüklerini köy halkına anlatmak istiyordu ama hacı halile anlattığında hacı Halil in verdiği tepkiyi düşündükçe buna cesaret edemiyordu. \r\nBütün maneviyatını bütün duasını bütün ruhunu sadece Mihrap kardeşlerin yaşamasına adamıştı. Canla başla bir şeyler yapmaya çalışıyor ancak meraklı gözlerin gördükleri sadece bir takım deli hareketleri yapan Cemal in nasıl bir anda böyle olduğuydu. \r\nBu hareketler meraklı gözlere Mihrap kardeşlerin durumunun ne olduğunu kimin böyle canice bir saldırı yaptığı sorusunun cevabını veriyordu. \r\nAcaba Cemal mi yapmıştı?\r\n\r\n----\r\nKemalin canı sıkılmıştı çizgi romanı okurken dikkati dağılması yüzünden. Havuzun orada neler olur bittiğini öğrenmek için ayağa kalkmaya çalıştı ama çabası boşunaydı.Hava kararmaya başlamıştı artık havuzu bile göremeyecekti birkaç dakikaya kadar. Yürüyemediğini unutmuştu. Aslında yürüyemediğini unutmak için kitaplara sarılmıştı. O kadar üzücü  fiziki ve akli nimetlerden yoksun insanların hikayesini okudukça sadece ayağının olmamasına şükrediyordu. \r\n\r\nŞimdi ne yapsa boşunaydı evde kimse kalmamıştı. \r\nKemal bundan öncede evde tek başına kalmıştı ama bu sefer farklıydı. Tek başına kaldığında gaip ten sesler duyuluyordu. Sonuçta köydü burası kuzu, rüzgar, horoz, tavuk ve böcek seslerinin gelmesi çok normaldi. Hatta bazen öyle çığlıklar geliyordu ki yeryüzünde öyle ses çıkaran bir varlığın olmasına ihtimal vermiyordu Kemal. \r\n\r\nNefes sesi geliyordu hemen yaslandığı duvarın arkasında ki odadan. Kimsenin evde olmadığına da emindi.\r\n\r\nAma birden kapı açıldı. Kemal o gördüğü mahluk un ne olduğunu anlamaya çalışıyordu. Beyninde ki nöronlar o kadar hızlı hareket ediyordu ki nöronların hızı kafasından sanki yanan bir motorun hararet yapmasından sonra çıkan duman gibi bir koku hissetti kafasın da.\r\n\r\nBu kısacık saniyeler için de Kemalden gelen çığlık meraklı gözler güruhunu kemallerin evine yönlendirdi. Kemal uyku ilke uyanıklık arasında yastığının altından çıkardığı muskayı boynuna atacaktı ki kune pirenin elinin yastığını altından çekmesiyle irkildi.\r\nKune pire kapıda duruyordu. Ve eli o kadar uzundu ki tek elini uzatmasıyla yastığı Kemal’in altında ki yastığı alması bir oldu.\r\n\r\nVe bir haykırış yükseldi bir anda. Havuz başında ki meraklı gözler birden  Kemal in olduğu eve çevrildi.\r\nO kadar hızlı koştu ki köylüler yerdeki toprak iki metre yükseklikte toz bulutu oluşturmuştu.\r\n\r\nEvden içeri  ilk Reyhan girdi. O kadar çok seviyordu ki çocuğunu kılına zarar gelmesini göze alamıyordu. Gerçi babası çok fazla sevmiyordu. Hektarlarca arazisi olmasına rağmen evde işe yaramaz bir erkek ne kadar sevilebilirdi ki. Bu babasının savunmasıydı. Ona göre erkek çocuk yatırımdır. Ancak Kemal onun için külliyen zarardı. Sofrada ki artı bir tabak olmasına rağmen tabağın sahibinin yemeği hak edecek hiçbir şey yapmaması onu içten içe Kemal den soğutuyordu.\r\n\r\nReyhan kapıyı açtığında pembe köprünün yanında yuvalanan köy korucularının yemekten sonra bıraktıkları atıkların pis kokusu gibi bir koku geldi burnuna. Ama Kemalin kokusu yoktu ne yazık ki.\r\n\r\n\r\n\r\n",
         "type": "MarkdownRemark",
-        "contentDigest": "ad3c30f0db262f4096b0f3bc1984c845",
+        "contentDigest": "bf2b8f9882e4ff35369a3b05c14d9505",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -7193,51 +7047,19 @@
         }
       },
       "frontmatter": {
-        "title": "Yeni Risk Değerlendirme Teorileri",
+        "title": "dodonoo",
         "tags": [
-          "eviews, regresyon analizi,"
+          "metafizik, deneme,"
         ],
-        "cover": "image.jpg",
+        "cover": "hakiye3.jpg",
         "author": "İbrahim Karavaş"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\n## Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır.**\n\n**Command kısmına aşağıdakileri yazın**\n     ls prc c prcy\n\n- **ls** : EKK (En küçük kareler yöntemi)\n- **prc** : kişi başı tüketim\n- **pry** : kişi başı gelir\n- **ls** komutu ile tahmin ediyoruz.\n- **plot** komutu ile grafik oluşturuyoruz.\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n\n### Varsayımları Test\n> Ekk yaparken katsayılara ve hata terimine ilişkin varsayımları test ederiz. Aksi taktirde yapılan bu ekk'nın öngürüleri hatalı, saplamalı ve bilimsel olmaz.\n\n## Hata Terimine İlişkin Varsayımlar\n\nVarsayım 1 : Hata teriminin beklenen değeri 0'dır.\n$$\n  𝐸(𝑈_𝑖 )=0\n  $$\n\nBu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**\n\n![eq](image2.jpg)\n\n> Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;\n\n    H0 : Hatalar Normal Dağılmıştır.\n    H1 : Aksi durum\nBu durumda **Jarge-Bera** testinin prob değerinin **0.48** olarak görüyoruz, h0 hipotezini reddedemediğimiz için boş hipotez geçerli olur ve varsayımın geçerliliği sağlanmış olur.\n\nVarsayım 2 : Hata teriminin varyansı sabittir.",
-      "fileAbsolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
+      "rawMarkdownBody": "\r\nMezopotamyanın kuzeyinde yer alan köyde ilginç olaylar serisi başlamıştı. E tabi düğünde başlıyor bunu unutmamak gerekir.\r\n\r\n![hikaye](hakiye3.jpg)\r\n\r\nCemal iki katlı bir viranenin üst katında çoban göçmeni olarak yaşıyor. İlk katı ahır olan evin, geceleri dışarı çıkılması zor olan bu muhitin de inanması güç olan efsaneler,  geceleri televizyon olmaması sebebiyle hızla yayılıyor ve hayaller gerçeklerin önüne geçmeye başlıyordu ki cemal sıkılıp aşağıya indi.\r\n\r\nAllahtan korkuyor. Ama bir yaratıktan da korkacağı hiç aklına gelmemişti. Komşu hacı Halil’in viranesinde koyunların meeelemesi diğer meeelemeler gibi değildi. Aslında duyduğu bir iniltiydi. Hızla gelen bir trenin tuvaletindeki acil durum sifonunu çeken bir velet yüzünden ani frenin trenin demirlere yükü ve sürtünmesi ile oluşan o iniltinin bir benzeriydi.\r\n\r\nAma ahırda tren ne gezer.\r\n\r\nAldırmadı ama sigarasını yakmayıda ihmal etmedi. Sıkıntı sigarasıydı bu yaktığı. İniltinin geldiği hacı halilin viranesinin aksi yönünde ilerlemeye başlamıştı ki inltilerin artık bir karın tokluğu geğirine dönüştüğü o tuhaf sesi duydu.\r\n\r\n![image](hikaye2.jpg)\r\nBu sesle biraz irkildi ve elindeki sigara yeri düştü. Sigarayı almak için eğildi ama yerler ıslaktı.\r\n\r\nİçinden okkalı bir küfür salladı ve aksi yönde ilerlemeye devam etti.\r\n\r\nAyaklarının altında ki dere ove nin sesi kalbinde mutluluk kanlarının pompalanmasına sebep oldu ve bir sigara daha yaktı.\r\n\r\nBu yaktığıda mutluluk sigarasıydı.\r\n\r\n-Eh bu seste fazla oldu dedi içinden ergenleğinin verdiği cesaret sesinini dinleyerek ahıra yöneldi.\r\n\r\nBir nefes çekti ve adımlarının hızlaştırarak ilerlemeye devam etti.\r\n\r\nAhırın kapısını açtı.\r\n\r\nSamanlar kan revan içinde iki koyunun boğazından çıkan kanların gırtlakla temasında ki  o ses de,  bir an kurban bayramını hatırladı ama durumun vahametinin farkına vardı ve hemen ahırın kapısını kapattı korkuyla sigarası yine düştü bu korkuyla beraber.\r\n\r\nCemalin sigarasını düşüren tek şey korkuydu. Kapı kapandıktan hemen sonra arkasında iğrenç mahluk u gördü ve korkunun ne demek olduğu o muallak saniyeler de anladı ve kısa sürecek hayatının bu andan sonrasını\r\nBu saniyeleri düşünerek geçirecekti.\r\n\r\nO şey az önce canı sıkıldığı için viranenin damında çayla birlikte götürülen efsanede anlatılan mahluktu.\r\n\r\nİki saniyede bunları nasıl düşündüyse benim de 2 dakikada bunları yazmamda aynı şey.\r\n\r\nAraya Hüseyin girmese belki daha da ilginçleşecek hikayemiz ama verdiği pnr numarasını pax sisteminde yazarak çıkardığım etiketin yazıcıdan çıkarkenki zzzzzz sesi beni biraz motive etti. Aslına bakarsanız yandaki ofisteki arkadaşın açtığı\r\n müziğinde etkisi vardı.\r\n\r\nHoş geldin bahar hoş geldin dostum şarkı sözleri motivemi arttırdı.\r\n\r\n-Memelerinin yere sürtmesi nedir abi?\r\n-Vallahi gördüm memeleri yere sürtüyordu?\r\n-Abı sen dün cidden çayı fazla kaçırdın demek\r\n-Yemin billah Halil sende bana inanmazsan ben ne yaparım?  Delimi oluyorum yoksa?\r\n-yok ağabey estağfurullah…\r\n\r\nCemalin hacı Halil den duyduğu bu sözler aklına rüyamı gördüm yoksa deliriyor muyum? sorusunu dedirtti\r\nAma bu olanaksızdı rüyada hissedemesin. Ama bunu düşündükçe gece rüyalanmalarından sonra aldığı duş aklına gelir ve hissetmediysem cünup olmam olanaksız mantığını yürütüyor ve gördüğü mahlukun bir rüya\r\nObjesi olmadığına bir daha inanmaya başlıyordu.\r\n\r\nHacı Halil ile bu konuşması ikisi arasında dere ove ye kadar susmalarına sebep oldu.\r\n\r\nDere ove köyün altından geçen debisi bir hayli yüksek köylülerin dere ove dediği ancak kayıtlarda köylülerin duymadığı bir isim olan atamersin nehri idi.\r\n\r\nKış aylarında balık tutulur . Yaz aylarında da köylüler  güneşin sıcaklığından sarı olan saçları az da olsa serinletmek için debisi yüksek olan dere ove ye beyaz köprüden atlar, 6 km ötedeki köy korucularının yuvalandığı pempe köprüye kadar kendilerini akıntıya bırakır böylece nehiri arkalarına alarak güneşe meydan okumaya çalılşırlardı.\r\n\r\nHacı Halil bu sessizliği bozarak bağırdı;\r\n\r\n-Cemal Bak\r\nAz ileride Cemallerin arsası olan lehke silme de ki totem  köyünden iki genç yerde yatıyor ama kıpırdamıyorlardı.\r\n\r\nCemal omuz silkti. Çünkü bunlar İbrahim ve Adem Mihrap kardeşlerdi. Onlarla daha iki gün önce dere ove  de kavga etmişti . Ama kavga Cemalin Mihrap ailesine saygısından sadece sözlü olarak ufak bir tartişmaydı aslında.\r\n\r\nMihrap ailesi yedi kişilik geniş bir ailedir. Geçmişlerinde çok acılar çekmiş çok kazık yemişler ancak bu kazıklar evin reisi olan Mihrap kardeşlerinin babası Ferruh u çok fazla düşünmeye ve bunun sonucu olarak tüm kazıklardan ders çıkararak \r\nÇocukların tamamını okutmaya adamıştı kendisini. \r\n\r\nBunun için devletin koyduğu kuralı ve hatta köyün yoğun psikolojik baskısına göğüs germiş ve tüm çocuklarının okutmuştu.\r\n\r\n![hikaye](hikaye1.jpg)\r\n\r\nİbrahim ve adem in üç ablası da üniversiteyi okumuştur. Fakat İbrahim ve adem sadece liseyi okumuş ve aile yapısı diğer köylülerden farklı bir yapıya dönüşmüştür. \r\n\r\nMihrap ailesi kozmopolit bir aile yapısına sahipti. Diğer viranelerde kızların kesinlikle söz hakkı yokken Mihrap ailesinde evi yöneten aslında kızlardı. Çok zeki ve eğitimli olmalarının  hasebiyle diğer viranelerde erkek çocuklar\r\nBüyük ablaları her istediğini yaptırırken Mihrap ailesinde bu mümkün değildi . Ama buna rağmen Mihrap ailesinin mutluluğu tüm köyün imrenerek bakmasına sebep oluyordu. \r\n\r\nMihrap ailesinin kızları köyün ilk yüksek okul okuyan kızları olması ve okuduktan sonra da köyde atılım yaratmaları devletin dikkatinin çekmiş ve devlet bunun aksinin doğması için çok çaba sarf etmiştir.\r\n\r\nÖnceden devlet kızları başınıza bela olurlar orospu olurlar ve bunları askerler aracılığıyla köy halkına ulaştırması halk üzerinde takdire şayan bir başarı göstermiş, b,ir taşla iki kuş vurmuş ve hiçbir aile kızları ve hatta hiçbir çocuğunu okutmamaya karar vermiştir.\r\n\r\nAncak Mihrap ailesinin en büyüğü olan Resul un – hacıbaba diye tanınırdı- tüm torunlara daha çocuk yaşta yoğun dini eğitim vermesi çocuklarının kuran ahlakı ile ahlaklanmasına sebep oldu. \r\n\r\nErkeklerden farklı olarak kızlar okumaya kendilerini adadılar.\r\n\r\nİlk kuranı bitirdiler ardından nehçıran ı ardından mevlutu ardında da okula başladılar. \r\n\r\nOkulda büyük başarılar göstererek il birinciğini asla bırakmadılar ilkokul boyunca.\r\nAslında lise yılları da bundan farklı değildi ancak şehrin en büyük aşiret reisi erkek çocuğunu tüm lise hayatı boyunca topu topuna bir iki ay okula giden oğlanı sınavsız üniversiteye sokmak için kızların önüne kesmiş ve kızlar ikinci olmuştu.\r\n\r\nAma bu bile yıldırmamış üniversite sınavında daha büyük bir başarı göstererek ülkede ilk yüz e girmeyi başarmışlardır.\r\n\r\nCemal yerde yatmış olan İbrahim ve ademin yanına hareketlendi ve biraz daha yaklaşınca kırmızı sıvı başını döndürdü. \r\nBu kandı. \r\n\r\nYerde çok fazla kan ve ileride ki çalılıkta bir şeyler oynuyordu.\r\n\r\nHacı Halil çalılığa doğru yürümeye başladı cemal de çocukların nabzına baktı ikisinde yaşıyordu. \r\n\r\nİbrahim boğazından ağır yaralıydı ademin ise kasıkların çok fazla kan akıyordu.\r\n\r\nCemal bir haykırışla irkildi. Hacı Halil den geliyordu bu ses. Hemen ayağa kalktı ve dün gördüğü yaratığı rüya olmadığını şimdide karşısında olması ona gerçek duygusu tattırdı.\r\n\r\nHacı Halil in kafası dün gece ki yaratığın ağzındaydı . Cemal korktu kaçmaya başlayacaktı ki köy çok fazla uzaktı. Kune pire hacı Halil i n kafasını ağzında tutuyor ve cemale doğru yaklaşıyordu..\r\n\r\n## Derinlik\r\n-Birinin ölmesi gerekiyorsa bu ölüm defterine yazılır.\r\n-İsmi yazılan kişinin  ne zaman öleceği 6 dakika içinde belirtilmezse kişi kırk dakika içinde ölür.\r\n-Ölüm nedeni belirtilmeyen kişi kalp krizinden ölür. \r\n-İsmi yazılan kişi ismi yazılırken, ismi yazan kişi ölecek kişinin yüzüne bakarak yazması  gerekir. Bu aynı isimdeki kişilerin ayırt edilmesi için konulan bir kuraldır.\r\nBunlar tanrının koyduğu kurallar..\r\n\r\n![hikaye](hikaye4.jpg)\r\n\r\nÖlüm meleğinin canı sıkılmıştı. Çünkü ölüm meleği diyarı pek sıkıcıydı. Diyarda ölüm meleklerinin sayısı çok az ve zaman kavramı olmadığından kimse yok olmuyordu. Yok olmaları için belli prensiplerin bilinmesi gerekiyordu. \r\nVe bu prensipleri bilen tek varlık ölüm meleği tanrısıydı.\r\n\r\nÖlüm meleğinin canı çok sıkılmıştı. Çünkü Ölüm meleği diyarı çürüyordu. Diğer tüm ölüm melekleri artık çok pasif ve uyuşuk olmuş ölüm defterinin hakkını vermiyorlardı.\r\n\r\nCanın sıkılan ölüm meleği kendisinde iki tane olan ölüm defterinin insanların dünyasına atmaya karar verdi ve attı.\r\nDefter Boğaziçi üniversitesi fen bilimleri fakültesi bahçesine düştü. Daha havadayken yere süzülüşünü camdan bakan Kurban gördü. \r\nDefterinin düştüğü vakitte fizik dersi olmalı kı kurbanın cama bakması şans olmasa gerekti. Aradan biraz vakit geçti ve hoca ders i bitirdi. Kurban defteri unutmuştu aklına bile gelmedi. Ama yurda gitmek için eve gitmeye hareket \r\nEtmeye başladıktan sonra bahçeden geçerken defteri gördü ve aklına geldi. Defteri siyah ve mat ama çok ağır olması onu biraz şüphelendirdiyse de zengin züppelerinden birinindir diye defteri aldı ve herhangi bir isim bulmak için sayfaları karıştırdı.\r\n\r\nİlk sayfayı açınca mürekkepten farklı bişey ile yukarı da saymış olduğumuz kuralları gördü.\r\n\r\nDiğer sayfalar da çok fazla isim yazılmıştı hepside farklı milletlerden insan isimleriydi . İlk anlamadı ama defterin ilk sayfasını açınca kuralları okuduktan sonra şok olduysa da eşek şakası veya bir çocuğun hayal gücü gibi şeyler düşünerek çantaya attı.\r\n\r\nYurda odasına çekilince saat gece yarısını çoktan geçmişti. Teleskopun başına geçti ve Venüs,  Neptün ve ay  aynı karede olması olması onu biraz keyiflendirdi. Hemen ben keşfettim deyip sosyal medyaya yazacaktı ki NASA nın açıklamasını gördü ve ufak bir hayal kırıklığına uğrasa da kendisinin haberlere bakmadan bunu keşfetmiş olması onu tekrardan motive etti.\r\n\r\nYarın ki final de kuantum fiziği soruları ağırlıkta olacaktı ve hiç çalışmamıştı. Hemen çantayı açtı sabah aldığı defteri gördü. Defteri açtı;\r\n\r\n-Böyle saçma şeymi olur?\r\n-Bu eşek şakasının yapanda kim?\r\n-Bunlar kendini tanrı mı sanıyor ?\r\n\r\nOmuz silkti . Ama merak onun kibrini yendi ve denemekten zarar gelmez düşüncesiyle onu en çok sıkan kişinin devlet başkanı olduğunu hatırladı. Ne de olsa gerçek değil düşüncesiyle internetten bir resmini bulup ismi yazdı.\r\n\r\nHiçbir şey olmadı. Hayal kırıklığıyla yatağa yattı. Ama Kurbanı uyku tutmamıştı ve mutfağa giderek bir ıhlamur kaynattı. \r\nArdında tekrardan yatağa uzandı ve telefon eline aldı. Sosyal medyada biraz göz gezdirdi . Ve öyle bir irkilme geçirdi ki yataktan düştü.\r\nDelirecekti neredeyse. Tıpkı  bin yıl önceden yanlışlıkla geleceğe yolculuk yapıp gökyüzünde uçan demirleri gören birinin şaşkınlığından farksızdı.\r\n![hikaye](hikaye5.jpg)\r\nÇizgi roman çok eğlenceliydi ama köyden gelen seslerin dikkatini dağıtması yüzünden Kemal pencereden baktı.\r\n\r\nCemal sırtına Adem ve İbrahim mihrap kardeşleri almış sırtına kan revan içinde köyün merkezi olan havuza doğru sürünüyordu. Havuzun yanına yaklaşınca çeşmeyi açtı ve büyük bir çığlık sesi duyuldu. Cemal mikrop kapmasın diye İbrahim in boğazına suyu değdirince ibrahim in bağırmak istediği ancak kısılan sesi yüzünden ejderha çığlığına benzeyen bir ses ile bağırması  köyü bir anda ayağa kaldırdı. Topu topuna 16 hanesi olan köyün üç haneleri aşmayacak meraklı gözlerin hepsinin  aynı manzara karşısında  gösterdiği şaşkınlık yansımasındaki 3 insanın kırmızıyla dansından bariz belli oluyordu.\r\n\r\nAma bu fotoğrafta biri eksikti o da hacı Halil. Cemal en son onun kafasının kopmuş olduğunu görmüştü. Gördüklerini köy halkına anlatmak istiyordu ama hacı halile anlattığında hacı Halil in verdiği tepkiyi düşündükçe buna cesaret edemiyordu. \r\nBütün maneviyatını bütün duasını bütün ruhunu sadece Mihrap kardeşlerin yaşamasına adamıştı. Canla başla bir şeyler yapmaya çalışıyor ancak meraklı gözlerin gördükleri sadece bir takım deli hareketleri yapan Cemal in nasıl bir anda böyle olduğuydu. \r\nBu hareketler meraklı gözlere Mihrap kardeşlerin durumunun ne olduğunu kimin böyle canice bir saldırı yaptığı sorusunun cevabını veriyordu. \r\nAcaba Cemal mi yapmıştı?\r\n\r\n----\r\nKemalin canı sıkılmıştı çizgi romanı okurken dikkati dağılması yüzünden. Havuzun orada neler olur bittiğini öğrenmek için ayağa kalkmaya çalıştı ama çabası boşunaydı.Hava kararmaya başlamıştı artık havuzu bile göremeyecekti birkaç dakikaya kadar. Yürüyemediğini unutmuştu. Aslında yürüyemediğini unutmak için kitaplara sarılmıştı. O kadar üzücü  fiziki ve akli nimetlerden yoksun insanların hikayesini okudukça sadece ayağının olmamasına şükrediyordu. \r\n\r\nŞimdi ne yapsa boşunaydı evde kimse kalmamıştı. \r\nKemal bundan öncede evde tek başına kalmıştı ama bu sefer farklıydı. Tek başına kaldığında gaip ten sesler duyuluyordu. Sonuçta köydü burası kuzu, rüzgar, horoz, tavuk ve böcek seslerinin gelmesi çok normaldi. Hatta bazen öyle çığlıklar geliyordu ki yeryüzünde öyle ses çıkaran bir varlığın olmasına ihtimal vermiyordu Kemal. \r\n\r\nNefes sesi geliyordu hemen yaslandığı duvarın arkasında ki odadan. Kimsenin evde olmadığına da emindi.\r\n\r\nAma birden kapı açıldı. Kemal o gördüğü mahluk un ne olduğunu anlamaya çalışıyordu. Beyninde ki nöronlar o kadar hızlı hareket ediyordu ki nöronların hızı kafasından sanki yanan bir motorun hararet yapmasından sonra çıkan duman gibi bir koku hissetti kafasın da.\r\n\r\nBu kısacık saniyeler için de Kemalden gelen çığlık meraklı gözler güruhunu kemallerin evine yönlendirdi. Kemal uyku ilke uyanıklık arasında yastığının altından çıkardığı muskayı boynuna atacaktı ki kune pirenin elinin yastığını altından çekmesiyle irkildi.\r\nKune pire kapıda duruyordu. Ve eli o kadar uzundu ki tek elini uzatmasıyla yastığı Kemal’in altında ki yastığı alması bir oldu.\r\n\r\nVe bir haykırış yükseldi bir anda. Havuz başında ki meraklı gözler birden  Kemal in olduğu eve çevrildi.\r\nO kadar hızlı koştu ki köylüler yerdeki toprak iki metre yükseklikte toz bulutu oluşturmuştu.\r\n\r\nEvden içeri  ilk Reyhan girdi. O kadar çok seviyordu ki çocuğunu kılına zarar gelmesini göze alamıyordu. Gerçi babası çok fazla sevmiyordu. Hektarlarca arazisi olmasına rağmen evde işe yaramaz bir erkek ne kadar sevilebilirdi ki. Bu babasının savunmasıydı. Ona göre erkek çocuk yatırımdır. Ancak Kemal onun için külliyen zarardı. Sofrada ki artı bir tabak olmasına rağmen tabağın sahibinin yemeği hak edecek hiçbir şey yapmaması onu içten içe Kemal den soğutuyordu.\r\n\r\nReyhan kapıyı açtığında pembe köprünün yanında yuvalanan köy korucularının yemekten sonra bıraktıkları atıkların pis kokusu gibi bir koku geldi burnuna. Ama Kemalin kokusu yoktu ne yazık ki.\r\n\r\n\r\n\r\n",
+      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-04-26--bir-hikaye/index.md",
       "fields": {
-        "slug": "/yeni-risk-değerleme-teorileri/",
-        "prefix": "2019-04-05",
-        "source": "posts"
-      }
-    },
-    "97c99610-d026-5ecb-a184-76d38a07ed47": {
-      "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
-      "children": [],
-      "parent": "42863eef-b26b-5d3b-8af5-a0a626d9ac21",
-      "internal": {
-        "content": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "19c22c55934c97babb0e8cbe905b488e",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin",
-          "source": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Türkiyenin Marjinal Tüketim Eğilimi",
-        "tags": [
-          "eviews, regresyon analizi,"
-        ],
-        "cover": "image.jpg",
-        "author": "ibrahim karavas"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
-      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
-      "fields": {
-        "slug": "/basit-regresyon-devam/",
-        "prefix": "2019-05-12",
+        "slug": "/bir-hikaye/",
+        "prefix": "2019-04-26",
         "source": "posts"
       }
     },
@@ -7492,43 +7314,6 @@
       "context": {
         "slug": "/basit-regresyon-devam/",
         "next": {
-          "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
-          "excerpt": "",
-          "fields": {
-            "slug": "/hikaye-devam/",
-            "prefix": "2019-05-11",
-            "source": "posts"
-          },
-          "frontmatter": {
-            "title": "",
-            "tags": null,
-            "cover": null
-          }
-        },
-        "source": "posts"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
-      "id": "SitePage /basit-regresyon-devam/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "49971ed97353668b5308a825a93a0378",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hikaye-devam/": {
-      "jsonName": "hikaye-devam-126",
-      "internalComponentName": "ComponentHikayeDevam",
-      "path": "/hikaye-devam/",
-      "component": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/hikaye-devam/",
-        "next": {
           "id": "1bb57d25-86ea-5a5d-a074-863083b468a4",
           "excerpt": "Daha önceki yazımızda basit regresyondan bahsetmiştik.  Bir an önce herkes programlara sarılıp bunu denemek istedi biliyorum.\nBenim…",
           "fields": {
@@ -7560,47 +7345,17 @@
             }
           }
         },
-        "prev": {
-          "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
-          "excerpt": "Burada Eview’s ile bir genel uygulamalı bir ekonomi analizi yapacağız Başlıkta söylenildiği gibi bir analiz için   burada  kullanacağımız…",
-          "fields": {
-            "slug": "/basit-regresyon-devam/",
-            "prefix": "2019-05-12",
-            "source": "posts"
-          },
-          "frontmatter": {
-            "title": "Türkiyenin Marjinal Tüketim Eğilimi",
-            "tags": [
-              "eviews, regresyon analizi,"
-            ],
-            "cover": {
-              "children": [
-                {
-                  "fluid": {
-                    "tracedSVG": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='400' height='267' viewBox='0 0 400 267' version='1'%3e%3cpath d='M71 43l-1 2c0 3-5 9-8 9l-2 3c-1 4-5 8-7 8-1 0-2 1-2 3-1 3-5 8-7 8l-2 2c-1 4-4 7-6 7l-2 3-1 4c-1 3-1 6 1 7 3 0 2 1-8 12l-10 11-6-2-8-4c-2 0-2 4-2 75v76h401v-76l-1-70v6l-25-23c-48-43-51-46-53-46a1407 1407 0 0 0-90 51l-4 2-3-2c-4-4-4-3 0 1 5 5 2 4-4-1l-10-9c-5-3-6-5-4-5l11 8c4 4 5 3 1-1-18-17-55-30-86-30-14 0-15 0-7 4l4 4 1 1v2c-2 1-2 1-7-2l-6-3c-1 0-3-3-2-4 0-2-2-4-4-3v-1l3-2h1c0-1-3-2-4-1l-2 4c0 2 0 2-1 1l-4-2-4-3-5-2c-1 0-2 0-1-1 1 0 0-3-2-5-1-2-1-2 1-2h2c-1-3-7-2-7 2l-1 2-1-1h-1v-2c-1 1-11-4-11-5l1-1v-3l-1-1-1-1c2-2-2-6-3-4m7 18l3 2 12 6a4232 4232 0 0 0 64 34 730 730 0 0 0-79-42m240 15a266 266 0 0 1-20 10 1360 1360 0 0 1-50 27c-16 9-16 9-18 5-1-4-4-5-3-2s0 2-6-4c-11-11-34-23-46-25l-4-2-4-2c-5-2 0-2 5-1l6 2 15 6 3 1c2-3-28-13-34-12-3 0-5 2-3 2l8 4a6369 6369 0 0 0 72 40c-1-1 15-10 18-10l2-1a84 84 0 0 1 18-10 75 75 0 0 1 18-9 67 67 0 0 1 18-10h1l1-1h1l1-1 2-2h3c1 1 0 2-2 2h-1l-2 2c-3 2-3 3-3 9 0 8 3 31 4 31l1-1c0-2 0-2 1-1 0 1 2 1 6-1s5-2 7-1l3 2v-3a653 653 0 0 0-8-32c0-2 0-2 2-1 2 0 2 0 0-3l-2-3v-2c-3-2-5-3-3-1 1 2 1 2-1 2l-1-1c1-2-2-1-12 5l-12 5 10-6 10-6c2-1 1-2-1-1m-186 4l2 2c1 1 1 1-1 1s-4 2-1 2h2v-1l1 1c-1 1 1 3 4 5a1026 1026 0 0 1 10 2v-1c-1-1 0-4 2-4 1-1-1-1-4-1-4 0-5-1-8-3l-3-2-1-1h-3m19 11l1 4c1 2 5 5 7 5l2 1 7 4c18 10 27 14 33 16h5l-1-2c0-1-3-3-5-3l-3-3c-1-2-2-2-2-1 1 3 0 2-6-1-4-2-4-4 0-2l3 1c1-1-6-4-7-3l-2-1h-1l-12-6-5-3-13-7c-1-1-1-1-1 1m-54 1l3 3 3 2 2 1 3 3c0 2 1 2 3 2h4c2 2 2 2 0 4v3c-1 3 2 3 6 0l7-4c2 0 2 0 0-2h-5c0-2-10-8-13-8h-2l-1-1c1-1-4-3-7-4l-3 1m196 7l1 16a245 245 0 0 1 2 20l1-1 1-2 1 1c0 2 2-1 3-4l1-3v3c0 2 0 3 1 2 1 0 2-1 1-3l-3-15c0-7-2-12-2-12l-1 3 1 10-2-8-2-8c0-2-2-1-3 1m-18 12v13c2 19 2 20 8 17l2-2a332 332 0 0 1-4-28c-1 1-1 6 1 10l-1 3-2-8-2-8c-1-2-2-1-2 3m-148 5l17 8a5396 5396 0 0 1-17-8m14 2l50 10a1189 1189 0 0 1 12 0 3871 3871 0 0 1-62-10m117-1l-1 13-1 12c-2-2-1 1 3 4l4 3-1-16c-2-15-3-19-4-16m63 13a913 913 0 0 0-53 24c0 3 15 15 24 19l4 4 1 2c2 1 2 3 2 4l8 9 7 6v-4l-1-4 5-1c6-3 6-3 7 6l2 7v2c0 2-2 3-8 5s-7 2-5 3l11-2 7-2c2 2 2 6 1 6-2 1-1 8 0 7h3c1 0 1-2-1-3-1-1 0-1 3-2s4-1 3-2v-1h-1l-3 1h-1l5-3c4-1 5-3 2-4l-2 2h-1l-3-1h-2l1-1 5-1c3-2 4-2 6 0l1 1c-2 0-3 2-1 3l1 1c-1 1 0 4 2 4l2 1-2 1c-3-1-2 0 1 3 3 2 3 2 1 2-3-1-4 0-1 2v1l-1 1c0 2 7 6 8 5 0-1-2-15-4-19l-1-3h3l3 1-1-4-3-6v-1c2 0 0-6-2-7l-1-3c0-2 6 2 7 4a294 294 0 0 0 2 17c-4-1-2 1 3 3l4 3 1 1v-3l1-2c2 0 1-3-1-4v-1c1 0 0-5-2-7-2-3-1-4 2-2l4 4c2 11 3 13 5 14s3 1 3-1l1-1c1 0 0-4-2-6s-1-4 1-4c3 2 4 2 4 0l1-3h2l1 1v-4l-1-4-2-5-1-3 4 2c2 1 3 2 2 4l1 2 2 1v2c1 1 1 1 1-1l-1-3-1-1-1-3 1-3v-7c1-2-2-5-3-4h-1v-2l-1-1-1-2v7a248 248 0 0 1 1 9l-1-2v-1c-1-1-2-1-1-2l-1-1c-1 1-2 0-2-3l-1-4v-2l-1-4-3-6-2-1h-1v-2h-2l3 14c0 1-1 1-2-1l-2-4-1-2v-1c1-3-8-17-10-15 0 1 1 10 3 13 0 3-2 2-3-1a205 205 0 0 0-6-15v-1l-1-1c1-1-21-17-23-18l-10 4m-191 6l-1 2 4 2 10 4 6 3c4 2 8 4 9 3l2 1 2 2 9 4 10 4 3 1 1 1 1 1 4 2 3 1 1 1 6 2a423 423 0 0 0 48 22 685 685 0 0 0 28 12 659 659 0 0 0 28 11c0-2-9-8-15-9a342 342 0 0 1-29-13l-2-1a298 298 0 0 0-42-20 194 194 0 0 0-32-14l-5-3-6-2-3-1-4-3-4-1-7-4-4-1-4-1c-2-1-3-1-2-2l-1-1h-1l-12-6-1 3m180 1l-4 3 3 14 5-2c4-1 4-1 4-5l-2-4v-4c0-5 0-5-6-2m-181 6l4 3 2 2-3-1-3-1 18 9c7 3 4 0-4-3l-6-4 10 4 28 12a52700 52700 0 0 1-46-20m160 2l-4 2 1 5c1 11 0 10 6 8l4-1-1-6c-1-10-1-10-6-8m28 15l-5 2-3 1 2 8 1 8c1 1 10-3 10-5 0-3-1-6-3-6v-1c1 0 2-8 0-8l-2 1m-147 3l12 6 1-1h2v1c-2 0-2 0 0 2 3 1 7 2 4 0s2-1 6 1l5 4v1l1-1h2v1c-1 1-1 1 1 1h1c-1 1-1 1 1 1h1c-1 1-1 1 2 1h1c-1 1-1 1 2 1h1c-2 0-2 1 1 2 5 2 7 3 4 1-2-2 0-2 3 0l1 1c-2 0-2 0 0 1 4 3 7 3 7 2l6 2c5 2 6 3 4 3-1 1 0 1 2 1h2l-1 1h2c0-1 3-1 6 1v1c-4 0-2 2 3 3 3 1 7 2 8 1v1c-1 1-1 1 1 1h3c2-1 1-1-31-16a11667 11667 0 0 1-57-23h-5l-2-1M65 201c-3 10-2 13 1 13 3 1 3 2 4-6 2-6 1-9-2-10-2-1-2 0-3 3' fill='%23f9ebd2' fill-rule='evenodd'/%3e%3c/svg%3e",
-                    "aspectRatio": 2.2222222222222223,
-                    "src": "/static/b74736d55f52686fbbcd1ef9ab7dc436/5387a/image.jpg",
-                    "srcSet": "/static/b74736d55f52686fbbcd1ef9ab7dc436/12dae/image.jpg 200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/dd735/image.jpg 400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/5387a/image.jpg 800w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/72446/image.jpg 1200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/0bf02/image.jpg 1600w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/0313c/image.jpg 2400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/e8e8c/image.jpg 6000w",
-                    "srcWebp": "/static/b74736d55f52686fbbcd1ef9ab7dc436/97f69/image.webp",
-                    "srcSetWebp": "/static/b74736d55f52686fbbcd1ef9ab7dc436/71432/image.webp 200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/0b198/image.webp 400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/97f69/image.webp 800w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/e23e5/image.webp 1200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/48630/image.webp 1600w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/76f7c/image.webp 2400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/d4c51/image.webp 6000w",
-                    "sizes": "(max-width: 800px) 100vw, 800px"
-                  }
-                }
-              ]
-            }
-          }
-        },
         "source": "posts"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/PostTemplate.js",
-      "id": "SitePage /hikaye-devam/",
+      "id": "SitePage /basit-regresyon-devam/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47e7f36b58391be8e992d47b83fa35b8",
+        "contentDigest": "2c2d7760ad4096a09e3bcfc3f96abacf",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -7644,17 +7399,33 @@
           }
         },
         "prev": {
-          "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
-          "excerpt": "",
+          "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
+          "excerpt": "Burada Eview’s ile bir genel uygulamalı bir ekonomi analizi yapacağız Başlıkta söylenildiği gibi bir analiz için   burada  kullanacağımız…",
           "fields": {
-            "slug": "/hikaye-devam/",
-            "prefix": "2019-05-11",
+            "slug": "/basit-regresyon-devam/",
+            "prefix": "2019-05-12",
             "source": "posts"
           },
           "frontmatter": {
-            "title": "",
-            "tags": null,
-            "cover": null
+            "title": "Türkiyenin Marjinal Tüketim Egilimi",
+            "tags": [
+              "eviews, regresyon analizi,"
+            ],
+            "cover": {
+              "children": [
+                {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='400' height='267' viewBox='0 0 400 267' version='1'%3e%3cpath d='M71 43l-1 2c0 3-5 9-8 9l-2 3c-1 4-5 8-7 8-1 0-2 1-2 3-1 3-5 8-7 8l-2 2c-1 4-4 7-6 7l-2 3-1 4c-1 3-1 6 1 7 3 0 2 1-8 12l-10 11-6-2-8-4c-2 0-2 4-2 75v76h401v-76l-1-70v6l-25-23c-48-43-51-46-53-46a1407 1407 0 0 0-90 51l-4 2-3-2c-4-4-4-3 0 1 5 5 2 4-4-1l-10-9c-5-3-6-5-4-5l11 8c4 4 5 3 1-1-18-17-55-30-86-30-14 0-15 0-7 4l4 4 1 1v2c-2 1-2 1-7-2l-6-3c-1 0-3-3-2-4 0-2-2-4-4-3v-1l3-2h1c0-1-3-2-4-1l-2 4c0 2 0 2-1 1l-4-2-4-3-5-2c-1 0-2 0-1-1 1 0 0-3-2-5-1-2-1-2 1-2h2c-1-3-7-2-7 2l-1 2-1-1h-1v-2c-1 1-11-4-11-5l1-1v-3l-1-1-1-1c2-2-2-6-3-4m7 18l3 2 12 6a4232 4232 0 0 0 64 34 730 730 0 0 0-79-42m240 15a266 266 0 0 1-20 10 1360 1360 0 0 1-50 27c-16 9-16 9-18 5-1-4-4-5-3-2s0 2-6-4c-11-11-34-23-46-25l-4-2-4-2c-5-2 0-2 5-1l6 2 15 6 3 1c2-3-28-13-34-12-3 0-5 2-3 2l8 4a6369 6369 0 0 0 72 40c-1-1 15-10 18-10l2-1a84 84 0 0 1 18-10 75 75 0 0 1 18-9 67 67 0 0 1 18-10h1l1-1h1l1-1 2-2h3c1 1 0 2-2 2h-1l-2 2c-3 2-3 3-3 9 0 8 3 31 4 31l1-1c0-2 0-2 1-1 0 1 2 1 6-1s5-2 7-1l3 2v-3a653 653 0 0 0-8-32c0-2 0-2 2-1 2 0 2 0 0-3l-2-3v-2c-3-2-5-3-3-1 1 2 1 2-1 2l-1-1c1-2-2-1-12 5l-12 5 10-6 10-6c2-1 1-2-1-1m-186 4l2 2c1 1 1 1-1 1s-4 2-1 2h2v-1l1 1c-1 1 1 3 4 5a1026 1026 0 0 1 10 2v-1c-1-1 0-4 2-4 1-1-1-1-4-1-4 0-5-1-8-3l-3-2-1-1h-3m19 11l1 4c1 2 5 5 7 5l2 1 7 4c18 10 27 14 33 16h5l-1-2c0-1-3-3-5-3l-3-3c-1-2-2-2-2-1 1 3 0 2-6-1-4-2-4-4 0-2l3 1c1-1-6-4-7-3l-2-1h-1l-12-6-5-3-13-7c-1-1-1-1-1 1m-54 1l3 3 3 2 2 1 3 3c0 2 1 2 3 2h4c2 2 2 2 0 4v3c-1 3 2 3 6 0l7-4c2 0 2 0 0-2h-5c0-2-10-8-13-8h-2l-1-1c1-1-4-3-7-4l-3 1m196 7l1 16a245 245 0 0 1 2 20l1-1 1-2 1 1c0 2 2-1 3-4l1-3v3c0 2 0 3 1 2 1 0 2-1 1-3l-3-15c0-7-2-12-2-12l-1 3 1 10-2-8-2-8c0-2-2-1-3 1m-18 12v13c2 19 2 20 8 17l2-2a332 332 0 0 1-4-28c-1 1-1 6 1 10l-1 3-2-8-2-8c-1-2-2-1-2 3m-148 5l17 8a5396 5396 0 0 1-17-8m14 2l50 10a1189 1189 0 0 1 12 0 3871 3871 0 0 1-62-10m117-1l-1 13-1 12c-2-2-1 1 3 4l4 3-1-16c-2-15-3-19-4-16m63 13a913 913 0 0 0-53 24c0 3 15 15 24 19l4 4 1 2c2 1 2 3 2 4l8 9 7 6v-4l-1-4 5-1c6-3 6-3 7 6l2 7v2c0 2-2 3-8 5s-7 2-5 3l11-2 7-2c2 2 2 6 1 6-2 1-1 8 0 7h3c1 0 1-2-1-3-1-1 0-1 3-2s4-1 3-2v-1h-1l-3 1h-1l5-3c4-1 5-3 2-4l-2 2h-1l-3-1h-2l1-1 5-1c3-2 4-2 6 0l1 1c-2 0-3 2-1 3l1 1c-1 1 0 4 2 4l2 1-2 1c-3-1-2 0 1 3 3 2 3 2 1 2-3-1-4 0-1 2v1l-1 1c0 2 7 6 8 5 0-1-2-15-4-19l-1-3h3l3 1-1-4-3-6v-1c2 0 0-6-2-7l-1-3c0-2 6 2 7 4a294 294 0 0 0 2 17c-4-1-2 1 3 3l4 3 1 1v-3l1-2c2 0 1-3-1-4v-1c1 0 0-5-2-7-2-3-1-4 2-2l4 4c2 11 3 13 5 14s3 1 3-1l1-1c1 0 0-4-2-6s-1-4 1-4c3 2 4 2 4 0l1-3h2l1 1v-4l-1-4-2-5-1-3 4 2c2 1 3 2 2 4l1 2 2 1v2c1 1 1 1 1-1l-1-3-1-1-1-3 1-3v-7c1-2-2-5-3-4h-1v-2l-1-1-1-2v7a248 248 0 0 1 1 9l-1-2v-1c-1-1-2-1-1-2l-1-1c-1 1-2 0-2-3l-1-4v-2l-1-4-3-6-2-1h-1v-2h-2l3 14c0 1-1 1-2-1l-2-4-1-2v-1c1-3-8-17-10-15 0 1 1 10 3 13 0 3-2 2-3-1a205 205 0 0 0-6-15v-1l-1-1c1-1-21-17-23-18l-10 4m-191 6l-1 2 4 2 10 4 6 3c4 2 8 4 9 3l2 1 2 2 9 4 10 4 3 1 1 1 1 1 4 2 3 1 1 1 6 2a423 423 0 0 0 48 22 685 685 0 0 0 28 12 659 659 0 0 0 28 11c0-2-9-8-15-9a342 342 0 0 1-29-13l-2-1a298 298 0 0 0-42-20 194 194 0 0 0-32-14l-5-3-6-2-3-1-4-3-4-1-7-4-4-1-4-1c-2-1-3-1-2-2l-1-1h-1l-12-6-1 3m180 1l-4 3 3 14 5-2c4-1 4-1 4-5l-2-4v-4c0-5 0-5-6-2m-181 6l4 3 2 2-3-1-3-1 18 9c7 3 4 0-4-3l-6-4 10 4 28 12a52700 52700 0 0 1-46-20m160 2l-4 2 1 5c1 11 0 10 6 8l4-1-1-6c-1-10-1-10-6-8m28 15l-5 2-3 1 2 8 1 8c1 1 10-3 10-5 0-3-1-6-3-6v-1c1 0 2-8 0-8l-2 1m-147 3l12 6 1-1h2v1c-2 0-2 0 0 2 3 1 7 2 4 0s2-1 6 1l5 4v1l1-1h2v1c-1 1-1 1 1 1h1c-1 1-1 1 1 1h1c-1 1-1 1 2 1h1c-1 1-1 1 2 1h1c-2 0-2 1 1 2 5 2 7 3 4 1-2-2 0-2 3 0l1 1c-2 0-2 0 0 1 4 3 7 3 7 2l6 2c5 2 6 3 4 3-1 1 0 1 2 1h2l-1 1h2c0-1 3-1 6 1v1c-4 0-2 2 3 3 3 1 7 2 8 1v1c-1 1-1 1 1 1h3c2-1 1-1-31-16a11667 11667 0 0 1-57-23h-5l-2-1M65 201c-3 10-2 13 1 13 3 1 3 2 4-6 2-6 1-9-2-10-2-1-2 0-3 3' fill='%23f9ebd2' fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 2.2222222222222223,
+                    "src": "/static/b74736d55f52686fbbcd1ef9ab7dc436/5387a/image.jpg",
+                    "srcSet": "/static/b74736d55f52686fbbcd1ef9ab7dc436/12dae/image.jpg 200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/dd735/image.jpg 400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/5387a/image.jpg 800w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/72446/image.jpg 1200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/0bf02/image.jpg 1600w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/0313c/image.jpg 2400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/e8e8c/image.jpg 6000w",
+                    "srcWebp": "/static/b74736d55f52686fbbcd1ef9ab7dc436/97f69/image.webp",
+                    "srcSetWebp": "/static/b74736d55f52686fbbcd1ef9ab7dc436/71432/image.webp 200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/0b198/image.webp 400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/97f69/image.webp 800w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/e23e5/image.webp 1200w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/48630/image.webp 1600w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/76f7c/image.webp 2400w,\n/static/b74736d55f52686fbbcd1ef9ab7dc436/d4c51/image.webp 6000w",
+                    "sizes": "(max-width: 800px) 100vw, 800px"
+                  }
+                }
+              ]
+            }
           }
         },
         "source": "posts"
@@ -7667,7 +7438,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2810d43d2dca60812ddb0f5a4e4aa6e9",
+        "contentDigest": "30fc71b4d0d57e8d38186679262b5964",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -8026,9 +7797,9 @@
             "source": "posts"
           },
           "frontmatter": {
-            "title": "Yeni Risk Değerlendirme Teorileri",
+            "title": "Basit Regresyon Uygulamalı Varsayım Testi",
             "tags": [
-              "eviews, regresyon analizi,"
+              "eviews, Jarge-Bera, EKK"
             ],
             "cover": null
           }
@@ -8074,7 +7845,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ede5ca1f2c8cb1a5cee05da0bcd1ed85",
+        "contentDigest": "5d05e362683e8256014a9eac39ecb47a",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -8200,7 +7971,7 @@
                 "source": "posts"
               },
               "frontmatter": {
-                "title": "Türkiyenin Marjinal Tüketim Eğilimi",
+                "title": "Türkiyenin Marjinal Tüketim Egilimi",
                 "tags": [
                   "eviews, regresyon analizi,"
                 ],
@@ -8219,22 +7990,6 @@
                     }
                   ]
                 }
-              }
-            }
-          },
-          {
-            "node": {
-              "id": "2c0bc12d-c0a9-5389-8a00-2ef51195ddd7",
-              "excerpt": "",
-              "fields": {
-                "slug": "/hikaye-devam/",
-                "prefix": "2019-05-11",
-                "source": "posts"
-              },
-              "frontmatter": {
-                "title": "",
-                "tags": null,
-                "cover": null
               }
             }
           },
@@ -8335,32 +8090,7 @@
                 }
               }
             }
-          }
-        ]
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
-      "id": "SitePage /",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5e940fb6c810d1bb52647f1d24c0d502",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /2": {
-      "jsonName": "2-de0",
-      "internalComponentName": "Component2",
-      "path": "/2",
-      "component": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
-      "componentChunkName": "component---src-templates-index-js",
-      "context": {
-        "numPages": 2,
-        "currentPage": 2,
-        "initialPosts": [
+          },
           {
             "node": {
               "id": "63452099-ddfc-56f3-8669-8b4fa1759b8d",
@@ -8392,7 +8122,32 @@
                 }
               }
             }
-          },
+          }
+        ]
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "07ebdb00c75349b1ea5eac5bea900f9c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /2": {
+      "jsonName": "2-de0",
+      "internalComponentName": "Component2",
+      "path": "/2",
+      "component": "C:/Users/ibrah/Documents/blog/src/templates/index.js",
+      "componentChunkName": "component---src-templates-index-js",
+      "context": {
+        "numPages": 2,
+        "currentPage": 2,
+        "initialPosts": [
           {
             "node": {
               "id": "da99f803-df22-5c70-8bcb-47446c186d6f",
@@ -8470,9 +8225,9 @@
                 "source": "posts"
               },
               "frontmatter": {
-                "title": "Yeni Risk Değerlendirme Teorileri",
+                "title": "Basit Regresyon Uygulamalı Varsayım Testi",
                 "tags": [
-                  "eviews, regresyon analizi,"
+                  "eviews, Jarge-Bera, EKK"
                 ],
                 "cover": null
               }
@@ -8488,7 +8243,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bce01f4443b86ef8f1d7cc2a5d93752f",
+        "contentDigest": "a2ca9ca1e70e59c7f7995d31cd0894ae",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -8611,6 +8366,92 @@
         "contentDigest": "d4099fc9becb64905b105bb1eb6f9ff8",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/eviews-jarge-bera-ekk/": {
+      "jsonName": "tag-eviews-jarge-bera-ekk-8e2",
+      "internalComponentName": "ComponentTagEviewsJargeBeraEkk",
+      "path": "/tag/eviews-jarge-bera-ekk/",
+      "component": "C:/Users/ibrah/Documents/blog/src/templates/TagTemplate.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "eviews, Jarge-Bera, EKK"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "C:/Users/ibrah/Documents/blog/src/templates/TagTemplate.js",
+      "id": "SitePage /tag/eviews-jarge-bera-ekk/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bb65a4e04a09c2555cfa42cc14f9d109",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "97c99610-d026-5ecb-a184-76d38a07ed47": {
+      "id": "97c99610-d026-5ecb-a184-76d38a07ed47",
+      "children": [],
+      "parent": "42863eef-b26b-5d3b-8af5-a0a626d9ac21",
+      "internal": {
+        "content": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "96f9ef73d4075cb7382a4612730eea0f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Türkiyenin Marjinal Tüketim Egilimi",
+        "tags": [
+          "eviews, regresyon analizi,"
+        ],
+        "cover": "image.jpg",
+        "author": "İbrahim Karavaş"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "## Burada Eview's ile bir genel uygulamalı bir ekonomi analizi yapacağız\r\nBaşlıkta söylenildiği gibi bir analiz için  [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\r\n\r\n\r\n**Adım adım regresyone analizini takip edin?**\r\n\r\n>Bu ceteris paribus'tur. Bu hakim neoliberal paradigmanın mihenk taşıdır. (daha sonra buna değineceğiz.)\r\n\r\n\r\n\r\n*Eviews üzerinden uygulama gösterelim; İleride göreceksiniz ki bir    sosyal bilim olan iktisadın diğerlerinin aksine cebirsel olarak ifade edilmesi sizi şaşırtacaktır.*\r\n\r\n![image](image.jpg)\r\n![image2](image2.jpg)\r\n\r\n",
+      "fileAbsolutePath": "C:/Users/ibrah/Documents/blog/content/posts/2019-05-12--basit-regresyon-devam/index.md",
+      "fields": {
+        "slug": "/basit-regresyon-devam/",
+        "prefix": "2019-05-12",
+        "source": "posts"
+      }
+    },
+    "1b723611-1a6d-5294-b19f-6a6648258228": {
+      "id": "1b723611-1a6d-5294-b19f-6a6648258228",
+      "children": [],
+      "parent": "4897aa78-f1e0-563e-bf43-209a10ff7842",
+      "internal": {
+        "content": "\n## Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır.**\n\n**Command kısmına aşağıdakileri yazın**\n     ls prc c prcy\n\n- **ls** : EKK (En küçük kareler yöntemi)\n- **prc** : kişi başı tüketim\n- **pry** : kişi başı gelir\n- **ls** komutu ile tahmin ediyoruz.\n- **plot** komutu ile grafik oluşturuyoruz.\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n\n### Varsayımları Test\n> Ekk yaparken katsayılara ve hata terimine ilişkin varsayımları test ederiz. Aksi taktirde yapılan bu ekk'nın öngürüleri hatalı, saplamalı ve bilimsel olmaz.\n\n## Hata Terimine İlişkin Varsayımlar\n\nVarsayım 1 : Hata teriminin beklenen değeri 0'dır.\n$$\n  𝐸(𝑈_𝑖 )=0\n  $$\n\nBu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**\n\n![eq](image2.jpg)\n\n> Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;\n\n    H0 : Hatalar Normal Dağılmıştır.\n    H1 : Aksi durum\nBu durumda **Jarge-Bera** testinin prob değerinin **0.48** olarak görüyoruz, h0 hipotezini reddedemediğimiz için boş hipotez geçerli olur ve varsayımın geçerliliği sağlanmış olur.\n\nVarsayım 2 : Hata teriminin varyansı sabittir.",
+        "type": "MarkdownRemark",
+        "contentDigest": "1e4a0df04ebb71c0b47a8686965c1c53",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin",
+          "source": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Basit Regresyon Uygulamalı Varsayım Testi",
+        "tags": [
+          "eviews, Jarge-Bera, EKK"
+        ],
+        "cover": "image.jpg",
+        "author": "İbrahim Karavaş"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Genel Analize Devam\n\nBaşlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sharepoint.com/:f:/g/personal/ikaravas_ogr_iu_edu_tr/EknRAqmsuc1Mu3U07ztAp60Be-Mowmup14pXbTAKuagtDQ?e=RPck1U) kullanacağımız eviews dosyasını indir.\n\n> CDS primleri için gerekli tarihsel data için yukarudaki linki indirin. **Eğer ki eviews programı elinizde yoksa, geçmiş postta eviews enterprise sürümü kurulum rehberi vardır.**\n\n**Command kısmına aşağıdakileri yazın**\n     ls prc c prcy\n\n- **ls** : EKK (En küçük kareler yöntemi)\n- **prc** : kişi başı tüketim\n- **pry** : kişi başı gelir\n- **ls** komutu ile tahmin ediyoruz.\n- **plot** komutu ile grafik oluşturuyoruz.\n\n![image](eq1.jpg)\n\n    PRC = -8.27438603899 + 0.762958525302*PRY\n**EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.\n\n>Zaten bilimin tadı da burada değilmi? Renkler ve zevkler tartışılmaz diye genel bir ön kabul vardır yani,bunu tattıktan sonra haz almak, bu alanda küresel çapta en iyi olmak için bir kilometre taşı rolü oynamaktadır.\n\n### Varsayımları Test\n> Ekk yaparken katsayılara ve hata terimine ilişkin varsayımları test ederiz. Aksi taktirde yapılan bu ekk'nın öngürüleri hatalı, saplamalı ve bilimsel olmaz.\n\n## Hata Terimine İlişkin Varsayımlar\n\nVarsayım 1 : Hata teriminin beklenen değeri 0'dır.\n$$\n  𝐸(𝑈_𝑖 )=0\n  $$\n\nBu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**\n\n![eq](image2.jpg)\n\n> Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;\n\n    H0 : Hatalar Normal Dağılmıştır.\n    H1 : Aksi durum\nBu durumda **Jarge-Bera** testinin prob değerinin **0.48** olarak görüyoruz, h0 hipotezini reddedemediğimiz için boş hipotez geçerli olur ve varsayımın geçerliliği sağlanmış olur.\n\nVarsayım 2 : Hata teriminin varyansı sabittir.",
+      "fileAbsolutePath": "C:\\Users\\ibrah\\Documents\\blog\\content\\posts\\2019-04-05--yeni-risk-değerleme-teorileri\\index.md",
+      "fields": {
+        "slug": "/yeni-risk-değerleme-teorileri/",
+        "prefix": "2019-04-05",
+        "source": "posts"
       }
     }
   },
@@ -8872,45 +8713,47 @@
         "/tag/i-made-thing/",
         "/tag/web/",
         "/tag/metafizik-deneme/",
-        null
+        null,
+        "/tag/eviews-jarge-bera-ekk/"
       ]
     }
   },
   "jsonDataPaths": {
     "sq--src-components-footer-footer-js": 1074695665,
     "search-a73": "503/path---search-a-73-83d-VgjA19YAhk7fuI0xgLoZIV244",
-    "tags-275": "783/path---tags-275-fc0-mkUUGX0UqNONZyrdMcUsfGGZFc",
+    "tags-275": "734/path---tags-275-fc0-MDx2cLrqmf9OVjUg6iATbRYaM",
     "success-ca5": "580/path---success-ca-5-7fb-ZHbSaR6K6q3XDEzl4TvDjh7e7Y",
     "about-f34": "787/path---about-f-34-4c2-cxuaypjIWlqtnq4UAEPyZVw50",
-    "eviews-10-kurulum-8e8": "145/path---eviews-10-kurulum-8-e-8-f3d-H3HIrKiThFqxc9E6tqc39tYhBjk",
+    "eviews-10-kurulum-8e8": "193/path---eviews-10-kurulum-8-e-8-f3d-s8JKpqpajmzcRHLR7igngDwkh8",
     "ekonometri-nedir-1c6": "722/path---ekonometri-nedir-1-c-6-380-iWG8mQXgtwP6hnOXaQkDYyqbT0w",
     "basit-regresyon-945": "635/path---basit-regresyon-945-f9b-qdgzhQLWtixO69oGK2QX9x8Uvho",
     "stop-bikeshedding-ai-ethics-9b7": "356/path---stop-bikeshedding-ai-ethics-9-b-7-e21-BYnqR5JkrC7E8cw3c3ohDtkGog",
     "sq--src-components-hero-hero-js": 1859683609,
     "tag-eviews-10-b3b": "31/path---tag-eviews-10-b-3-b-c03-Z6IVqBwo1VcD9mLLVF1s2ERudE",
-    "how-this-blog-is-made-445": "444/path---how-this-blog-is-made-445-43a-vjrK2123LhQTgIGuGo9Iszntwnc",
+    "how-this-blog-is-made-445": "569/path---how-this-blog-is-made-445-43a-hf9ODe7x4rCOe1uRxgYS2gZgR8",
     "tag-yazilim-4d7": "263/path---tag-yazilim-4-d-7-b62-4F0aEA13QdsYRPpbWALLzhDD24",
     "tag-econometrics-19d": "693/path---tag-econometrics-19-d-b88-evxRaPDbMdFnvcwrp0aUwYX0Jw4",
-    "tag-eviews-regresyon-analizi-07a": "13/path---tag-eviews-regresyon-analizi-07-a-7aa-2XMTPUmrZDfe5yi09bzi3aLfcc",
+    "tag-eviews-regresyon-analizi-07a": "543/path---tag-eviews-regresyon-analizi-07-a-7aa-7zO4kOBsMjCPfrIBMKUmZeqY0",
     "tag-testimonies-db0": "223/path---tag-testimonies-db-0-73d-g74HMflNKSnymuAnlzjXY8TYjrw",
     "tag-ai-70f": "78/path---tag-ai-70-f-e46-kKCS69nHh2sRitWPbv0r34PYrE",
     "tag-whataboutism-817": "995/path---tag-whataboutism-817-2de-wWGDwN9eLM3jUrvYA4yCdjxH9o",
     "tag-meta-f1c": "982/path---tag-meta-f-1-c-0a8-W82ModcH5RA0Jbu8vHJbLtMM",
     "tag-i-made-thing-f54": "0/path---tag-i-made-thing-f-54-264-XmoyVMQqL4RDwo8W3roOYeKmIk4",
     "tag-web-aac": "934/path---tag-web-aac-17d-Ba20H1cXO0y6QxHsUFXxce5DZY",
-    "index": "378/path---index-6a9-S1rZ1lvYqs2WQ2IwXFN4slqhzw",
+    "index": "127/path---index-6a9-V5OEqDDOzcQbh8tzTCXVg3tz0Q",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "follow-bd0": "167/path---follow-bd-0-1be-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "tag-metafizik-deneme-acb": "191/path---tag-metafizik-deneme-acb-acb-wkTuZcqKWc89QZA51TsCjEtYkU",
-    "2-de0": "557/path---2-de-0-e4c-Sh0TuujNmvY6fF65I1ZwzBN2E0",
-    "bir-hikaye-16c": "670/path---bir-hikaye-16-c-b65-rGiLSQoi04HhpHvv0A71YhmyIqo",
-    "basit-regresyon-devam-bd4": "813/path---basit-regresyon-devam-bd-4-7e6-bw938ylL1o8CJYTSST7KC2S1dU",
+    "2-de0": "392/path---2-de-0-e4c-AnYqvCJknNAR4zOxQDDuW0k4nw4",
+    "bir-hikaye-16c": "952/path---bir-hikaye-16-c-b65-tIB8hZz9klkX5PXdvvFdinyH0",
+    "basit-regresyon-devam-bd4": "179/path---basit-regresyon-devam-bd-4-7e6-qv5HnXLMEkNlTUJGVZqcFsmdPQ",
     "hikaye-devam-126": "792/path---hikaye-devam-126-d3a-ZLQFpN19eCFe4rOuibGlxeRG6Q",
     "yeni-risk-degerleme-teorileri-index-2-eef": "742/path---yeni-risk-degerleme-teorileri-index-2-eef-df5-DPa4GpmNJcHy7lHcjoOL2irbOhA",
-    "yeni-risk-degerleme-teorileri-631": "154/path---yeni-risk-degerleme-teorileri-631-980-OB4nL2SHO6XJ0Qv0uhpQX4p3p8"
+    "yeni-risk-degerleme-teorileri-631": "215/path---yeni-risk-degerleme-teorileri-631-980-paH0CqFq61EjssE2feHIHF1I0vU",
+    "tag-eviews-jarge-bera-ekk-8e2": "559/path---tag-eviews-jarge-bera-ekk-8-e-2-01d-0F8LtOHK5xsWiRk7K8YJ9bYdCRA"
   },
   "components": {
     "C:/Users/ibrah/Documents/blog/src/templates/TagTemplate.js": {

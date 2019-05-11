@@ -1,11 +1,8 @@
 ﻿---
 
-title: Yeni Risk Değerlendirme Teorileri
-
-tags: ["eviews, regresyon analizi,"]
-
+title: Basit Regresyon Uygulamalı Varsayım Testi
+tags: ["eviews, Jarge-Bera, EKK"]
 cover: image.jpg
-
 author: İbrahim Karavaş
 
 ---
