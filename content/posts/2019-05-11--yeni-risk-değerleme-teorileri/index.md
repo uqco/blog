@@ -35,6 +35,7 @@ Başlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sh
 ## Hata Terimine İlişkin Varsayımlar
 
 Varsayım 1 : Hata teriminin beklenen değeri 0'dır.
+
 $$
   𝐸(𝑈_𝑖 )=0
   $$
