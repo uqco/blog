@@ -28,7 +28,7 @@ Bir regreyon serisi eşanlı değilse tahmin yapılamaz. Neden? Eşanlı olsa da
 
 Bu ekk tahmininin sonuçları şöyle olur;
 
-![equation](equation.jpg)
+![tahmin](equation.jpg)
 
 Zaten regresyon tahmininde görüldüğü gibi gerek iktisadi gerekse de ekonometrik olarak hataları olduğu görülmektedir. Ne varsayımlar test edildi, ne de değişkenler test edildi. Bizim bu yazıda ki meselemiz eşanlılığı anlamaktır. 
 
