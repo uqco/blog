@@ -22,7 +22,7 @@ Başlıkta söylenildiği gibi bir analiz için [**burada**](https://iuedu-my.sh
 - **ls** komutu ile tahmin ediyoruz.
 - **plot** komutu ile grafik oluşturuyoruz.
 
-![image](eq1.jpg)
+![image](eq1.JPG)
 
     PRC = -8.27438603899 + 0.762958525302*PRY
 **EKK** yaparak burada ekonometrik olarak **|C=a+cY|** tüketim fonksiyonunu sınıyoruz. Bu denklemi sınamamızın en büyük nedeni yanlışlaması çok zor olduğu için kanun niteliği taşıyon denlemleri en az hata ile tahmin etmektir.
@@ -41,7 +41,7 @@ $$
 
 Bu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**
 
-![eq](image2.JPG)
+![eq](image2.jpg)
 
 > Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;
 
