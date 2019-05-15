@@ -1,4 +1,4 @@
-﻿---
+---
 
 title: Basit Regresyon Uygulamalı Varsayım Testi
 tags: ["eviews, Jarge-Bera, EKK"]
