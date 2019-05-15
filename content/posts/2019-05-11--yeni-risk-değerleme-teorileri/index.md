@@ -41,7 +41,7 @@ $$
 
 Bu varsayım Normallik varsayımı'da denebilir. Testi gerçekleştirmek için ilk resimde gördğünüz regresyon tahmini üzerinden ****sırayla View-> Residual Diagnostic-> Histogram-Normality kısmına girin.**
 
-![eq](image2.jpg)
+![eq](image2.JPG)
 
 > Her varsayımın bir boş hipotezi vardır. Normallik varsayımında kritik olarak aldığımız **Jarge-Bera** testinin **H0** hipotezi şöyledir;
 
