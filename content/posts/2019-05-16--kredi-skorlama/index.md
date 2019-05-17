@@ -100,7 +100,7 @@ Analiz sonuçlarına göre üçüncü sırayı ise 0,400 katsayı ile KKB’den 
 
 > Veri Madenciliği kredi skorlamada günden güne finansal camiada saygı görmeye başlamıştır. İnovatif skorlama şirketleri ile birlikte yeni değişkenlerin eklenmesi  yüksek tahmin değerlerine sahip kredi skor raporlarını çok uluslu şirketler ve finans dünyası tarafından çok cazibeli hale getirmektedir.
 
-![krediskor](image10.jpg)
+![krediskor](image10.JPG)
 
 Kaynaklar
 
