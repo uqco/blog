@@ -1,6 +1,6 @@
 ---
 
-title: Kimlik Meselesi |gazetecilik| Medya Etiği Üzerine
+title: Kimlik Meselesi |gazetecilik| Medya Etik'i Üzerine
 tags: ["deneme, ethics, media"]
 cover: image.jpg
 author: İbrahim Karavaş
